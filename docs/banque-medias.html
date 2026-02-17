@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Banque médias</title><link rel="stylesheet" href="../assets/css/app.css"></head>
+<body data-base="../" data-page="docs/index.html">
+<main>
+<section class="card"><h2>Banque médias inspectable</h2><p>Inventaire des médias locaux utilisés par les séquences/capsules.</p></section>
+<section id="mediaList" class="list"></section>
+<section class="card"><h3>Diagnostic technique (dev)</h3><ul id="techDiagnostics"></ul></section>
+</main>
+<script src="../assets/js/common.js"></script>
+<script src="../assets/js/loaders.js"></script>
+<script>
+(async function(){
+  const data = await loadData('../data/media.json','media',[]);
+  const root = document.getElementById('mediaList');
+  root.innerHTML = data.map(m => `<article class="card"><h3>${m.title}</h3><img src="../${m.src}" alt="${m.alt}" style="max-width:260px"><p>${m.alt}</p><p><strong>Crédit:</strong> ${m.credit}</p><p>${(m.tags||[]).map(t=>`<span class='badge'>${t}</span>`).join('')}</p></article>`).join('');
+})();
+</script>
+</body>
+</html>

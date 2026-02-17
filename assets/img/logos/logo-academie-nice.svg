@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="Académie de Nice">
+  <rect width="240" height="80" fill="#ffffff" stroke="#cbd5e1"/>
+  <polygon points="35,16 52,64 18,64" fill="#7c3aed"/>
+  <text x="74" y="36" font-size="17" font-family="Arial, sans-serif" fill="#0f172a">Académie</text>
+  <text x="74" y="56" font-size="14" font-family="Arial, sans-serif" fill="#334155">de Nice</text>
+</svg>

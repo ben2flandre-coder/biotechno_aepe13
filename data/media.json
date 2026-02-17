@@ -1,0 +1,155 @@
+{
+  "media": [
+    {
+      "id": "IMG_RISK_SCHEMA",
+      "title": "Schéma contamination",
+      "src": "assets/img/schemas/schema-contamination.svg",
+      "alt": "Schéma contamination croisée",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "risques",
+        "schema"
+      ]
+    },
+    {
+      "id": "IMG_BIO_BASE",
+      "title": "Flore microbienne",
+      "src": "assets/img/schemas/flore-microbienne.svg",
+      "alt": "Flore microbienne utile et opportuniste",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "microbiologie"
+      ]
+    },
+    {
+      "id": "IMG_HYGIENE_VISUAL",
+      "title": "Illustration hygiène",
+      "src": "assets/img/hygiene/hygiene-illustration.svg",
+      "alt": "Illustration hygiène",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "hygiene"
+      ]
+    },
+    {
+      "id": "IMG_PROTO_BASE",
+      "title": "Illustration protocoles",
+      "src": "assets/img/protocoles/protocoles-illustration.svg",
+      "alt": "Illustration protocoles",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "protocoles"
+      ]
+    },
+    {
+      "id": "IMG_CHIMIE_BASE",
+      "title": "Illustration chimie",
+      "src": "assets/img/chimie/chimie-illustration.svg",
+      "alt": "Illustration chimie",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "chimie"
+      ]
+    },
+    {
+      "id": "IMG_PH_SCHEMA",
+      "title": "pH",
+      "src": "assets/img/chimie/chimie-illustration.svg",
+      "alt": "Échelle de pH simplifiée",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "ph"
+      ]
+    },
+    {
+      "id": "IMG_WATER_BASE",
+      "title": "Chimie eau",
+      "src": "assets/img/chimie/chimie-illustration.svg",
+      "alt": "Chimie de l'eau",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "eau"
+      ]
+    },
+    {
+      "id": "IMG_SOIL_TYPES",
+      "title": "Types salissures",
+      "src": "assets/img/protocoles/protocoles-illustration.svg",
+      "alt": "Types de salissures",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "salissures"
+      ]
+    },
+    {
+      "id": "IMG_SOIL_LEVELS",
+      "title": "Niveaux salissures",
+      "src": "assets/img/protocoles/protocoles-illustration.svg",
+      "alt": "Niveaux de salissures",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "salissures"
+      ]
+    },
+    {
+      "id": "IMG_SINNER",
+      "title": "Cercle de Sinner",
+      "src": "assets/img/schemas/chaine-transmission.svg",
+      "alt": "Représentation schématique d'un cercle de paramètres",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "sinner"
+      ]
+    },
+    {
+      "id": "IMG_VANTHOFF",
+      "title": "Van't Hoff",
+      "src": "assets/img/chimie/chimie-illustration.svg",
+      "alt": "Influence de la température sur la vitesse de réaction",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "chimie"
+      ]
+    },
+    {
+      "id": "IMG_MATERIALS",
+      "title": "Matériaux",
+      "src": "assets/img/protocoles/protocoles-illustration.svg",
+      "alt": "Compatibilité matériaux/produits",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "materiaux"
+      ]
+    },
+    {
+      "id": "IMG_BIONET",
+      "title": "Bionettoyage",
+      "src": "assets/img/schemas/schema-contamination.svg",
+      "alt": "Étapes de bionettoyage",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "bionettoyage"
+      ]
+    },
+    {
+      "id": "IMG_CLEAN_METHOD",
+      "title": "Méthodes nettoyage",
+      "src": "assets/img/hygiene/hygiene-illustration.svg",
+      "alt": "Méthodes de nettoyage",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "nettoyage"
+      ]
+    },
+    {
+      "id": "IMG_EVAL",
+      "title": "Évaluations",
+      "src": "assets/img/alimentaire/alimentaire-illustration.svg",
+      "alt": "Évaluation des acquis",
+      "credit": "Création interne CAP AEPE 2026",
+      "tags": [
+        "evaluation"
+      ]
+    }
+  ]
+}

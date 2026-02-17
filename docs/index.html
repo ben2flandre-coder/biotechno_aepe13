@@ -12,45 +12,41 @@
     <h2>Structure arborescence</h2>
     <pre>/
 ├── index.html
+├── sequences.html
 ├── parcours.html
 ├── connaissances.html
 ├── entrainement.html
 ├── diagnostic.html
-├── docs/index.html
+├── docs/{index,credits,banque-medias}.html
 ├── assets/css/app.css
-├── assets/js/*.js
-├── assets/media/{logos,diagrams,bank}
-├── data/{capsules,notions,questions,diagnostic}.json
-└── README.md</pre>
+├── assets/js/*.js (+ sequences.js)
+├── assets/img/{logos,schemas,microbiologie,hygiene,chimie,protocoles,linge,alimentaire}
+├── data/{capsules,notions,questions,diagnostic,sequences,media}.json
+└── QA_REPORT.md</pre>
   </section>
   <section class="card">
     <h2>Description JSON (schémas)</h2>
     <ul>
-      <li><strong>capsules.json</strong> : id, title, macro, summary, objectif, level, content, redflags[], tags[], media[].</li>
-      <li><strong>notions.json</strong> : id, title, domain, summary, content, tags[].</li>
+      <li><strong>sequences.json</strong> : 15 séquences officielles (objectif, essentiel, protocoles, redflags, casPro, quiz, références, media[]).</li>
+      <li><strong>media.json</strong> : {id,title,src,alt,credit,tags} utilisé dans les écrans et docs.</li>
       <li><strong>questions.json</strong> : q, options[4], answer(0-3), explain, domain.</li>
       <li><strong>diagnostic.json</strong> : q, options, answer (optionnel), domain.</li>
     </ul>
   </section>
   <section class="card">
-    <h2>Process d'ajout de contenu</h2>
-    <ol>
-      <li>Ajouter l'élément JSON dans le fichier concerné.</li>
-      <li>Renseigner au minimum les champs titre, résumé, domaine/macro et contenu.</li>
-      <li>Associer un média local si pertinent via <code>assets/media/**</code>.</li>
-      <li>Vérifier l'affichage avec recherche + overlay + correction/calcul.</li>
-    </ol>
-  </section>
-  <section class="card">
-    <h2>Déploiement GitHub Pages</h2>
-    <p>Branche <code>main</code>, racine du dépôt (<code>/</code>). Le code n'utilise aucune dépendance réseau et respecte les chemins relatifs.</p>
+    <h2>Pages inspectables</h2>
+    <ul>
+      <li><a href="../sequences.html">15 séquences (Version Benoît)</a></li>
+      <li><a href="credits.html">Crédits & sources</a></li>
+      <li><a href="banque-medias.html">Banque médias</a></li>
+    </ul>
   </section>
   <section class="card">
     <h2>Conformité</h2>
     <ul>
       <li>Aucun tracker, cookie analytique ou appel externe obligatoire.</li>
       <li>Aucune donnée personnelle collectée ou stockée.</li>
-      <li>Site statique inspectable (HTML/CSS/JS vanilla).</li>
+      <li>Site statique inspectable (HTML/CSS/JS vanilla), robuste aux JSON manquants via fallback.</li>
     </ul>
   </section>
   <section class="card">
@@ -64,15 +60,12 @@
   <section class="card">
     <h2>Historique incidents & RCA</h2>
     <table class="table">
-      <thead><tr><th>Incident</th><th>Symptom</th><th>Root cause</th><th>Corrective action V1</th><th>Preventive controls</th></tr></thead>
+      <thead><tr><th>Incident</th><th>Symptom</th><th>Root cause</th><th>Corrective action V1.1</th><th>Preventive controls</th></tr></thead>
       <tbody>
-        <tr><td>Pages vides</td><td>Affichage texte brut, pas d'UI exploitable</td><td>Markdown renommé en .html</td><td>Réécriture complète en documents HTML valides</td><td>Contrôle manuel balises html/head/body et rendu navigateur</td></tr>
-        <tr><td>Runtime manquant</td><td>Styles/scripts absents, erreurs console</td><td>Références CSS/JS non livrées</td><td>Création et câblage de tous les fichiers runtime requis</td><td>Checklist 404 + test ouverture de chaque page</td></tr>
-        <tr><td>Assets non utilisés</td><td>Branding/visuel incohérent</td><td>Fichiers présents mais non branchés</td><td>Injection systématique logos et médias dans header/footer/pages</td><td>Revue croisée références HTML/CSS/JS</td></tr>
-        <tr><td>Arborescence cassée</td><td>Chemins impossibles, fichiers introuvables</td><td>Dossiers parasites avec accolades</td><td>Arborescence strictement conforme au manifeste</td><td>Audit via arbre de fichiers en CI locale</td></tr>
-        <tr><td>Docs absentes</td><td>404 sur /docs/</td><td>Dossier annoncé non livré</td><td>Création docs/index.html complet et navigable</td><td>Lien docs vérifié dans nav et check release</td></tr>
-        <tr><td>Branding manquant</td><td>Absence de logos et mentions institutionnelles</td><td>Footer non standardisé</td><td>Footer commun présent sur toutes pages avec 3 logos</td><td>Point QA dédié "logos visibles partout"</td></tr>
-        <tr><td>JSON non consommés</td><td>Coquille vide malgré données existantes</td><td>Absence de loaders/fallback robustes</td><td>Loaders tolérants format A/B + fallback riche</td><td>Test parse JSON et test fonctionnel par page</td></tr>
+        <tr><td>Pages vides (AEPE12)</td><td>UI sans contenus réels</td><td>Données non branchées / fetch fragile</td><td>Ajout module séquences + fallbacks + diagnostic technique</td><td>Vérification de charge JSON + bloc fallback visible</td></tr>
+        <tr><td>Logos/crédits absents</td><td>Branding institutionnel manquant</td><td>Footer non uniformisé</td><td>Header/footer globaux + docs/credits.html</td><td>Checklist QA item dédié</td></tr>
+        <tr><td>Banque médias non injectée</td><td>Médias présents mais non exploités</td><td>Absence de registre media</td><td>data/media.json + docs/banque-medias + rendu dans séquences</td><td>Contrôle d'intégrité IDs média</td></tr>
+        <tr><td>Chemins GitHub Pages</td><td>404 aléatoires selon base path</td><td>Chemins absolus/non robustes</td><td>Chemins relatifs + cache-buster léger</td><td>Test sous serveur statique local</td></tr>
       </tbody>
     </table>
   </section>

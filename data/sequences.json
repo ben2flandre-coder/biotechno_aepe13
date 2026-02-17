@@ -1,0 +1,589 @@
+{
+  "sequences": [
+    {
+      "id": "S01",
+      "title": "Évaluation des risques",
+      "objectif": "Maîtriser les fondamentaux de « Évaluation des risques » en contexte AEPE.",
+      "essentiel": "Points clés de Évaluation des risques appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Évaluation des risques : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Évaluation des risques lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Évaluation des risques : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq01"
+      ],
+      "media": [
+        "IMG_RISK_SCHEMA"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Dangers chimiques & biologiques",
+      "objectif": "Maîtriser les fondamentaux de « Dangers chimiques & biologiques » en contexte AEPE.",
+      "essentiel": "Points clés de Dangers chimiques & biologiques appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Dangers chimiques & biologiques : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Dangers chimiques & biologiques lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Dangers chimiques & biologiques : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq02"
+      ],
+      "media": [
+        "IMG_BIO_BASE"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "EPI / EPC",
+      "objectif": "Maîtriser les fondamentaux de « EPI / EPC » en contexte AEPE.",
+      "essentiel": "Points clés de EPI / EPC appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour EPI / EPC : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer EPI / EPC lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "EPI / EPC : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq03"
+      ],
+      "media": [
+        "IMG_HYGIENE_VISUAL"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Matériel & protocoles",
+      "objectif": "Maîtriser les fondamentaux de « Matériel & protocoles » en contexte AEPE.",
+      "essentiel": "Points clés de Matériel & protocoles appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Matériel & protocoles : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Matériel & protocoles lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Matériel & protocoles : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq04"
+      ],
+      "media": [
+        "IMG_PROTO_BASE"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Produits & désinfectants",
+      "objectif": "Maîtriser les fondamentaux de « Produits & désinfectants » en contexte AEPE.",
+      "essentiel": "Points clés de Produits & désinfectants appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Produits & désinfectants : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Produits & désinfectants lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Produits & désinfectants : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq05"
+      ],
+      "media": [
+        "IMG_CHIMIE_BASE"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Échelle de pH",
+      "objectif": "Maîtriser les fondamentaux de « Échelle de pH » en contexte AEPE.",
+      "essentiel": "Points clés de Échelle de pH appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Échelle de pH : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Échelle de pH lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Échelle de pH : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq06"
+      ],
+      "media": [
+        "IMG_PH_SCHEMA"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Chimie de l’eau",
+      "objectif": "Maîtriser les fondamentaux de « Chimie de l’eau » en contexte AEPE.",
+      "essentiel": "Points clés de Chimie de l’eau appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Chimie de l’eau : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Chimie de l’eau lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Chimie de l’eau : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq07"
+      ],
+      "media": [
+        "IMG_WATER_BASE"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Types de salissures",
+      "objectif": "Maîtriser les fondamentaux de « Types de salissures » en contexte AEPE.",
+      "essentiel": "Points clés de Types de salissures appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Types de salissures : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Types de salissures lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Types de salissures : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq08"
+      ],
+      "media": [
+        "IMG_SOIL_TYPES"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Niveaux de salissures",
+      "objectif": "Maîtriser les fondamentaux de « Niveaux de salissures » en contexte AEPE.",
+      "essentiel": "Points clés de Niveaux de salissures appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Niveaux de salissures : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Niveaux de salissures lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Niveaux de salissures : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq09"
+      ],
+      "media": [
+        "IMG_SOIL_LEVELS"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Cercle de Sinner",
+      "objectif": "Maîtriser les fondamentaux de « Cercle de Sinner » en contexte AEPE.",
+      "essentiel": "Points clés de Cercle de Sinner appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Cercle de Sinner : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Cercle de Sinner lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Cercle de Sinner : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq10"
+      ],
+      "media": [
+        "IMG_SINNER"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Loi de Van’t Hoff",
+      "objectif": "Maîtriser les fondamentaux de « Loi de Van’t Hoff » en contexte AEPE.",
+      "essentiel": "Points clés de Loi de Van’t Hoff appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Loi de Van’t Hoff : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Loi de Van’t Hoff lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Loi de Van’t Hoff : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq11"
+      ],
+      "media": [
+        "IMG_VANTHOFF"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Matériaux",
+      "objectif": "Maîtriser les fondamentaux de « Matériaux » en contexte AEPE.",
+      "essentiel": "Points clés de Matériaux appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Matériaux : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Matériaux lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Matériaux : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq12"
+      ],
+      "media": [
+        "IMG_MATERIALS"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Bionettoyage",
+      "objectif": "Maîtriser les fondamentaux de « Bionettoyage » en contexte AEPE.",
+      "essentiel": "Points clés de Bionettoyage appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Bionettoyage : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Bionettoyage lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Bionettoyage : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq13"
+      ],
+      "media": [
+        "IMG_BIONET"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Méthodes de nettoyage",
+      "objectif": "Maîtriser les fondamentaux de « Méthodes de nettoyage » en contexte AEPE.",
+      "essentiel": "Points clés de Méthodes de nettoyage appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Méthodes de nettoyage : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Méthodes de nettoyage lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Méthodes de nettoyage : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq14"
+      ],
+      "media": [
+        "IMG_CLEAN_METHOD"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Évaluations",
+      "objectif": "Maîtriser les fondamentaux de « Évaluations » en contexte AEPE.",
+      "essentiel": "Points clés de Évaluations appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
+      "protocoles": "Méthode standardisée pour Évaluations : préparation, réalisation, contrôle, traçabilité.",
+      "redflags": [
+        "Étape non tracée",
+        "Incohérence produit/support",
+        "Absence de contrôle visuel final"
+      ],
+      "casPro": "Cas pro : en salle d’accueil, appliquer Évaluations lors d’une situation de routine et justifier les choix.",
+      "quiz": [
+        {
+          "q": "Évaluations : quelle action est prioritaire ?",
+          "options": [
+            "Ignorer le protocole",
+            "Appliquer la méthode validée",
+            "Reporter sans signaler",
+            "Mélanger les produits"
+          ],
+          "answer": 1,
+          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
+        }
+      ],
+      "references": [
+        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "INRS",
+        "SBSSA Bordeaux"
+      ],
+      "tags": [
+        "bloc1",
+        "aepe",
+        "seq15"
+      ],
+      "media": [
+        "IMG_EVAL"
+      ]
+    }
+  ]
+}

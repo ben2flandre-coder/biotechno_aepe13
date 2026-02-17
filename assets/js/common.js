@@ -3,6 +3,7 @@
   const page = document.body.dataset.page || 'index.html';
   const links = [
     ['index.html', 'Accueil'],
+    ['sequences.html', '15 séquences'],
     ['parcours.html', 'Parcours capsules'],
     ['connaissances.html', 'Connaissances'],
     ['entrainement.html', 'Entraînement'],
@@ -10,19 +11,20 @@
     ['docs/index.html', 'Docs']
   ];
 
-  function pathTo(rel) { return `${base}${rel}`; }
+  const pathTo = (rel) => `${base}${rel}`;
+  const logoBase = 'assets/img/logos';
 
   const header = document.createElement('header');
   header.className = 'site-header';
   header.innerHTML = `<div class="topbar">
       <div class="brand">
         <h1>Biotechnologie — CAP AEPE</h1>
-        <p>Plateforme de formation adulte/pro en hygiène, microbiologie et protocoles.</p>
+        <p>Bloc 1 / EP3 · Plateforme de formation adulte/pro</p>
       </div>
       <div class="logos">
-        <img src="${pathTo('assets/media/logos/logo-republique.svg')}" alt="Logo République Française">
-        <img src="${pathTo('assets/media/logos/logo-greta-var.svg')}" alt="Logo GRETA du Var">
-        <img src="${pathTo('assets/media/logos/logo-academie-nice.svg')}" alt="Logo Académie de Nice">
+        <img src="${pathTo(`${logoBase}/logo-republique.svg`)}" alt="Logo République Française">
+        <img src="${pathTo(`${logoBase}/logo-greta-var.svg`)}" alt="Logo GRETA du Var">
+        <img src="${pathTo(`${logoBase}/logo-academie-nice.svg`)}" alt="Logo Académie de Nice">
       </div>
       <div class="controls">
         <button class="btn secondary" id="themeToggle">Thème</button>
@@ -34,13 +36,14 @@
 
   const footer = document.createElement('footer');
   footer.innerHTML = `<div class="logos">
-      <img src="${pathTo('assets/media/logos/logo-republique.svg')}" alt="Logo République Française">
-      <img src="${pathTo('assets/media/logos/logo-greta-var.svg')}" alt="Logo GRETA du Var">
-      <img src="${pathTo('assets/media/logos/logo-academie-nice.svg')}" alt="Logo Académie de Nice">
+      <img src="${pathTo(`${logoBase}/logo-republique.svg`)}" alt="Logo République Française">
+      <img src="${pathTo(`${logoBase}/logo-greta-var.svg`)}" alt="Logo GRETA du Var">
+      <img src="${pathTo(`${logoBase}/logo-academie-nice.svg`)}" alt="Logo Académie de Nice">
     </div>
-    <p><strong>Biotechnologie CAP AEPE</strong> — support de formation professionnelle.</p>
-    <p>Technique : site statique compatible GitHub Pages, sans tracking.</p>
-    <p><strong>Zéro donnée personnelle collectée.</strong></p>`;
+    <p><strong>Biotechnologie CAP AEPE</strong> — Formation professionnelle (Bloc 1 / EP3).</p>
+    <p>Technique : site statique GitHub Pages, sans tracking.</p>
+    <p><strong>Zéro donnée personnelle collectée.</strong></p>
+    <p><a href="${pathTo('docs/credits.html')}">Crédits & sources</a> · <a href="${pathTo('docs/banque-medias.html')}">Banque médias</a></p>`;
   document.body.append(footer);
 
   document.getElementById('themeToggle')?.addEventListener('click', () => {
@@ -52,15 +55,13 @@
     document.body.classList.toggle('projection');
   });
 
-  function setupOverlay() {
-    document.querySelectorAll('[data-overlay]').forEach((overlay) => {
-      overlay.addEventListener('click', (e) => {
-        if (e.target === overlay || e.target.closest('.close')) overlay.classList.remove('open');
-      });
+  document.querySelectorAll('[data-overlay]').forEach((overlay) => {
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay || e.target.closest('.close')) overlay.classList.remove('open');
     });
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') document.querySelectorAll('.overlay.open').forEach(o => o.classList.remove('open'));
-    });
-  }
-  setupOverlay();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') document.querySelectorAll('.overlay.open').forEach((o) => o.classList.remove('open'));
+  });
 })();

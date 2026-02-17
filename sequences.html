@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>15 séquences — CAP AEPE</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body data-base="./" data-page="sequences.html">
+<main>
+  <section class="card">
+    <h2>Version Benoît — 15 séquences</h2>
+    <p>Socle principal Bloc 1 / EP3 avec contenu opérationnel, quiz intégré et médias crédités.</p>
+    <div class="toolbar"><input id="searchSeq" type="search" placeholder="Filtrer par titre/tags"></div>
+    <div id="seqList" class="list"></div>
+  </section>
+  <section class="card">
+    <h3>Diagnostic technique (dev)</h3>
+    <ul id="techDiagnostics"></ul>
+  </section>
+  <div id="seqOverlay" class="overlay" data-overlay aria-modal="true" role="dialog">
+    <article class="dialog"><button class="close" aria-label="Fermer">✕</button><div id="seqBody"></div></article>
+  </div>
+</main>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/loaders.js"></script>
+<script src="assets/js/sequences.js"></script>
+</body>
+</html>
