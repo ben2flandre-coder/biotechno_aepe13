@@ -65,3 +65,10 @@ Le script vérifie :
 - Entraînement: 225 questions (inclut 30 avancées EP3 + 15 hiérarchisation).
 - Diagnostic: 45 items avec interprétation qualitative et orientation automatique vers séquences/notions.
 - Connaissances enrichies: tableaux comparatifs et schémas thématiques additionnels.
+
+
+## V3.1 consolidation experte pédagogique
+- Schémas cliquables + modal plein écran + zoom CSS + bouton `🔍 Agrandir` (JS vanilla).
+- QCM avec feedback expert en 4 blocs et boucle pédagogique sans rechargement (retour session inclus).
+- Connaissances: questions associées dynamiques par notion (3–5 IDs).
+- Lisibilité projection renforcée (espacement, taille boutons/textes, contrastes).

@@ -29,7 +29,7 @@
       const s = items.find((x) => x.id === btn.dataset.open);
       const mediaHtml = (s.media || []).map((id) => {
         const m = fullMedia(id);
-        return m ? `<figure><img src="${m.src}" alt="${m.alt}" style="max-width:290px"><figcaption>${m.credit}</figcaption></figure>` : '';
+        return m ? `<figure class="schema-figure"><img class="zoomable-img" src="${m.src}" alt="${m.alt}"><figcaption>${m.credit}</figcaption><button class="btn secondary zoom-btn" data-zoom-src="${m.src}" data-zoom-alt="${m.alt}">🔍 Agrandir</button></figure>` : '';
       }).join('');
 
       const rowsErr = (s.bloc6_tableauPedagogique || []).map((r) => `<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td></tr>`).join('');
@@ -43,7 +43,7 @@
 
       body.innerHTML = `
       <h2>${s.title}</h2>
-      <p><span class="badge">${s.stats?.wordCount || 0} mots utiles</span><span class="badge">4 schémas</span><span class="badge">3 tableaux</span></p>
+      <p><span class="badge">${s.stats?.wordCount || 0} mots utiles</span><span class="badge">${(s.media||[]).length} schémas</span><span class="badge">3 tableaux</span></p>
       <h3>1) Situation professionnelle concrète (EAJE / école maternelle)</h3>
       <ul><li>${s.bloc1_situationProfessionnelle?.situation1 || ''}</li><li>${s.bloc1_situationProfessionnelle?.situation2 || ''}</li></ul>
       <h3>2) Problème métier à résoudre</h3>${softParagraphs(s.bloc2_problemeMetier)}

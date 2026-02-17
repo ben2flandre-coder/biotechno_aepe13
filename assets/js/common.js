@@ -61,7 +61,38 @@
     });
   });
 
+  const mediaOverlay = document.createElement('div');
+  mediaOverlay.className = 'overlay media-overlay';
+  mediaOverlay.id = 'mediaOverlay';
+  mediaOverlay.innerHTML = `<article class="dialog media-dialog">
+      <button class="close" aria-label="Fermer">✕</button>
+      <div class="media-stage"><img id="mediaOverlayImg" alt="Agrandissement schéma"></div>
+    </article>`;
+  document.body.append(mediaOverlay);
+
+  const mediaImg = mediaOverlay.querySelector('#mediaOverlayImg');
+  const openMedia = (src, alt = '') => {
+    mediaImg.src = src;
+    mediaImg.alt = alt;
+    mediaOverlay.classList.add('open');
+  };
+
+  document.addEventListener('click', (e) => {
+    const trigger = e.target.closest('[data-zoom-src], .zoomable-img');
+    if (trigger) {
+      const src = trigger.dataset.zoomSrc || trigger.getAttribute('src');
+      const alt = trigger.dataset.zoomAlt || trigger.getAttribute('alt') || 'Schéma agrandi';
+      if (src) openMedia(src, alt);
+      return;
+    }
+    if (e.target === mediaOverlay || e.target.closest('#mediaOverlay .close')) {
+      mediaOverlay.classList.remove('open');
+    }
+  });
+
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') document.querySelectorAll('.overlay.open').forEach((o) => o.classList.remove('open'));
+    if (e.key === 'Escape') {
+      document.querySelectorAll('.overlay.open').forEach((o) => o.classList.remove('open'));
+    }
   });
 })();

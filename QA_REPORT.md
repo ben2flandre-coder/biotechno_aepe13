@@ -96,3 +96,18 @@ Captures:
 - médias ajoutés V3: learning=20, thème=18
 - visuels par séquence: >= 6 (vérifié par QA script)
 - placeholders supprimés: docs/index.html + README.md
+
+
+## V3.1 consolidation experte pédagogique
+- Schémas: affichage agrandi (80–90% conteneur), bouton `🔍 Agrandir`, ouverture modal plein écran, fermeture X/clic extérieur/Escape.
+- QCM: feedback en 4 blocs (réponse correcte, justification EP3/EAJE, distracteurs analysés, aller plus loin).
+- Boucle pédagogique active: QCM → notion associée (sans rechargement) → bouton retour à la session + scroll intelligent.
+- Connaissances: section “Questions associées dans la banque” (3–5 ids dynamiques par notion).
+- UX: espacements renforcés, boutons élargis, lisibilité projection améliorée, pas de scroll horizontal parasite.
+
+### Validation V3.1
+Date: 2026-02-17
+- `python scripts/qa_local.py` => GREEN
+- Capture UI entraînement: `browser:/tmp/codex_browser_invocations/7874f51e98bc36af/artifacts/artifacts/v31-entrainement-page.png`
+- Capture UI séquences: `browser:/tmp/codex_browser_invocations/ba0d8decafa4b013/artifacts/artifacts/v31-sequences-page.png`
+- Capture UI connaissances: `browser:/tmp/codex_browser_invocations/5f2167e0b328136e/artifacts/artifacts/v31-connaissances-page.png`
