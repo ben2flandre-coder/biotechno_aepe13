@@ -3,7 +3,7 @@
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stats contenus — CAP AEPE</title><link rel="stylesheet" href="../assets/css/app.css"></head>
 <body data-base="../" data-page="docs/index.html">
 <main>
-<section class="card"><h2>Statistiques visibles — Phase 1</h2><div id="globalStats"></div></section>
+<section class="card"><h2>Statistiques visibles — Refonte canonique 9 blocs</h2><div id="globalStats"></div></section>
 <section id="statsTable" class="card"></section>
 <section class="card"><h3>Diagnostic technique (dev)</h3><ul id="techDiagnostics"></ul></section>
 </main>
@@ -12,13 +12,13 @@
 <script>
 (async function(){
   const seqs = await loadData('../data/sequences.json','sequences',[]);
-  const totalSchemas = seqs.reduce((a,s)=>a+(s.stats?.schemaCount||0),0);
-  const allHave2Situations = seqs.every(s => (s.situations||[]).length >= 2);
-  const allHaveArbitrage = seqs.every(s => !!s.arbitrage);
-  const allHaveGroupCase = seqs.every(s => !!s.groupCase);
-  const allHaveExamTrap = seqs.every(s => !!s.examTrap);
-  document.getElementById('globalStats').innerHTML = `<span class='badge'>Séquences: ${seqs.length}</span> <span class='badge'>Schémas: ${totalSchemas}</span> <span class='badge'>2 situations/séquence: ${allHave2Situations ? 'OK' : 'KO'}</span> <span class='badge'>Arbitrage: ${allHaveArbitrage ? 'OK' : 'KO'}</span> <span class='badge'>Cas groupe: ${allHaveGroupCase ? 'OK' : 'KO'}</span> <span class='badge'>Piège EP3: ${allHaveExamTrap ? 'OK' : 'KO'}</span>`;
-  document.getElementById('statsTable').innerHTML = `<h3>Détail par séquence</h3><table class='table'><thead><tr><th>ID</th><th>Titre</th><th>Situations</th><th>Arbitrage</th><th>Cas groupe</th><th>Piège EP3</th><th>Schémas</th></tr></thead><tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.title}</td><td>${(s.situations||[]).length}</td><td>${s.arbitrage ? 'Oui' : 'Non'}</td><td>${s.groupCase ? 'Oui' : 'Non'}</td><td>${s.examTrap ? 'Oui' : 'Non'}</td><td>${s.stats?.schemaCount||0}</td></tr>`).join('')}</tbody></table>`;
+  const minWords = Math.min(...seqs.map(s => s.stats?.wordCount || 0));
+  const all9 = seqs.every(s => s.stats?.has9Blocks === true);
+  const allSituations = seqs.every(s => (s.bloc1_situationProfessionnelle?.situation1 && s.bloc1_situationProfessionnelle?.situation2));
+  const allTables = seqs.every(s => (s.bloc6_tableauPedagogique || []).length > 0);
+  const allSchemas = seqs.every(s => (s.stats?.schemaCount || 0) >= 3);
+  document.getElementById('globalStats').innerHTML = `<span class='badge'>Séquences: ${seqs.length}</span> <span class='badge'>Min mots: ${minWords}</span> <span class='badge'>9 blocs: ${all9?'OK':'KO'}</span> <span class='badge'>2 situations: ${allSituations?'OK':'KO'}</span> <span class='badge'>Tableaux: ${allTables?'OK':'KO'}</span> <span class='badge'>3 schémas: ${allSchemas?'OK':'KO'}</span>`;
+  document.getElementById('statsTable').innerHTML = `<h3>Détail validation</h3><table class='table'><thead><tr><th>ID</th><th>Mots</th><th>Situations</th><th>Tableau</th><th>Schémas</th><th>9 blocs</th></tr></thead><tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.stats?.wordCount||0}</td><td>${(s.bloc1_situationProfessionnelle?.situation1 && s.bloc1_situationProfessionnelle?.situation2)?'2':'<2'}</td><td>${(s.bloc6_tableauPedagogique||[]).length}</td><td>${s.stats?.schemaCount||0}</td><td>${s.stats?.has9Blocks?'Oui':'Non'}</td></tr>`).join('')}</tbody></table>`;
 })();
 </script>
 </body></html>

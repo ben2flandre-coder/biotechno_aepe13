@@ -1,16 +1,14 @@
 <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540'>
 <rect width='960' height='540' fill='#f8fafc'/>
-<rect x='32' y='32' width='896' height='476' rx='20' fill='#e2e8f0' stroke='#94a3b8'/>
-<text x='60' y='95' font-size='34' font-family='Arial' fill='#0f172a'>Loi de Van’t Hoff</text>
-<text x='60' y='145' font-size='22' font-family='Arial' fill='#334155'>Schéma 3 — contrôle</text>
-<rect x='60' y='190' width='240' height='110' rx='14' fill='#bfdbfe'/>
-<rect x='360' y='190' width='240' height='110' rx='14' fill='#bbf7d0'/>
-<rect x='660' y='190' width='240' height='110' rx='14' fill='#fecaca'/>
-<text x='86' y='250' font-size='20' font-family='Arial' fill='#0f172a'>Observer</text>
-<text x='390' y='250' font-size='20' font-family='Arial' fill='#0f172a'>Agir</text>
-<text x='686' y='250' font-size='20' font-family='Arial' fill='#0f172a'>Tracer</text>
-<path d='M300 245h60M600 245h60' stroke='#334155' stroke-width='4' marker-end='url(#arr)'/>
+<rect x='28' y='28' width='904' height='484' rx='18' fill='#e2e8f0' stroke='#94a3b8'/>
+<text x='56' y='88' font-family='Arial' font-size='34' fill='#0f172a'>S11 — Loi de Van’t Hoff</text>
+<text x='56' y='130' font-family='Arial' font-size='22' fill='#334155'>Schéma 3: protocole-operatoire</text>
+<rect x='56' y='176' width='250' height='110' rx='14' fill='#bfdbfe'/><text x='82' y='238' font-family='Arial' font-size='20'>Situation</text>
+<rect x='354' y='176' width='250' height='110' rx='14' fill='#bbf7d0'/><text x='380' y='238' font-family='Arial' font-size='20'>Décision</text>
+<rect x='652' y='176' width='250' height='110' rx='14' fill='#fecaca'/><text x='678' y='238' font-family='Arial' font-size='20'>Preuve</text>
+<path d='M306 230h48M604 230h48' stroke='#334155' stroke-width='4' marker-end='url(#arr)'/>
 <defs><marker id='arr' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto'><polygon points='0,0 10,5 0,10' fill='#334155'/></marker></defs>
-<text x='60' y='360' font-size='18' font-family='Arial' fill='#475569'>CAP AEPE · Bloc 1/EP3 · S11</text>
-<text x='60' y='392' font-size='16' font-family='Arial' fill='#64748b'>Usage pédagogique local, sans dépendance externe.</text>
+<text x='56' y='340' font-family='Arial' font-size='17' fill='#475569'>Contexte: préparation bionettoyage</text>
+<text x='56' y='372' font-family='Arial' font-size='17' fill='#475569'>Focus: effet température maîtrisé</text>
+<text x='56' y='404' font-family='Arial' font-size='16' fill='#64748b'>Usage pédagogique CAP AEPE — animation adulte 2 à 3 heures</text>
 </svg>

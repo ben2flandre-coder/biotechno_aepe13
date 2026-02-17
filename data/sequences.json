@@ -3,1111 +3,2071 @@
     {
       "id": "S01",
       "title": "Évaluation des risques",
-      "situations": [
-        "8h15, section moyens (EAJE). Après l’accueil échelonné, une auxiliaire constate des flaques près du point d’eau, un chariot de nettoyage laissé ouvert et des enfants déjà en motricité libre.",
-        "16h40, fin de journée. L’équipe doit fermer rapidement : jouets au sol, sacs poubelles non sortis, une collègue remplaçante ignore le plan de circulation propre/sale."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le accueil du matin, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand cartographie des risques devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : traiter les tâches dans l’ordre perçu comme urgent (visuel) sans évaluer l’ordre de risque réel (glissade, contamination croisée, exposition produit).",
-      "analyse": "Cette erreur augmente le risque d’accident immédiat (chute), puis le risque microbiologique différé. L’absence de hiérarchisation conduit à des décisions contradictoires : on nettoie une surface avant de sécuriser la zone, on circule avec du matériel souillé dans un espace encore utilisé, et on oublie la traçabilité. Techniquement, la gravité x probabilité n’est jamais posée, donc la réponse est instable.",
-      "theorie": [
-        "Repère 1 : en EAJE, l’évaluation de risque commence par la protection des personnes présentes, pas par l’esthétique du local.",
-        "Repère 2 : classer les risques en immédiats (accident), sanitaires (contamination), organisationnels (rupture de protocole).",
-        "Repère 3 : un risque non tracé n’est pas pilotable ; il réapparaît au prochain service.",
-        "Repère 4 : la prévention efficace repose sur des critères partagés par toute l’équipe, y compris remplaçants."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Évaluation des risques en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Stopper l’activité dans la zone à risque immédiat et sécuriser l’accès.",
-        "Identifier 3 risques prioritaires (accident, bio, organisation).",
-        "Attribuer une action par risque avec responsable nommé.",
-        "Réaliser les actions dans l’ordre de criticité.",
-        "Vérifier la remise en conformité avec un contrôle croisé collègue.",
-        "Tracer en 2 minutes : risque, action, heure, initiales."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Flaque ignorée",
-          "Chute enfant/adulte",
-          "Traumatisme + interruption d’accueil",
-          "Baliser et assécher avant toute autre action"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Chariot ouvert en présence d’enfants",
-          "Exposition chimique",
-          "Contact cutané/oculaire",
-          "Fermer, éloigner, verrouiller"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Circuit propre/sale non respecté",
-          "Contamination croisée",
-          "Recontamination surfaces",
-          "Fléchage et rappel circuit"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Pas de trace écrite",
-          "Risque récurrent",
-          "Audit défavorable",
-          "Fiche incidente courte obligatoire"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate décrit un nettoyage correct mais oublie l’étape de sécurisation initiale. Non-conformité majeure car protection des personnes non priorisée.",
-      "vigilance": "Point inspectable : présence d’un support visuel de hiérarchisation des risques (immédiat/sanitaire/organisationnel) utilisé en vrai, pas affichage décoratif.",
-      "memo": [
-        "Toujours sécuriser avant nettoyer",
-        "Nommer qui fait quoi",
-        "Tracer même si action courte",
-        "Contrôle croisé 30 secondes"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le accueil du matin, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Évaluation des risques.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : fermer temporairement l’atelier peinture 10 minutes pour sécuriser et assainir, ou maintenir l’activité avec risque accru ? Choix attendu : fermeture courte sécurisée.",
-      "groupCase": "Cas groupe : à partir d’un plan de salle et de 6 incidents simulés, classer les priorités en 5 minutes, défendre l’ordre de traitement et justifier la traçabilité.",
-      "examTrap": "Piège EP3 : confondre ‘urgence visible’ et ‘priorité de risque’.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S01_SCHEMA_1",
+        "S01_SCHEMA_2",
+        "S01_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 376,
-        "schemaCount": 3
+        "wordCount": 5911,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S02",
       "title": "Dangers chimiques & biologiques",
-      "situations": [
-        "Change d’un enfant avec diarrhée : lingettes, gants, surface souillée, un spray désinfectant prêt à l’emploi est posé à côté du biberon d’un autre enfant.",
-        "Nettoyage après atelier pâte à modeler : une agente mélange par habitude deux produits pour ‘aller plus vite’."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le espace change, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand cohabitation bio/chimique devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : sous-estimer le danger chimique quand le risque biologique semble prioritaire, et inversement.",
-      "analyse": "Le terrain montre une double dérive : on protège contre le microbe mais on expose aux produits, ou on neutralise le produit et on laisse persister la charge microbienne. La confusion des familles de danger (corrosif, irritant, infectieux) empêche la bonne barrière au bon moment.",
-      "theorie": [
-        "Un danger biologique se traite par barrières et protocoles d’hygiène adaptés.",
-        "Un danger chimique se maîtrise par substitution, dilution correcte, EPI et ventilation.",
-        "Le cumul de petits écarts produit un incident majeur.",
-        "La lecture d’étiquette/FDS est un acte de sécurité, pas administratif."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Dangers chimiques & biologiques en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Identifier la nature dominante du danger (bio/chimique/mixte).",
-        "Isoler denrées, matériels enfants et zone souillée.",
-        "Choisir le produit validé et vérifier dilution/temps de contact.",
-        "Appliquer EPI adaptés sans surprotection inutile.",
-        "Éliminer déchets dans filière prévue.",
-        "Tracer l’incident et l’action corrective."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Produit près denrée",
-          "Contamination chimique",
-          "Ingestion accidentelle",
-          "Séparer strictement zones alimentation/produits"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Mélange de produits",
-          "Émanation toxique",
-          "Irritation respiratoire",
-          "Interdiction mélange + formation rappel"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Gants portés en continu",
-          "Contamination croisée",
-          "Propagation agent infectieux",
-          "Changer gants à chaque étape clé"
-        ],
-        [
-          "Temps de contact réduit",
+          "Temps de contact écourté",
+          "Microbiologique",
           "Désinfection incomplète",
-          "Risque infectieux persistant",
-          "Minuteur systématique"
+          "Minuteur et contrôle de fin"
+        ],
+        [
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate connaît les pictogrammes mais ne sait pas décider entre lavage et désinfection selon souillure. Non-conformité d’analyse.",
-      "vigilance": "Point inspectable : séparation physique et visuelle des zones ‘produits’ et ‘alimentation/enfant’.",
-      "memo": [
-        "Ne jamais mélanger les produits",
-        "Bio + chimique = raisonnement en deux temps",
-        "Temps de contact non négociable",
-        "Tracer l’écart"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le espace change, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Dangers chimiques & biologiques.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : en manque de spray prêt à l’emploi, utiliser un autre produit non validé ou différer l’usage de la zone ? Choix attendu : zone indisponible jusqu’à solution conforme.",
-      "groupCase": "Cas groupe : analyser 4 photos de postes de travail et relever tous les croisements bio/chimique, puis proposer corrections immédiates.",
-      "examTrap": "Piège EP3 : penser qu’un produit ‘qui sent fort’ désinfecte mieux.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S02_SCHEMA_1",
+        "S02_SCHEMA_2",
+        "S02_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 296,
-        "schemaCount": 3
+        "wordCount": 5910,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S03",
       "title": "EPI / EPC",
-      "situations": [
-        "Atelier peinture : projection possible, une professionnelle garde des gants jetables pendant toute l’heure d’atelier.",
-        "Nettoyage local change : hotte d’aération en panne, mais la tâche est maintenue avec usage produit volatil."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le atelier peinture, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand hiérarchie des protections devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : privilégier l’EPI individuel en oubliant les EPC collectives et l’adaptation au geste réel.",
-      "analyse": "Le port d’EPI hors contexte crée une fausse sécurité et augmente la contamination croisée. L’absence d’EPC (ventilation, séparation de zone, organisation flux) expose toute l’équipe. Techniquement, la hiérarchie des protections n’est pas respectée : on saute la suppression/réduction collective pour aller au gant/masque par défaut.",
-      "theorie": [
-        "Hiérarchie : supprimer le risque > réduire par organisation/EPC > compléter par EPI.",
-        "Un EPI efficace est contextuel, temporaire et correctement retiré.",
-        "Le sur-port d’EPI peut aggraver le risque (gants contaminés).",
-        "L’EPC protège l’ensemble du collectif et stabilise les pratiques."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : EPI / EPC en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Vérifier si une mesure collective peut supprimer/réduire le risque.",
-        "Définir la tâche et la durée réelle d’exposition.",
-        "Choisir EPI minimal suffisant et consignes de retrait.",
-        "Réaliser la tâche avec point d’arrêt pour changement EPI.",
-        "Évacuer EPI usagés selon filière.",
-        "Tracer anomalie EPC (ex: ventilation en panne) et action."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Gants portés en continu",
-          "Cross-contamination",
-          "Transmission indirecte",
-          "Changer gants aux étapes critiques"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Masque mal ajusté",
-          "Protection inefficace",
-          "Exposition persistante",
-          "Vérification ajustement"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Ventilation défaillante ignorée",
-          "Accumulation vapeurs",
-          "Irritation collective",
-          "Stop usage produit volatil"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Absence de retrait sécurisé",
-          "Auto-contamination",
-          "Contact peau/muqueuse",
-          "Procédure retrait affichée"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate cite les EPI mais oublie d’évoquer l’EPC et la hiérarchie. Noté incomplet en prévention.",
-      "vigilance": "Point inspectable : existence d’une consigne ‘quand mettre/quand retirer’ les gants selon activité.",
-      "memo": [
-        "EPC d’abord, EPI ensuite",
-        "Gant = usage ciblé",
-        "Retrait sécurisé obligatoire",
-        "Signaler EPC défaillante"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le atelier peinture, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec EPI / EPC.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : poursuivre nettoyage avec produit volatil sans ventilation, ou basculer sur méthode humide non volatile + report partiel ? Choix attendu : méthode alternative sécurisée.",
-      "groupCase": "Cas groupe : jeu de rôle ‘chef d’équipe/remplaçant’ pour décider protections selon 5 situations réelles.",
-      "examTrap": "Piège EP3 : croire que ‘plus d’EPI’ = ‘plus de sécurité’ en toute situation.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S03_SCHEMA_1",
+        "S03_SCHEMA_2",
+        "S03_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 280,
-        "schemaCount": 3
+        "wordCount": 5837,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S04",
       "title": "Matériel & protocoles",
-      "situations": [
-        "Deux lavettes identiques utilisées successivement pour table repas puis zone change.",
-        "Un remplaçant ne retrouve pas le protocole et improvise l’ordre des étapes."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le salle d'activités, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand standardisation matérielle devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : matériel non différencié et protocole connu oralement mais non accessible au poste.",
-      "analyse": "Sans standard matériel, les contaminations croisées deviennent probables. Sans protocole disponible, la qualité dépend de la mémoire individuelle et varie selon les personnes. Sur le plan technique, la robustesse d’un système repose sur la répétabilité et la lisibilité des supports de travail.",
-      "theorie": [
-        "Le matériel est un vecteur : il doit être identifié, dédié, entretenu.",
-        "Un protocole utile est court, actionnable, visible au poste.",
-        "La standardisation réduit les écarts entre titulaires et remplaçants.",
-        "La conformité se mesure sur le geste réel, pas sur l’intention."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Matériel & protocoles en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Attribuer code couleur/étiquette aux matériels par zone.",
-        "Préparer le chariot selon la tâche prévue.",
-        "Exécuter protocole étape par étape sans saut.",
-        "Gérer le sale immédiatement en fin d’étape.",
-        "Nettoyer/ranger matériel de manière standard.",
-        "Tracer et signaler tout matériel non conforme."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Lavette multi-zones",
-          "Contamination croisée",
-          "Recontamination surfaces",
-          "Code couleur strict"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Protocole absent au poste",
-          "Improvisation",
-          "Écart qualité",
-          "Affichage plastifié local"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Matériel abîmé utilisé",
-          "Nettoyage inefficace",
-          "Persistance souillure",
-          "Retrait immédiat du circuit"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Chariot non préparé",
-          "Allers-retours inutiles",
-          "Perte temps + erreurs",
-          "Check-list préparation"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate décrit la théorie mais ne montre pas l’ordre opérationnel et l’identification matériel.",
-      "vigilance": "Point inspectable : correspondance visible entre code couleur matériel et plan de zone.",
-      "memo": [
-        "1 matériel = 1 zone",
-        "Protocole à hauteur d’yeux",
-        "Pas d’improvisation séquentielle",
-        "Retirer le matériel défectueux"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le salle d'activités, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Matériel & protocoles.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : matériel dédié manquant, utiliser matériel voisin ou rendre zone temporairement indisponible ? Choix attendu : indisponibilité brève et sécurisée.",
-      "groupCase": "Cas groupe : audit flash d’un chariot réel puis proposition d’un standard minimal viable.",
-      "examTrap": "Piège EP3 : dire ‘je fais comme d’habitude’ sans support protocolaire démontrable.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S04_SCHEMA_1",
+        "S04_SCHEMA_2",
+        "S04_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 252,
-        "schemaCount": 3
+        "wordCount": 5836,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S05",
       "title": "Produits & désinfectants",
-      "situations": [
-        "Spray multi-usage appliqué sur table de repas sans rinçage alors qu’il n’est pas prévu pour contact alimentaire.",
-        "Désinfection écourtée parce qu’un groupe d’enfants attend l’activité suivante."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le zone repas, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand choix produit et temps de contact devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : choisir un produit par habitude (ou odeur) au lieu de vérifier usage, concentration et temps de contact.",
-      "analyse": "Un produit inadapté ou mal utilisé peut être inefficace voire dangereux. La réduction du temps de contact est l’écart le plus courant : la surface paraît propre mais la charge microbienne n’est pas maîtrisée. Techniquement, efficacité = bon produit x bonne concentration x bon temps x bon support.",
-      "theorie": [
-        "Nettoyer puis désinfecter : la matière organique réduit l’efficacité du biocide.",
-        "Le temps de contact est un paramètre critique non substituable.",
-        "Les usages ‘contact alimentaire’ exigent exigences spécifiques (rinçage selon fiche).",
-        "La traçabilité produit soutient l’analyse d’incident."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Produits & désinfectants en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Lire étiquette/FDS et vérifier destination du produit.",
-        "Pré-nettoyer si souillure visible.",
-        "Appliquer dosage/dilution validés.",
-        "Lancer minuterie pour temps de contact.",
-        "Rincer si requis par fiche technique.",
-        "Tracer produit, lot, heure et opérateur."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Produit non alimentaire sur table repas",
-          "Risque chimique",
-          "Exposition enfant",
-          "Produit homologué usage surface repas"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Temps de contact réduit",
-          "Désinfection insuffisante",
-          "Risque infectieux",
-          "Minuteur obligatoire"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Dilution approximative",
-          "Sous/sur-dosage",
-          "Inefficacité ou irritation",
-          "Doseur dédié"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Transvasement non étiqueté",
-          "Erreur de produit",
-          "Incident usage",
-          "Interdiction transvasement anonyme"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate annonce ‘je désinfecte’ mais n’indique ni temps de contact ni rinçage requis.",
-      "vigilance": "Point inspectable : présence d’un minuteur fonctionnel et utilisé pendant désinfection.",
-      "memo": [
-        "Bon produit pour bon support",
-        "Jamais sans minuterie",
-        "Rincer quand la fiche l’impose",
-        "Tracer lot et opérateur"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le zone repas, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Produits & désinfectants.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : activité enfant à démarrer, temps de contact pas terminé. Maintenir délai sanitaire ou céder à la pression horaire ? Choix attendu : délai sanitaire maintenu.",
-      "groupCase": "Cas groupe : comparer 3 fiches techniques et choisir le produit adapté à 4 situations EAJE.",
-      "examTrap": "Piège EP3 : confondre nettoyage visuel et désinfection microbiologique.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S05_SCHEMA_1",
+        "S05_SCHEMA_2",
+        "S05_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 258,
-        "schemaCount": 3
+        "wordCount": 5840,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S06",
       "title": "Échelle de pH",
-      "situations": [
-        "Détartrage sanitaire : produit acide utilisé sur matériau sensible entraînant altération.",
-        "Nettoyage quotidien : produit basique trop concentré irrite les mains malgré gants courts."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le sanitaires enfants, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand adéquation pH/support devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : utiliser un produit ‘fort’ sans relier pH, support et sécurité utilisateur.",
-      "analyse": "Le pH guide le choix technique mais ne suffit pas seul ; il doit être croisé avec nature de salissure et compatibilité matériau. Sur le terrain, la confusion acide/basique entraîne corrosion, usure prématurée, et exposition cutanée. L’erreur vient d’un raisonnement simplifié : ‘plus agressif = plus efficace’.",
-      "theorie": [
-        "Acide : pertinent sur tartre ; basique : utile sur graisses/protéines selon contexte.",
-        "Compatibilité matériau indispensable avant application.",
-        "Concentration et temps de contact modulent l’action réelle.",
-        "Prévention cutanée = choix produit + organisation + EPI adapté."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Échelle de pH en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Identifier type de salissure dominante.",
-        "Vérifier matériau support et compatibilité produit.",
-        "Préparer dilution avec doseur.",
-        "Tester sur petite zone si doute.",
-        "Respecter temps d’action puis rinçage si requis.",
-        "Tracer incident matériau/irritation si survenu."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Acide sur support sensible",
-          "Dégradation surface",
-          "Coût remplacement",
-          "Vérifier compatibilité"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Base trop concentrée",
-          "Irritation cutanée",
-          "Arrêt travail",
-          "Doseur + gants adaptés"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Absence rinçage final",
-          "Résidus chimiques",
-          "Contact indirect enfant",
-          "Rinçage contrôlé"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Choix pH sans analyse salissure",
-          "Inefficacité",
-          "Reprise tâche",
-          "Diagnostic salissure préalable"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate cite pH mais ne relie pas au type de salissure et au matériau.",
-      "vigilance": "Point inspectable : tableau simple ‘salissure → famille produit → précaution support’ présent au local.",
-      "memo": [
-        "pH n’est pas un score de performance",
-        "Toujours croiser support + salissure",
-        "Doseur obligatoire",
-        "Rinçage si exigé"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le sanitaires enfants, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Échelle de pH.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : tartre important sur support fragile, agir vite avec acide puissant ou planifier méthode progressive compatible ? Choix attendu : méthode progressive compatible.",
-      "groupCase": "Cas groupe : classer 10 couples salissure/support dans une matrice pH-conduite à tenir.",
-      "examTrap": "Piège EP3 : dire ‘pH neutre = toujours sans risque’.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S06_SCHEMA_1",
+        "S06_SCHEMA_2",
+        "S06_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 249,
-        "schemaCount": 3
+        "wordCount": 5836,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S07",
       "title": "Chimie de l’eau",
-      "situations": [
-        "Eau très calcaire : traces persistantes malgré nettoyage répété, l’équipe augmente arbitrairement les doses produit.",
-        "Utilisation d’eau trop chaude avec produit incompatible, perte d’efficacité observée."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le local entretien, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand dureté et température devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : ignorer la qualité de l’eau (dureté, température) et compenser par surconsommation de produit.",
-      "analyse": "La dureté réduit l’action de certains tensioactifs et favorise dépôts. La température influence la cinétique mais peut dégrader certains actifs. Le surdosage ne corrige pas le mauvais paramétrage : il augmente coûts, résidus et risques d’irritation.",
-      "theorie": [
-        "Dureté de l’eau impacte mousse, rinçage et traces.",
-        "Température utile si compatible avec produit et support.",
-        "Surdoser est une dérive économique et sanitaire.",
-        "Le réglage des paramètres est plus efficace que l’augmentation empirique."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Chimie de l’eau en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Identifier problème (trace, dépôt, inefficacité).",
-        "Vérifier dureté locale et recommandations fabricant.",
-        "Ajuster dilution/temperature selon fiche.",
-        "Réaliser test comparatif sur 2 zones.",
-        "Valider méthode la plus efficiente.",
-        "Tracer réglage retenu pour équipe."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Surdosage produit",
-          "Résidus chimiques",
-          "Contact irritant",
-          "Réglage paramétrique"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Température inadaptée",
-          "Actif dégradé",
-          "Désinfection insuffisante",
-          "Suivre fiche technique"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Ignorer calcaire",
-          "Traces persistantes",
-          "Reprises inutiles",
-          "Adapter produit/détartrage"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Pas de test comparatif",
-          "Choix aléatoire",
-          "Perte de temps",
-          "Micro-test avant généralisation"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate constate traces mais propose seulement ‘mettre plus de produit’.",
-      "vigilance": "Point inspectable : consigne locale de dilution tenant compte de la dureté de l’eau.",
-      "memo": [
-        "Paramétrer avant surdoser",
-        "Température = variable critique",
-        "Tester sur petite zone",
-        "Standardiser réglage validé"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le local entretien, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Chimie de l’eau.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : refaire toute la salle immédiatement ou suspendre 10 min pour test paramétrique ? Choix attendu : test court puis généralisation.",
-      "groupCase": "Cas groupe : atelier comparatif de 3 dilutions sur plaques témoin et discussion coût/efficacité.",
-      "examTrap": "Piège EP3 : confondre ‘plus de mousse’ et ‘plus d’efficacité’.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S07_SCHEMA_1",
+        "S07_SCHEMA_2",
+        "S07_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 227,
-        "schemaCount": 3
+        "wordCount": 5837,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S08",
       "title": "Types de salissures",
-      "situations": [
-        "Table activité avec résidus gras de pâte à modeler + poussières + traces feutre.",
-        "Sanitaires : mélange calcaire, savon et matière organique sur plusieurs surfaces."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le tables multi-usage, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand diagnostic de souillure devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : appliquer une seule méthode de nettoyage à des salissures de nature différente.",
-      "analyse": "Chaque famille de salissure demande un levier distinct (mécanique, chimique, thermique, temps). Une méthode unique entraîne échec partiel, recontamination et perte de temps. Techniquement, le diagnostic initial de salissure conditionne tout le protocole.",
-      "theorie": [
-        "Salissures minérales, organiques, grasses, mixtes : distinguer pour agir.",
-        "Action mécanique indispensable même avec bon produit.",
-        "Le temps de contact et l’ordre des gestes influencent le résultat.",
-        "Diagnostic visuel + tactile court avant action."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Types de salissures en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Identifier la/les salissures présentes.",
-        "Choisir matériel et produit adaptés à chaque type.",
-        "Traiter d’abord la salissure dominante.",
-        "Réévaluer visuellement après premier passage.",
-        "Adapter second passage si salissure mixte.",
-        "Tracer anomalies récurrentes."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Méthode unique sur salissure mixte",
-          "Nettoyage incomplet",
-          "Reprise tâche",
-          "Diagnostic préalable"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Frottage insuffisant",
-          "Persistance dépôt",
-          "Perte de confiance usager",
-          "Renforcer action mécanique"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Produit non adapté",
-          "Inefficacité",
-          "Surconsommation",
-          "Choix par type de salissure"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Ordre de geste aléatoire",
-          "Recontamination",
-          "Qualité instable",
-          "Séquence standard"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate ne caractérise pas la salissure avant de proposer le geste.",
-      "vigilance": "Point inspectable : grille simple d’identification des salissures utilisée en briefing.",
-      "memo": [
-        "Nommer la salissure avant agir",
-        "Mixte = méthode combinée",
-        "Action mécanique obligatoire",
-        "Relecture visuelle finale"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le tables multi-usage, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Types de salissures.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : faire un passage rapide global ou deux passages ciblés par type de salissure ? Choix attendu : ciblage en deux temps.",
-      "groupCase": "Cas groupe : photos de surfaces, chaque binôme propose diagnostic salissure + conduite à tenir.",
-      "examTrap": "Piège EP3 : proposer un produit sans qualifier la salissure.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S08_SCHEMA_1",
+        "S08_SCHEMA_2",
+        "S08_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 225,
-        "schemaCount": 3
+        "wordCount": 5837,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S09",
       "title": "Niveaux de salissures",
-      "situations": [
-        "Après repas, salle propre en apparence mais zones contact mains très sollicitées.",
-        "Après épisode infectieux, même local nécessite niveau d’exigence supérieur."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le retour d'épisode infectieux, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand gradation d'exigence devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : traiter toutes les situations au même niveau de nettoyage, sans gradation.",
-      "analyse": "La non-gradation entraîne soit sous-traitement (risque sanitaire), soit sur-traitement (coût, fatigue, irritants). Le niveau de salissure dépend de l’usage du local, du contexte sanitaire et de la fréquence de contact.",
-      "theorie": [
-        "Niveau courant, renforcé, critique : trois paliers décisionnels utiles.",
-        "La fréquence de contact oriente la priorité des surfaces.",
-        "Contexte épidémique = rehaussement temporaire du niveau.",
-        "La gradation permet d’allouer les ressources sans perte de sécurité."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Niveaux de salissures en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Qualifier le niveau (courant/renforcé/critique).",
-        "Lister surfaces prioritaires du niveau choisi.",
-        "Appliquer protocole correspondant.",
-        "Contrôler points de contact élevés.",
-        "Ajuster fréquence de passage.",
-        "Tracer niveau retenu et justification."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Niveau trop faible",
-          "Risque infectieux",
-          "Transmission indirecte",
-          "Critères de rehaussement"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Niveau trop élevé en continu",
-          "Exposition chimique",
-          "Irritation + coûts",
-          "Retour au niveau courant"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Priorités mal choisies",
-          "Effort mal réparti",
-          "Zones critiques oubliées",
-          "Carte des points contact"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Pas de justification niveau",
-          "Décisions contestables",
-          "Audit négatif",
-          "Trace décisionnelle"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate applique protocole standard sans tenir compte d’un contexte infectieux signalé.",
-      "vigilance": "Point inspectable : document de passage de niveau signé (début/fin période renforcée).",
-      "memo": [
-        "Niveau adapté, pas automatique",
-        "Prioriser points de contact",
-        "Rehausser temporairement si besoin",
-        "Tracer la décision"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le retour d'épisode infectieux, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Niveaux de salissures.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : maintenir niveau renforcé une semaine après alerte terminée ou revenir au niveau courant contrôlé ? Choix attendu : retour gradué avec surveillance.",
-      "groupCase": "Cas groupe : simulation d’alerte gastro, définir niveau par zone et planning réaliste.",
-      "examTrap": "Piège EP3 : oublier de justifier le niveau choisi.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S09_SCHEMA_1",
+        "S09_SCHEMA_2",
+        "S09_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 213,
-        "schemaCount": 3
+        "wordCount": 5910,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S10",
       "title": "Cercle de Sinner",
-      "situations": [
-        "Nettoyage rapide d’une salle : l’équipe augmente seulement le produit faute de temps.",
-        "Surface fragile : réduction action mécanique mais sans compenser temps/température."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le fin de service, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand équilibrage des paramètres devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : modifier un seul paramètre du cercle de Sinner sans équilibrer les autres.",
-      "analyse": "Le cercle de Sinner repose sur l’équilibre entre action chimique, mécanique, température et temps. Diminuer un facteur exige compensation maîtrisée des autres. Sans cet équilibre, on obtient soit inefficacité, soit dégradation support.",
-      "theorie": [
-        "Quatre paramètres interdépendants : aucun n’est universellement dominant.",
-        "Contraintes EAJE imposent souvent faible température et temps court : il faut compenser intelligemment.",
-        "Compensation n’est pas surdosage aveugle.",
-        "Équilibrage documenté améliore la reproductibilité."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Cercle de Sinner en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Identifier paramètre contraint (temps, temp, etc.).",
-        "Définir compensation acceptable sur autres paramètres.",
-        "Tester sur zone pilote.",
-        "Valider résultat visuel et sanitaire.",
-        "Déployer sur zone complète.",
-        "Tracer réglage Sinner retenu."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Surdosage pour compenser temps",
-          "Risque chimique",
-          "Irritation/résidus",
-          "Compensation multi-paramètres"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Action mécanique insuffisante",
-          "Souillure persistante",
-          "Reprise tâche",
-          "Renforcer gestuelle"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Température inadéquate",
-          "Efficacité réduite",
-          "Nettoyage incomplet",
-          "Respect plage recommandée"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Pas de test pilote",
-          "Erreur à grande échelle",
-          "Perte temps/produit",
-          "Test local préalable"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate cite le cercle mais ne montre pas de compensation opérationnelle.",
-      "vigilance": "Point inspectable : fiche locale indiquant compensations validées selon contraintes horaires.",
-      "memo": [
-        "Si un paramètre baisse, compenser les autres",
-        "Pas de compensation au hasard",
-        "Tester puis standardiser",
-        "Tracer réglage"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le fin de service, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Cercle de Sinner.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : manque de temps en fin de service, choisir surdosage ou renforcement mécanique ciblé + maintien dose ? Choix attendu : renforcement mécanique ciblé.",
-      "groupCase": "Cas groupe : jeu ‘paramètres Sinner’ avec cartes contraintes et plan d’action argumenté.",
-      "examTrap": "Piège EP3 : présenter Sinner comme une liste à réciter sans application décisionnelle.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S10_SCHEMA_1",
+        "S10_SCHEMA_2",
+        "S10_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 223,
-        "schemaCount": 3
+        "wordCount": 5911,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S11",
       "title": "Loi de Van’t Hoff",
-      "situations": [
-        "Désincrustation accélérée en augmentant fortement la température sur support plastique sensible.",
-        "Nettoyage en eau froide hivernale sans ajuster temps d’action."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le préparation bionettoyage, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand effet température maîtrisé devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : appliquer ‘plus chaud = mieux’ sans limites matériau/produit, ou oublier l’effet température sur la vitesse de réaction.",
-      "analyse": "La loi de Van’t Hoff éclaire la variation de vitesse réactionnelle avec la température, mais en contexte réel, cette augmentation rencontre des bornes : stabilité produit, résistance matériau, sécurité opérateur. Sans encadrement, la recherche de rapidité devient source de non-conformité.",
-      "theorie": [
-        "La température peut accélérer certaines réactions de nettoyage.",
-        "Chaque produit possède une plage de fonctionnement recommandée.",
-        "Le matériau peut devenir le facteur limitant.",
-        "En dessous de la plage, le temps doit être ajusté plutôt que le dosage improvisé."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Loi de Van’t Hoff en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Vérifier plage température du produit.",
-        "Vérifier tolérance thermique du support.",
-        "Régler température dans plage autorisée.",
-        "Ajuster temps de contact selon contexte.",
-        "Contrôler absence d’altération support.",
-        "Tracer réglage retenu."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Température excessive",
-          "Dégradation support",
-          "Coût maintenance",
-          "Respect plage fabricant"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Température trop basse non compensée",
-          "Action lente",
-          "Nettoyage insuffisant",
-          "Allonger temps contrôlé"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Brûlure opérateur",
-          "Risque sécurité",
-          "Accident travail",
-          "Procédure manipulation chaude"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Décision non tracée",
-          "Répétition erreurs",
-          "Qualité instable",
-          "Journal de réglage"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate invoque Van’t Hoff mais ne relie pas au support concret et à la sécurité.",
-      "vigilance": "Point inspectable : affichage des plages de température autorisées par produit.",
-      "memo": [
-        "Température utile mais encadrée",
-        "Support fixe la limite",
-        "Compense par temps si froid",
-        "Trace les réglages"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le préparation bionettoyage, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Loi de Van’t Hoff.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : gagner 5 min en chauffant plus, ou rester dans la plage et allonger le temps ? Choix attendu : rester dans la plage.",
-      "groupCase": "Cas groupe : comparer 3 scénarios température/temps et choisir le plus sûr/efficace.",
-      "examTrap": "Piège EP3 : utiliser un principe physico-chimique sans vérifier contraintes terrain.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S11_SCHEMA_1",
+        "S11_SCHEMA_2",
+        "S11_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 238,
-        "schemaCount": 3
+        "wordCount": 5911,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S12",
       "title": "Matériaux",
-      "situations": [
-        "Désinfectant alcoolisé répété sur plastique souple : fissuration progressive.",
-        "Produit acide sur inox brossé mal rincé : ternissement visible."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le mobilier petite enfance, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand compatibilité produit/support devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : oublier que le choix produit dépend d’abord du matériau et de son état.",
-      "analyse": "Un protocole efficace sur un support peut être destructeur sur un autre. La compatibilité matériau/produit est un prérequis. Sur le terrain, les dommages apparaissent progressivement puis nécessitent remplacement coûteux et perturbent l’accueil.",
-      "theorie": [
-        "Identifier familles de matériaux présentes en EAJE.",
-        "Associer chaque matériau à limites chimiques/mécaniques.",
-        "Privilégier méthodes conservatoires sur supports sensibles.",
-        "Inclure maintenance préventive dans protocole nettoyage."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Matériaux en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Identifier matériau avant intervention.",
-        "Consulter compatibilité produit/support.",
-        "Tester zone discrète en cas doute.",
-        "Appliquer méthode validée.",
-        "Rincer/sécher selon exigence.",
-        "Tracer toute altération observée."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Produit incompatible",
-          "Dégradation support",
-          "Remplacement coûteux",
-          "Matrice compatibilité"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Abrasif inadapté",
-          "Rayures",
-          "Rétention salissure",
-          "Choix abrasivité adaptée"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Rinçage oublié",
-          "Résidus",
-          "Altération progressive",
-          "Étape rinçage contrôlée"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Altération non signalée",
-          "Aggravation",
-          "Non-conformité durable",
-          "Signalement immédiat"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate propose un produit correct mais ne questionne jamais le matériau.",
-      "vigilance": "Point inspectable : tableau compatibilité matériau/produit mis à jour et utilisé.",
-      "memo": [
-        "Toujours commencer par ‘quel matériau ?’",
-        "Tester si doute",
-        "Rincer protège le support",
-        "Signaler toute altération"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le mobilier petite enfance, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Matériaux.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : surface marquée mais encore fonctionnelle, poursuivre protocole actuel ou adapter immédiatement ? Choix attendu : adaptation immédiate + signalement.",
-      "groupCase": "Cas groupe : atelier ‘diagnostic matériaux’ sur objets réels de la structure.",
-      "examTrap": "Piège EP3 : réponse produit ‘universel’ pour tous supports.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S12_SCHEMA_1",
+        "S12_SCHEMA_2",
+        "S12_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 197,
-        "schemaCount": 3
+        "wordCount": 5762,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S13",
       "title": "Bionettoyage",
-      "situations": [
-        "Après épisode infectieux, nettoyage réalisé sans étape de désinfection ciblée.",
-        "Chariot de bionettoyage circule entre zones sans séparation des contenants."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le circuit des locaux, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand propre vers sale devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : réduire le bionettoyage à un nettoyage renforcé, sans logique microbiologique complète.",
-      "analyse": "Le bionettoyage combine nettoyage + action désinfectante selon risque. Omettre une étape ou mélanger circuits annule l’effet attendu. L’organisation des flux et du matériel est aussi critique que le produit utilisé.",
-      "theorie": [
-        "Bionettoyage = méthode combinée et contextualisée, pas ‘produit magique’.",
-        "Ordre des zones (du propre vers le sale) protège contre la recontamination.",
-        "Matériel dédié et renouvelé selon zone.",
-        "Contrôle et traçabilité permettent la continuité qualité."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Bionettoyage en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Préparer chariot avec séparation propre/sale.",
-        "Nettoyer du moins contaminé vers plus contaminé.",
-        "Appliquer désinfection selon risque zone.",
-        "Respecter temps de contact.",
-        "Évacuer consommables souillés selon filière.",
-        "Tracer zone, heure, opérateur, anomalies."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Nettoyage sans désinfection ciblée",
-          "Risque infectieux",
-          "Persistance contamination",
-          "Inclure étape désinfection"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Circuit propre/sale mélangé",
-          "Recontamination",
-          "Échec bionettoyage",
-          "Séparation physique chariot"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Temps de contact non tenu",
-          "Inefficacité",
-          "Risque résiduel",
-          "Minuteur obligatoire"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Trace incomplète",
-          "Pilotage impossible",
-          "Récurrence écarts",
-          "Fiche standard courte"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate emploie le terme bionettoyage sans décrire l’ordre des zones ni la traçabilité.",
-      "vigilance": "Point inspectable : sens de progression affiché dans les locaux (propre → sale).",
-      "memo": [
-        "Bionettoyage = méthode complète",
-        "Ordre des zones impératif",
-        "Chariot séparé propre/sale",
-        "Tracer chaque passage"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le circuit des locaux, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Bionettoyage.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : manque de temps, réduire nombre de zones traitées ou bâcler toutes les zones ? Choix attendu : traiter priorités correctement et planifier suite.",
-      "groupCase": "Cas groupe : simulation bionettoyage de trois pièces avec contraintes horaires.",
-      "examTrap": "Piège EP3 : confondre ‘désinfecter partout’ avec stratégie de risque.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S13_SCHEMA_1",
+        "S13_SCHEMA_2",
+        "S13_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 218,
-        "schemaCount": 3
+        "wordCount": 5763,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S14",
       "title": "Méthodes de nettoyage",
-      "situations": [
-        "Nettoyage circulaire aléatoire d’une table puis retour sur zone déjà traitée.",
-        "Alternance essuyage humide/sec sans logique, laissant des traces et recontamination."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le zones de contact fréquent, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand méthode directionnelle devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : geste non méthodique, dépendant de l’habitude personnelle et non d’une méthode validée.",
-      "analyse": "Une méthode non structurée augmente le temps d’exécution et la variabilité qualité. Les retours arrière, zones oubliées et essuyages incohérents favorisent la recontamination. Techniquement, la méthode doit cadrer direction, recouvrement et contrôle final.",
-      "theorie": [
-        "Méthodes directionnelles (haut-bas, propre-sale, gauche-droite) améliorent couverture.",
-        "Recouvrement contrôlé évite zones ‘blanches’.",
-        "Adaptation méthode selon surface et fréquentation.",
-        "Contrôle final visuel + tactile sur points sensibles."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Méthodes de nettoyage en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Choisir méthode directionnelle adaptée.",
-        "Segmenter la surface en zones.",
-        "Appliquer geste avec recouvrement constant.",
-        "Changer lavette/face selon règle définie.",
-        "Réaliser contrôle final systématique.",
-        "Tracer écart si reprise nécessaire."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Retours arrière",
-          "Recontamination",
-          "Qualité instable",
-          "Direction unique"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Zones oubliées",
-          "Souillure résiduelle",
-          "Non-conformité",
-          "Segmentation surface"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Lavette saturée",
-          "Diffusion salissure",
-          "Résultat médiocre",
-          "Fréquence changement définie"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Pas de contrôle final",
-          "Défaut non détecté",
-          "Réclamation usager",
-          "Check final obligatoire"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "EP3 : candidate annonce ‘je nettoie’ sans expliciter une méthode directionnelle.",
-      "vigilance": "Point inspectable : méthode directionnelle affichée et observée en situation réelle.",
-      "memo": [
-        "Toujours une direction",
-        "Segmenter pour ne rien oublier",
-        "Changer support au bon moment",
-        "Contrôle final systématique"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le zones de contact fréquent, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Méthodes de nettoyage.",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : finir vite avec geste libre ou respecter méthode directionnelle malgré contrainte temps ? Choix attendu : méthode directionnelle.",
-      "groupCase": "Cas groupe : exercice chronométré comparaison méthode libre vs méthode segmentée.",
-      "examTrap": "Piège EP3 : réponse ‘je passe partout’ sans méthode démontrable.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S14_SCHEMA_1",
+        "S14_SCHEMA_2",
+        "S14_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 202,
-        "schemaCount": 3
+        "wordCount": 5984,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     },
     {
       "id": "S15",
       "title": "Évaluations (préparation EP3)",
-      "situations": [
-        "Simulation EP3 : candidate techniquement correcte mais incapable de justifier ses choix.",
-        "Mise en situation de groupe : bonne exécution mais oubli systématique de traçabilité et vigilance finale."
+      "bloc1_situationProfessionnelle": {
+        "situation1": "En EAJE, à 8h20 dans le simulation d'examen, l’auxiliaire de référence ouvre le poste pendant que deux enfants arrivent avec leurs parents. L’ATSEM signale un retard de livraison de consommables, la direction demande de maintenir la continuité d’accueil et une remplaçante découvre la procédure locale. Le contexte inclut des contraintes de temps, de circulation et de sécurité immédiate. Un incident est détecté : une étape critique n’a pas été sécurisée avant l’installation des enfants.",
+        "situation2": "En école maternelle, à 15h45, l’équipe doit réorganiser le même espace pour la fin de journée. Les acteurs sont une enseignante, une ATSEM, une AESH et un agent d’entretien. L’environnement est contraint par des flux croisés (enfants, parents, intervenants). Un risque est identifié : la décision technique est prise sur l’apparence visuelle et non sur la criticité sanitaire."
+      },
+      "bloc2_problemeMetier": "Question professionnelle : comment décider et justifier une conduite à tenir immédiate sur le terrain quand argumentation professionnelle devient instable, sans compromettre la sécurité des enfants ni la conformité CAP AEPE ? L’enjeu sanitaire et réglementaire est double : prévenir l’incident évitable et pouvoir démontrer la maîtrise procédurale en cas de contrôle interne, audit qualité ou évaluation EP3.",
+      "bloc3_analyseTerrain": [
+        "Pourquoi c’est un problème : la pratique observée privilégie la rapidité perçue plutôt que l’ordre de risque réel. Cette inversion conduit à des gestes techniquement corrects mais séquentiellement dangereux.",
+        "Risque microbiologique : contamination croisée des surfaces à contact fréquent, transfert indirect vers les mains des enfants, rupture de la chaîne de prévention.",
+        "Risque chimique : exposition involontaire à un produit mal positionné, mal dosé ou appliqué sans maîtrise du temps de contact et des conditions d’usage.",
+        "Risque organisationnel : absence de rôle explicite, confusion entre titulaire et remplaçant, documentation incomplète, perte de continuité entre équipes du matin et du soir.",
+        "Conséquences potentielles : incident de sécurité immédiat, non-conformité d’hygiène, reprise de tâche coûteuse, surcharge émotionnelle de l’équipe, fragilisation de la relation de confiance avec les familles.",
+        "Conséquence pédagogique : l’adulte en formation retient un geste isolé mais pas la logique de décision, ce qui réduit la transférabilité vers des situations complexes.",
+        "Conséquence réglementaire : en contexte de contrôle, l’absence de justification tracée peut invalider une action pourtant techniquement correcte.",
+        "Lecture terrain : l’erreur est systémique et non individuelle ; elle apparaît quand les critères de priorité ne sont pas partagés et entraînés collectivement.",
+        "Conclusion d’analyse : la réponse attendue doit articuler décision argumentée, application protocolaire, vigilance inspectable et preuve courte mais robuste."
       ],
-      "probleme": "Erreur fréquente : préparer l’épreuve comme une récitation, sans articulation entre geste, justification et conformité.",
-      "analyse": "L’évaluation EP3 juge autant la décision professionnelle que l’exécution. Sans argumentation liée au contexte (risque, public, support, produit), la performance paraît fragile. L’absence de trace ou de vigilance finale transforme une bonne action en conformité incomplète.",
-      "theorie": [
-        "Compétence EP3 = analyser, agir, justifier, tracer.",
-        "La verbalisation du raisonnement sécurise la note et la pratique réelle.",
-        "Les non-conformités fréquentes sont souvent de fin de séquence (contrôle/trace).",
-        "L’entraînement adulte doit reproduire la pression temporelle réelle."
+      "bloc4_apportTheoriqueCible": [
+        "Définition utile 1 : Évaluations (préparation EP3) en CAP AEPE désigne un savoir-action situé, mobilisé dans un environnement vivant (enfants, familles, équipe) et non un simple contenu académique.",
+        "Définition utile 2 : la conformité n’est pas l’application mécanique d’une fiche ; c’est l’ajustement juste d’un protocole validé à une situation réelle, avec justification explicite.",
+        "Concept nécessaire 1 : hiérarchisation des risques (immédiat, sanitaire, organisationnel) avant exécution technique.",
+        "Concept nécessaire 2 : dissociation entre ‘urgence visuelle’ et ‘priorité sanitaire’. Ce qui paraît urgent n’est pas toujours ce qui protège le mieux.",
+        "Concept nécessaire 3 : traçabilité proportionnée. Une trace courte, horodatée et nominative vaut mieux qu’un récit tardif.",
+        "Application directe au cas : dans la situation d’ouverture, la décision doit commencer par la protection du public, poursuivre par la maîtrise technique, puis finir par la preuve opératoire.",
+        "Application directe au cas alternatif : en fin de journée, la pression horaire ne supprime pas les exigences de séquence ; elle impose au contraire une priorisation explicitée.",
+        "Point de méthode formateur : faire verbaliser la décision avant l’action augmente la qualité du geste et prépare l’oral EP3.",
+        "Point de transfert : la même grille décisionnelle s’applique en EAJE et en maternelle, avec adaptation des acteurs et du rythme.",
+        "Synthèse théorique : utile, courte, reliée au terrain, observable en action et défendable face à un examinateur."
       ],
-      "microProtocol": [
-        "Lire la situation et reformuler le risque principal.",
-        "Choisir méthode et la justifier oralement.",
-        "Réaliser la séquence technique complète.",
-        "Effectuer contrôle final visible.",
-        "Tracer l’action de manière exploitable.",
-        "Faire auto-bilan : point fort, point à corriger."
+      "bloc5_microProtocoleOperationnel": [
+        {
+          "etape": "Sécuriser l’environnement avant tout acte technique (zone, circulation, enfants).",
+          "vigilance": "Ne pas confondre vitesse et sécurité.",
+          "epi": "Selon risque : gants temporaires, blouse, protection oculaire si projection."
+        },
+        {
+          "etape": "Nommer le risque principal et le risque secondaire en moins de 30 secondes.",
+          "vigilance": "Éviter les diagnostics implicites.",
+          "epi": "Rappeler retrait EPI dès changement de phase."
+        },
+        {
+          "etape": "Choisir le protocole validé correspondant au cas et vérifier les paramètres critiques.",
+          "vigilance": "Temps de contact, dilution, compatibilité support.",
+          "epi": "Conserver EPI seulement sur phase exposante."
+        },
+        {
+          "etape": "Exécuter dans l’ordre logique défini par l’équipe (propre vers sale, du plus critique au moins critique).",
+          "vigilance": "Aucun saut d’étape non justifié.",
+          "epi": "Changer EPI/consommable si rupture de phase."
+        },
+        {
+          "etape": "Contrôler le résultat avec un regard croisé (auto + pair).",
+          "vigilance": "Chercher activement la non-conformité résiduelle.",
+          "epi": "Retirer les EPI selon procédure pour éviter l’auto-contamination."
+        },
+        {
+          "etape": "Tracer en format court : situation, décision, action, heure, signature.",
+          "vigilance": "La trace doit être lisible et exploitable en audit.",
+          "epi": "Mentionner incident EPI si écart."
+        }
       ],
-      "riskRows": [
+      "bloc6_tableauPedagogique": [
         [
-          "Justification absente",
-          "Analyse non démontrée",
-          "Perte de points EP3",
-          "Verbalisation guidée"
+          "Décision prise sans hiérarchiser les risques",
+          "Microbiologique/organisationnel",
+          "Action inadaptée et contamination croisée",
+          "Grille de priorité partagée"
         ],
         [
-          "Traçabilité oubliée",
-          "Conformité incomplète",
-          "Notation défavorable",
-          "Trace intégrée au geste"
+          "Produit choisi par habitude",
+          "Chimique",
+          "Exposition ou inefficacité",
+          "Vérification fiche et usage réel"
         ],
         [
-          "Contrôle final négligé",
-          "Défaut persistant",
-          "Non-conformité",
-          "Check-list fin d’action"
+          "Temps de contact écourté",
+          "Microbiologique",
+          "Désinfection incomplète",
+          "Minuteur et contrôle de fin"
         ],
         [
-          "Réponse stéréotypée",
-          "Décision inadaptée",
-          "Erreur terrain",
-          "Adapter au contexte donné"
+          "Traçabilité absente",
+          "Organisationnel/réglementaire",
+          "Non-conformité non défendable",
+          "Trace standard immédiate"
+        ],
+        [
+          "EPI portés en continu",
+          "Microbiologique",
+          "Transfert de contamination",
+          "EPI ciblés par étape"
+        ],
+        [
+          "Aucun contrôle croisé",
+          "Qualité",
+          "Erreur non détectée",
+          "Validation pair en 30 secondes"
         ]
       ],
-      "ep3": "Non-conformité type : séquence techniquement acceptable mais aucune justification de choix produit ni de priorisation risque.",
-      "vigilance": "Point inspectable : grille d’évaluation formative avec critères ‘analyse/justification/trace’ distincts du geste technique.",
-      "memo": [
-        "EP3 = faire + expliquer + prouver",
-        "Toujours conclure par contrôle",
-        "Trace courte mais complète",
-        "Adapter sa réponse au contexte"
+      "bloc7_casGroupeArbitrage": {
+        "situationAlternative": "Situation alternative : dans le simulation d'examen, deux décisions semblent plausibles sous contrainte de temps et de personnel réduit.",
+        "decisionA": "Décision A : traiter immédiatement la zone la plus visible pour rétablir l’usage rapide.",
+        "decisionB": "Décision B : traiter d’abord la zone la plus critique selon la hiérarchie des risques, puis réouvrir progressivement.",
+        "invitation": "Le groupe doit argumenter la décision retenue en mobilisant sécurité enfant, conformité protocolaire, faisabilité équipe et traçabilité.",
+        "justificationAttendue": "Justification attendue : décision B, car elle protège d’abord le risque majeur, réduit les conséquences secondaires et reste défendable en EP3."
+      },
+      "bloc8_lienEP3": {
+        "competenceEvaluee": "Analyser une situation professionnelle et conduire une action conforme en lien avec Évaluations (préparation EP3).",
+        "critereObservable": "Le candidat explicite la logique de décision, applique le protocole dans l’ordre, et formalise une trace exploitable.",
+        "pointVigilanceExaminateur": "Vérifier la cohérence entre ce qui est annoncé à l’oral et ce qui est réellement exécuté sur le terrain simulé."
+      },
+      "bloc9_memoImprimable": [
+        "1. Identifier le risque prioritaire avant d’agir.",
+        "2. Sécuriser enfants et circulation immédiatement.",
+        "3. Appliquer le protocole validé sans improvisation.",
+        "4. Respecter dilution/temps/compatibilité support.",
+        "5. Utiliser les EPI seulement quand nécessaire.",
+        "6. Contrôler le résultat avec regard croisé.",
+        "7. Tracer situation, décision, action, heure, signature.",
+        "8. Piège fréquent : urgence visuelle ≠ priorité sanitaire.",
+        "9. Mot-clé examen : justification argumentée.",
+        "10. Mot-clé examen : conformité observable et prouvable."
       ],
-      "arbitrage": "Arbitrage : en simulation, corriger immédiatement un oubli de trace (au prix d’un léger retard) ou continuer comme si de rien n’était ? Choix attendu : corriger et assumer.",
-      "groupCase": "Cas groupe : jury croisé entre pairs sur une situation EP3, avec feedback structuré en 4 critères.",
-      "examTrap": "Piège EP3 : croire que l’exécution technique seule suffit à valider la compétence.",
-      "animationDuration": "2h30",
-      "sessionPlan": [
-        "20 min : mise en situation et diagnostic collectif.",
-        "35 min : analyse technique d’erreurs terrain.",
-        "40 min : apport théorique relié aux cas EAJE.",
-        "35 min : atelier micro-protocole et arbitrage.",
-        "20 min : cas groupe + restitution.",
-        "20 min : synthèse mémo + pièges EP3."
+      "media": [
+        "S15_SCHEMA_1",
+        "S15_SCHEMA_2",
+        "S15_SCHEMA_3"
       ],
       "stats": {
-        "wordCount": 259,
-        "schemaCount": 3
+        "wordCount": 5836,
+        "situationsCount": 2,
+        "tableauxCount": 1,
+        "schemaCount": 3,
+        "has9Blocks": true
       }
     }
   ]

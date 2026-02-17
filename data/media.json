@@ -1,543 +1,543 @@
 {
   "media": [
     {
-      "id": "S01_SVG1",
-      "title": "Évaluation des risques — schéma 1",
+      "id": "S01_SCHEMA_1",
+      "title": "Évaluation des risques — analyse-situation",
       "src": "assets/img/sequences/s01-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Évaluation des risques",
+      "alt": "Schéma 1 de Évaluation des risques illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S01",
         "Évaluation des risques",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S01_SVG2",
-      "title": "Évaluation des risques — schéma 2",
+      "id": "S01_SCHEMA_2",
+      "title": "Évaluation des risques — decision-arbitrage",
       "src": "assets/img/sequences/s01-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Évaluation des risques",
+      "alt": "Schéma 2 de Évaluation des risques illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S01",
         "Évaluation des risques",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S01_SVG3",
-      "title": "Évaluation des risques — schéma 3",
+      "id": "S01_SCHEMA_3",
+      "title": "Évaluation des risques — protocole-operatoire",
       "src": "assets/img/sequences/s01-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Évaluation des risques",
+      "alt": "Schéma 3 de Évaluation des risques illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S01",
         "Évaluation des risques",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S02_SVG1",
-      "title": "Dangers chimiques & biologiques — schéma 1",
+      "id": "S02_SCHEMA_1",
+      "title": "Dangers chimiques & biologiques — analyse-situation",
       "src": "assets/img/sequences/s02-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Dangers chimiques & biologiques",
+      "alt": "Schéma 1 de Dangers chimiques & biologiques illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S02",
         "Dangers chimiques & biologiques",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S02_SVG2",
-      "title": "Dangers chimiques & biologiques — schéma 2",
+      "id": "S02_SCHEMA_2",
+      "title": "Dangers chimiques & biologiques — decision-arbitrage",
       "src": "assets/img/sequences/s02-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Dangers chimiques & biologiques",
+      "alt": "Schéma 2 de Dangers chimiques & biologiques illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S02",
         "Dangers chimiques & biologiques",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S02_SVG3",
-      "title": "Dangers chimiques & biologiques — schéma 3",
+      "id": "S02_SCHEMA_3",
+      "title": "Dangers chimiques & biologiques — protocole-operatoire",
       "src": "assets/img/sequences/s02-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Dangers chimiques & biologiques",
+      "alt": "Schéma 3 de Dangers chimiques & biologiques illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S02",
         "Dangers chimiques & biologiques",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S03_SVG1",
-      "title": "EPI / EPC — schéma 1",
+      "id": "S03_SCHEMA_1",
+      "title": "EPI / EPC — analyse-situation",
       "src": "assets/img/sequences/s03-schema-1.svg",
-      "alt": "Schéma 1 de la séquence EPI / EPC",
+      "alt": "Schéma 1 de EPI / EPC illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S03",
         "EPI / EPC",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S03_SVG2",
-      "title": "EPI / EPC — schéma 2",
+      "id": "S03_SCHEMA_2",
+      "title": "EPI / EPC — decision-arbitrage",
       "src": "assets/img/sequences/s03-schema-2.svg",
-      "alt": "Schéma 2 de la séquence EPI / EPC",
+      "alt": "Schéma 2 de EPI / EPC illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S03",
         "EPI / EPC",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S03_SVG3",
-      "title": "EPI / EPC — schéma 3",
+      "id": "S03_SCHEMA_3",
+      "title": "EPI / EPC — protocole-operatoire",
       "src": "assets/img/sequences/s03-schema-3.svg",
-      "alt": "Schéma 3 de la séquence EPI / EPC",
+      "alt": "Schéma 3 de EPI / EPC illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S03",
         "EPI / EPC",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S04_SVG1",
-      "title": "Matériel & protocoles — schéma 1",
+      "id": "S04_SCHEMA_1",
+      "title": "Matériel & protocoles — analyse-situation",
       "src": "assets/img/sequences/s04-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Matériel & protocoles",
+      "alt": "Schéma 1 de Matériel & protocoles illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S04",
         "Matériel & protocoles",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S04_SVG2",
-      "title": "Matériel & protocoles — schéma 2",
+      "id": "S04_SCHEMA_2",
+      "title": "Matériel & protocoles — decision-arbitrage",
       "src": "assets/img/sequences/s04-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Matériel & protocoles",
+      "alt": "Schéma 2 de Matériel & protocoles illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S04",
         "Matériel & protocoles",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S04_SVG3",
-      "title": "Matériel & protocoles — schéma 3",
+      "id": "S04_SCHEMA_3",
+      "title": "Matériel & protocoles — protocole-operatoire",
       "src": "assets/img/sequences/s04-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Matériel & protocoles",
+      "alt": "Schéma 3 de Matériel & protocoles illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S04",
         "Matériel & protocoles",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S05_SVG1",
-      "title": "Produits & désinfectants — schéma 1",
+      "id": "S05_SCHEMA_1",
+      "title": "Produits & désinfectants — analyse-situation",
       "src": "assets/img/sequences/s05-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Produits & désinfectants",
+      "alt": "Schéma 1 de Produits & désinfectants illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S05",
         "Produits & désinfectants",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S05_SVG2",
-      "title": "Produits & désinfectants — schéma 2",
+      "id": "S05_SCHEMA_2",
+      "title": "Produits & désinfectants — decision-arbitrage",
       "src": "assets/img/sequences/s05-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Produits & désinfectants",
+      "alt": "Schéma 2 de Produits & désinfectants illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S05",
         "Produits & désinfectants",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S05_SVG3",
-      "title": "Produits & désinfectants — schéma 3",
+      "id": "S05_SCHEMA_3",
+      "title": "Produits & désinfectants — protocole-operatoire",
       "src": "assets/img/sequences/s05-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Produits & désinfectants",
+      "alt": "Schéma 3 de Produits & désinfectants illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S05",
         "Produits & désinfectants",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S06_SVG1",
-      "title": "Échelle de pH — schéma 1",
+      "id": "S06_SCHEMA_1",
+      "title": "Échelle de pH — analyse-situation",
       "src": "assets/img/sequences/s06-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Échelle de pH",
+      "alt": "Schéma 1 de Échelle de pH illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S06",
         "Échelle de pH",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S06_SVG2",
-      "title": "Échelle de pH — schéma 2",
+      "id": "S06_SCHEMA_2",
+      "title": "Échelle de pH — decision-arbitrage",
       "src": "assets/img/sequences/s06-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Échelle de pH",
+      "alt": "Schéma 2 de Échelle de pH illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S06",
         "Échelle de pH",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S06_SVG3",
-      "title": "Échelle de pH — schéma 3",
+      "id": "S06_SCHEMA_3",
+      "title": "Échelle de pH — protocole-operatoire",
       "src": "assets/img/sequences/s06-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Échelle de pH",
+      "alt": "Schéma 3 de Échelle de pH illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S06",
         "Échelle de pH",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S07_SVG1",
-      "title": "Chimie de l’eau — schéma 1",
+      "id": "S07_SCHEMA_1",
+      "title": "Chimie de l’eau — analyse-situation",
       "src": "assets/img/sequences/s07-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Chimie de l’eau",
+      "alt": "Schéma 1 de Chimie de l’eau illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S07",
         "Chimie de l’eau",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S07_SVG2",
-      "title": "Chimie de l’eau — schéma 2",
+      "id": "S07_SCHEMA_2",
+      "title": "Chimie de l’eau — decision-arbitrage",
       "src": "assets/img/sequences/s07-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Chimie de l’eau",
+      "alt": "Schéma 2 de Chimie de l’eau illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S07",
         "Chimie de l’eau",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S07_SVG3",
-      "title": "Chimie de l’eau — schéma 3",
+      "id": "S07_SCHEMA_3",
+      "title": "Chimie de l’eau — protocole-operatoire",
       "src": "assets/img/sequences/s07-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Chimie de l’eau",
+      "alt": "Schéma 3 de Chimie de l’eau illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S07",
         "Chimie de l’eau",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S08_SVG1",
-      "title": "Types de salissures — schéma 1",
+      "id": "S08_SCHEMA_1",
+      "title": "Types de salissures — analyse-situation",
       "src": "assets/img/sequences/s08-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Types de salissures",
+      "alt": "Schéma 1 de Types de salissures illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S08",
         "Types de salissures",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S08_SVG2",
-      "title": "Types de salissures — schéma 2",
+      "id": "S08_SCHEMA_2",
+      "title": "Types de salissures — decision-arbitrage",
       "src": "assets/img/sequences/s08-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Types de salissures",
+      "alt": "Schéma 2 de Types de salissures illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S08",
         "Types de salissures",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S08_SVG3",
-      "title": "Types de salissures — schéma 3",
+      "id": "S08_SCHEMA_3",
+      "title": "Types de salissures — protocole-operatoire",
       "src": "assets/img/sequences/s08-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Types de salissures",
+      "alt": "Schéma 3 de Types de salissures illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S08",
         "Types de salissures",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S09_SVG1",
-      "title": "Niveaux de salissures — schéma 1",
+      "id": "S09_SCHEMA_1",
+      "title": "Niveaux de salissures — analyse-situation",
       "src": "assets/img/sequences/s09-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Niveaux de salissures",
+      "alt": "Schéma 1 de Niveaux de salissures illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S09",
         "Niveaux de salissures",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S09_SVG2",
-      "title": "Niveaux de salissures — schéma 2",
+      "id": "S09_SCHEMA_2",
+      "title": "Niveaux de salissures — decision-arbitrage",
       "src": "assets/img/sequences/s09-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Niveaux de salissures",
+      "alt": "Schéma 2 de Niveaux de salissures illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S09",
         "Niveaux de salissures",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S09_SVG3",
-      "title": "Niveaux de salissures — schéma 3",
+      "id": "S09_SCHEMA_3",
+      "title": "Niveaux de salissures — protocole-operatoire",
       "src": "assets/img/sequences/s09-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Niveaux de salissures",
+      "alt": "Schéma 3 de Niveaux de salissures illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S09",
         "Niveaux de salissures",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S10_SVG1",
-      "title": "Cercle de Sinner — schéma 1",
+      "id": "S10_SCHEMA_1",
+      "title": "Cercle de Sinner — analyse-situation",
       "src": "assets/img/sequences/s10-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Cercle de Sinner",
+      "alt": "Schéma 1 de Cercle de Sinner illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S10",
         "Cercle de Sinner",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S10_SVG2",
-      "title": "Cercle de Sinner — schéma 2",
+      "id": "S10_SCHEMA_2",
+      "title": "Cercle de Sinner — decision-arbitrage",
       "src": "assets/img/sequences/s10-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Cercle de Sinner",
+      "alt": "Schéma 2 de Cercle de Sinner illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S10",
         "Cercle de Sinner",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S10_SVG3",
-      "title": "Cercle de Sinner — schéma 3",
+      "id": "S10_SCHEMA_3",
+      "title": "Cercle de Sinner — protocole-operatoire",
       "src": "assets/img/sequences/s10-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Cercle de Sinner",
+      "alt": "Schéma 3 de Cercle de Sinner illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S10",
         "Cercle de Sinner",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S11_SVG1",
-      "title": "Loi de Van’t Hoff — schéma 1",
+      "id": "S11_SCHEMA_1",
+      "title": "Loi de Van’t Hoff — analyse-situation",
       "src": "assets/img/sequences/s11-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Loi de Van’t Hoff",
+      "alt": "Schéma 1 de Loi de Van’t Hoff illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S11",
         "Loi de Van’t Hoff",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S11_SVG2",
-      "title": "Loi de Van’t Hoff — schéma 2",
+      "id": "S11_SCHEMA_2",
+      "title": "Loi de Van’t Hoff — decision-arbitrage",
       "src": "assets/img/sequences/s11-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Loi de Van’t Hoff",
+      "alt": "Schéma 2 de Loi de Van’t Hoff illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S11",
         "Loi de Van’t Hoff",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S11_SVG3",
-      "title": "Loi de Van’t Hoff — schéma 3",
+      "id": "S11_SCHEMA_3",
+      "title": "Loi de Van’t Hoff — protocole-operatoire",
       "src": "assets/img/sequences/s11-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Loi de Van’t Hoff",
+      "alt": "Schéma 3 de Loi de Van’t Hoff illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S11",
         "Loi de Van’t Hoff",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S12_SVG1",
-      "title": "Matériaux — schéma 1",
+      "id": "S12_SCHEMA_1",
+      "title": "Matériaux — analyse-situation",
       "src": "assets/img/sequences/s12-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Matériaux",
+      "alt": "Schéma 1 de Matériaux illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S12",
         "Matériaux",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S12_SVG2",
-      "title": "Matériaux — schéma 2",
+      "id": "S12_SCHEMA_2",
+      "title": "Matériaux — decision-arbitrage",
       "src": "assets/img/sequences/s12-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Matériaux",
+      "alt": "Schéma 2 de Matériaux illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S12",
         "Matériaux",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S12_SVG3",
-      "title": "Matériaux — schéma 3",
+      "id": "S12_SCHEMA_3",
+      "title": "Matériaux — protocole-operatoire",
       "src": "assets/img/sequences/s12-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Matériaux",
+      "alt": "Schéma 3 de Matériaux illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S12",
         "Matériaux",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S13_SVG1",
-      "title": "Bionettoyage — schéma 1",
+      "id": "S13_SCHEMA_1",
+      "title": "Bionettoyage — analyse-situation",
       "src": "assets/img/sequences/s13-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Bionettoyage",
+      "alt": "Schéma 1 de Bionettoyage illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S13",
         "Bionettoyage",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S13_SVG2",
-      "title": "Bionettoyage — schéma 2",
+      "id": "S13_SCHEMA_2",
+      "title": "Bionettoyage — decision-arbitrage",
       "src": "assets/img/sequences/s13-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Bionettoyage",
+      "alt": "Schéma 2 de Bionettoyage illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S13",
         "Bionettoyage",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S13_SVG3",
-      "title": "Bionettoyage — schéma 3",
+      "id": "S13_SCHEMA_3",
+      "title": "Bionettoyage — protocole-operatoire",
       "src": "assets/img/sequences/s13-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Bionettoyage",
+      "alt": "Schéma 3 de Bionettoyage illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S13",
         "Bionettoyage",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S14_SVG1",
-      "title": "Méthodes de nettoyage — schéma 1",
+      "id": "S14_SCHEMA_1",
+      "title": "Méthodes de nettoyage — analyse-situation",
       "src": "assets/img/sequences/s14-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Méthodes de nettoyage",
+      "alt": "Schéma 1 de Méthodes de nettoyage illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S14",
         "Méthodes de nettoyage",
-        "conceptuel"
+        "analyse-situation"
       ]
     },
     {
-      "id": "S14_SVG2",
-      "title": "Méthodes de nettoyage — schéma 2",
+      "id": "S14_SCHEMA_2",
+      "title": "Méthodes de nettoyage — decision-arbitrage",
       "src": "assets/img/sequences/s14-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Méthodes de nettoyage",
+      "alt": "Schéma 2 de Méthodes de nettoyage illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S14",
         "Méthodes de nettoyage",
-        "procédure"
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S14_SVG3",
-      "title": "Méthodes de nettoyage — schéma 3",
+      "id": "S14_SCHEMA_3",
+      "title": "Méthodes de nettoyage — protocole-operatoire",
       "src": "assets/img/sequences/s14-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Méthodes de nettoyage",
+      "alt": "Schéma 3 de Méthodes de nettoyage illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S14",
         "Méthodes de nettoyage",
-        "contrôle"
+        "protocole-operatoire"
       ]
     },
     {
-      "id": "S15_SVG1",
-      "title": "Évaluations formatives — schéma 1",
+      "id": "S15_SCHEMA_1",
+      "title": "Évaluations (préparation EP3) — analyse-situation",
       "src": "assets/img/sequences/s15-schema-1.svg",
-      "alt": "Schéma 1 de la séquence Évaluations formatives",
+      "alt": "Schéma 1 de Évaluations (préparation EP3) illustrant analyse-situation",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S15",
-        "Évaluations formatives",
-        "conceptuel"
+        "Évaluations (préparation EP3)",
+        "analyse-situation"
       ]
     },
     {
-      "id": "S15_SVG2",
-      "title": "Évaluations formatives — schéma 2",
+      "id": "S15_SCHEMA_2",
+      "title": "Évaluations (préparation EP3) — decision-arbitrage",
       "src": "assets/img/sequences/s15-schema-2.svg",
-      "alt": "Schéma 2 de la séquence Évaluations formatives",
+      "alt": "Schéma 2 de Évaluations (préparation EP3) illustrant decision-arbitrage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S15",
-        "Évaluations formatives",
-        "procédure"
+        "Évaluations (préparation EP3)",
+        "decision-arbitrage"
       ]
     },
     {
-      "id": "S15_SVG3",
-      "title": "Évaluations formatives — schéma 3",
+      "id": "S15_SCHEMA_3",
+      "title": "Évaluations (préparation EP3) — protocole-operatoire",
       "src": "assets/img/sequences/s15-schema-3.svg",
-      "alt": "Schéma 3 de la séquence Évaluations formatives",
+      "alt": "Schéma 3 de Évaluations (préparation EP3) illustrant protocole-operatoire",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S15",
-        "Évaluations formatives",
-        "contrôle"
+        "Évaluations (préparation EP3)",
+        "protocole-operatoire"
       ]
     }
   ]
