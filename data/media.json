@@ -539,6 +539,166 @@
       "src": "assets/img/sequences/s15-schema-4.svg",
       "alt": "S15 schéma erreur",
       "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "learn-schema-01",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 01",
+      "src": "assets/img/learning/learn-schema-01.svg",
+      "alt": "Schéma pédagogique 01 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-02",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 02",
+      "src": "assets/img/learning/learn-schema-02.svg",
+      "alt": "Schéma pédagogique 02 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-03",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 03",
+      "src": "assets/img/learning/learn-schema-03.svg",
+      "alt": "Schéma pédagogique 03 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-04",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 04",
+      "src": "assets/img/learning/learn-schema-04.svg",
+      "alt": "Schéma pédagogique 04 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-05",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 05",
+      "src": "assets/img/learning/learn-schema-05.svg",
+      "alt": "Schéma pédagogique 05 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-06",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 06",
+      "src": "assets/img/learning/learn-schema-06.svg",
+      "alt": "Schéma pédagogique 06 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-07",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 07",
+      "src": "assets/img/learning/learn-schema-07.svg",
+      "alt": "Schéma pédagogique 07 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-08",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 08",
+      "src": "assets/img/learning/learn-schema-08.svg",
+      "alt": "Schéma pédagogique 08 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-09",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 09",
+      "src": "assets/img/learning/learn-schema-09.svg",
+      "alt": "Schéma pédagogique 09 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-10",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 10",
+      "src": "assets/img/learning/learn-schema-10.svg",
+      "alt": "Schéma pédagogique 10 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-11",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 11",
+      "src": "assets/img/learning/learn-schema-11.svg",
+      "alt": "Schéma pédagogique 11 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-12",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 12",
+      "src": "assets/img/learning/learn-schema-12.svg",
+      "alt": "Schéma pédagogique 12 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-13",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 13",
+      "src": "assets/img/learning/learn-schema-13.svg",
+      "alt": "Schéma pédagogique 13 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-14",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 14",
+      "src": "assets/img/learning/learn-schema-14.svg",
+      "alt": "Schéma pédagogique 14 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-15",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 15",
+      "src": "assets/img/learning/learn-schema-15.svg",
+      "alt": "Schéma pédagogique 15 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-16",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 16",
+      "src": "assets/img/learning/learn-schema-16.svg",
+      "alt": "Schéma pédagogique 16 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-17",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 17",
+      "src": "assets/img/learning/learn-schema-17.svg",
+      "alt": "Schéma pédagogique 17 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-18",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 18",
+      "src": "assets/img/learning/learn-schema-18.svg",
+      "alt": "Schéma pédagogique 18 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-19",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 19",
+      "src": "assets/img/learning/learn-schema-19.svg",
+      "alt": "Schéma pédagogique 19 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "learn-schema-20",
+      "type": "schema-learning",
+      "title": "Schéma pédagogique 20",
+      "src": "assets/img/learning/learn-schema-20.svg",
+      "alt": "Schéma pédagogique 20 pour entraînement/diagnostic/connaissances",
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
     }
   ]
 }

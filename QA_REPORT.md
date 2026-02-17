@@ -56,3 +56,31 @@ Date: 2026-02-17
 - `browser:/tmp/codex_browser_invocations/66a0c110143e2504/artifacts/artifacts/qa-index.png`
 - `browser:/tmp/codex_browser_invocations/e2ecc975ac64c99d/artifacts/artifacts/qa-sequences-page.png`
 - `browser:/tmp/codex_browser_invocations/64cb9601a6fe7879/artifacts/artifacts/qa-parcours-page.png`
+
+
+## Extension socle complet (Entraînement / Diagnostic / Connaissances)
+- nb_questions: 180
+- nb_diagnostic_items: 45
+- nb_notions: 12
+- nb_glossaire: 30
+- nb_microprotocoles: 8
+- nb_pieges_ep3: 10
+- nb_medias_learning: 20
+- check pages non vides: `entrainement.html`, `diagnostic.html`, `connaissances.html` remplies et interactives.
+- check entraînement: tirage sans doublon intra-session + historique inter-session localStorage + reset.
+- check diagnostic: score par compétence (0-100), recommandations avec liens, export JSON + impression.
+
+
+## Smoke test manuel demandé
+Date: 2026-02-17
+- [x] Ouvrir `index.html`
+- [x] Aller sur `sequences.html`
+- [x] Ouvrir/fermer 3 overlays différents
+- [x] Ouvrir 3 capsules dans `parcours.html`
+- [x] Ouvrir `entrainement.html` puis déclencher `Corriger`
+- [x] Ouvrir `docs/credits.html`
+
+Captures:
+- `browser:/tmp/codex_browser_invocations/6078218a8b7425e5/artifacts/artifacts/v3-entrainement.png`
+- `browser:/tmp/codex_browser_invocations/950d4d05718957ec/artifacts/artifacts/v3-diagnostic.png`
+- `browser:/tmp/codex_browser_invocations/576eb638c716eedf/artifacts/artifacts/v3-connaissances.png`

@@ -1,5 +1,45 @@
-<!doctype html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Connaissances</title><link rel="stylesheet" href="assets/css/app.css"></head>
-<body data-base="./" data-page="connaissances.html"><main>
-  <section class="card"><h2>Connaissances mutualisées</h2><div class="toolbar"><input id="searchNotions" type="search" placeholder="Recherche notions"></div><div id="notionsList" class="list"></div></section>
-  <div id="notionOverlay" class="overlay" data-overlay aria-modal="true" role="dialog"><article class="dialog"><button class="close" aria-label="Fermer">✕</button><div id="notionBody"></div></article></div>
-</main><script src="assets/js/common.js"></script><script src="assets/js/loaders.js"></script><script src="assets/js/connaissances.js"></script></body></html>
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Connaissances CAP AEPE</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body data-base="./" data-page="connaissances.html">
+<main>
+  <section class="card">
+    <h2>Connaissances — mini-cours</h2>
+    <div class="toolbar"><input id="searchNotions" type="search" placeholder="Rechercher une fiche/notion"></div>
+    <div id="notionsList" class="list"></div>
+  </section>
+
+  <section class="card">
+    <h3>Glossaire (30 entrées)</h3>
+    <div class="toolbar"><input id="searchGloss" type="search" placeholder="Rechercher un terme"></div>
+    <div id="glossaireList" class="list"></div>
+  </section>
+
+  <section class="card">
+    <h3>8 micro-protocoles terrain</h3>
+    <div id="protocolesList" class="list"></div>
+  </section>
+
+  <section class="card">
+    <h3>Pièges d’examen EP3</h3>
+    <ol id="piegesList"></ol>
+  </section>
+
+  <section class="card">
+    <h3>Diagnostic technique (dev)</h3>
+    <ul id="techDiagnostics"></ul>
+  </section>
+
+  <div id="notionOverlay" class="overlay" data-overlay aria-modal="true" role="dialog">
+    <article class="dialog"><button class="close" aria-label="Fermer">✕</button><div id="notionBody"></div></article>
+  </div>
+</main>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/loaders.js"></script>
+<script src="assets/js/connaissances.js"></script>
+</body>
+</html>

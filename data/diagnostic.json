@@ -1,310 +1,505 @@
 {
   "items": [
     {
-      "q": "Item 1. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D001",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 1).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 1: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N01",
+        "N04"
+      ]
     },
     {
-      "q": "Item 2. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Microbiologie"
+      "id": "D002",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 2).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 2: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N02",
+        "N05"
+      ]
     },
     {
-      "q": "Item 3. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Protocole"
+      "id": "D003",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 3).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 3: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N03",
+        "N06"
+      ]
     },
     {
-      "q": "Item 4. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D004",
+      "competence": "qualite",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à qualite en contexte réel (item 4).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 4: en section EAJE, un écart qualite apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N04",
+        "N07"
+      ]
     },
     {
-      "q": "Item 5. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D005",
+      "competence": "epi",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à epi en contexte réel (item 5).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 5: en section EAJE, un écart epi apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N05",
+        "N08"
+      ]
     },
     {
-      "q": "Item 6. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Microbiologie"
+      "id": "D006",
+      "competence": "produits",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à produits en contexte réel (item 6).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 6: en section EAJE, un écart produits apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N06",
+        "N09"
+      ]
     },
     {
-      "q": "Item 7. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "domain": "Protocole"
+      "id": "D007",
+      "competence": "microbio",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à microbio en contexte réel (item 7).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 7: en section EAJE, un écart microbio apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N07",
+        "N10"
+      ]
     },
     {
-      "q": "Item 8. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D008",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 8).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 8: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N08",
+        "N11"
+      ]
     },
     {
-      "q": "Item 9. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D009",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 9).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 9: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N09",
+        "N12"
+      ]
     },
     {
-      "q": "Item 10. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Microbiologie"
+      "id": "D010",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 10).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 10: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N10",
+        "N01"
+      ]
     },
     {
-      "q": "Item 11. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Protocole"
+      "id": "D011",
+      "competence": "qualite",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à qualite en contexte réel (item 11).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 11: en section EAJE, un écart qualite apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N11",
+        "N02"
+      ]
     },
     {
-      "q": "Item 12. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D012",
+      "competence": "epi",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à epi en contexte réel (item 12).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 12: en section EAJE, un écart epi apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N12",
+        "N03"
+      ]
     },
     {
-      "q": "Item 13. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D013",
+      "competence": "produits",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à produits en contexte réel (item 13).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 13: en section EAJE, un écart produits apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N01",
+        "N04"
+      ]
     },
     {
-      "q": "Item 14. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Microbiologie"
+      "id": "D014",
+      "competence": "microbio",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à microbio en contexte réel (item 14).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 14: en section EAJE, un écart microbio apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N02",
+        "N05"
+      ]
     },
     {
-      "q": "Item 15. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Protocole"
+      "id": "D015",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 15).",
+      "niveau": 1,
+      "exemple_terrain": "Exemple terrain 15: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N03",
+        "N06"
+      ]
     },
     {
-      "q": "Item 16. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D016",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 16).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 16: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N04",
+        "N07"
+      ]
     },
     {
-      "q": "Item 17. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D017",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 17).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 17: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N05",
+        "N08"
+      ]
     },
     {
-      "q": "Item 18. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "domain": "Microbiologie"
+      "id": "D018",
+      "competence": "qualite",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à qualite en contexte réel (item 18).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 18: en section EAJE, un écart qualite apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N06",
+        "N09"
+      ]
     },
     {
-      "q": "Item 19. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Protocole"
+      "id": "D019",
+      "competence": "epi",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à epi en contexte réel (item 19).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 19: en section EAJE, un écart epi apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N07",
+        "N10"
+      ]
     },
     {
-      "q": "Item 20. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D020",
+      "competence": "produits",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à produits en contexte réel (item 20).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 20: en section EAJE, un écart produits apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N08",
+        "N11"
+      ]
     },
     {
-      "q": "Item 21. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D021",
+      "competence": "microbio",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à microbio en contexte réel (item 21).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 21: en section EAJE, un écart microbio apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N09",
+        "N12"
+      ]
     },
     {
-      "q": "Item 22. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Microbiologie"
+      "id": "D022",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 22).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 22: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N10",
+        "N01"
+      ]
     },
     {
-      "q": "Item 23. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Protocole"
+      "id": "D023",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 23).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 23: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N11",
+        "N02"
+      ]
     },
     {
-      "q": "Item 24. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D024",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 24).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 24: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N12",
+        "N03"
+      ]
     },
     {
-      "q": "Item 25. Je sais appliquer une procédure hygiène sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Hygiène"
+      "id": "D025",
+      "competence": "qualite",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à qualite en contexte réel (item 25).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 25: en section EAJE, un écart qualite apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N01",
+        "N04"
+      ]
     },
     {
-      "q": "Item 26. Je sais appliquer une procédure microbiologie sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Microbiologie"
+      "id": "D026",
+      "competence": "epi",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à epi en contexte réel (item 26).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 26: en section EAJE, un écart epi apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N02",
+        "N05"
+      ]
     },
     {
-      "q": "Item 27. Je sais appliquer une procédure protocole sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Protocole"
+      "id": "D027",
+      "competence": "produits",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à produits en contexte réel (item 27).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 27: en section EAJE, un écart produits apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N03",
+        "N06"
+      ]
     },
     {
-      "q": "Item 28. Je sais appliquer une procédure qualité sans assistance.",
-      "options": [
-        "Jamais",
-        "Rarement",
-        "Souvent",
-        "Toujours"
-      ],
-      "answer": 3,
-      "domain": "Qualité"
+      "id": "D028",
+      "competence": "microbio",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à microbio en contexte réel (item 28).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 28: en section EAJE, un écart microbio apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N04",
+        "N07"
+      ]
+    },
+    {
+      "id": "D029",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 29).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 29: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N05",
+        "N08"
+      ]
+    },
+    {
+      "id": "D030",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 30).",
+      "niveau": 2,
+      "exemple_terrain": "Exemple terrain 30: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N06",
+        "N09"
+      ]
+    },
+    {
+      "id": "D031",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 31).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 31: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N07",
+        "N10"
+      ]
+    },
+    {
+      "id": "D032",
+      "competence": "qualite",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à qualite en contexte réel (item 32).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 32: en section EAJE, un écart qualite apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N08",
+        "N11"
+      ]
+    },
+    {
+      "id": "D033",
+      "competence": "epi",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à epi en contexte réel (item 33).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 33: en section EAJE, un écart epi apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N09",
+        "N12"
+      ]
+    },
+    {
+      "id": "D034",
+      "competence": "produits",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à produits en contexte réel (item 34).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 34: en section EAJE, un écart produits apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N10",
+        "N01"
+      ]
+    },
+    {
+      "id": "D035",
+      "competence": "microbio",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à microbio en contexte réel (item 35).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 35: en section EAJE, un écart microbio apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N11",
+        "N02"
+      ]
+    },
+    {
+      "id": "D036",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 36).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 36: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N12",
+        "N03"
+      ]
+    },
+    {
+      "id": "D037",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 37).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 37: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N01",
+        "N04"
+      ]
+    },
+    {
+      "id": "D038",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 38).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 38: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N02",
+        "N05"
+      ]
+    },
+    {
+      "id": "D039",
+      "competence": "qualite",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à qualite en contexte réel (item 39).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 39: en section EAJE, un écart qualite apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N03",
+        "N06"
+      ]
+    },
+    {
+      "id": "D040",
+      "competence": "epi",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à epi en contexte réel (item 40).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 40: en section EAJE, un écart epi apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N04",
+        "N07"
+      ]
+    },
+    {
+      "id": "D041",
+      "competence": "produits",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à produits en contexte réel (item 41).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 41: en section EAJE, un écart produits apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N05",
+        "N08"
+      ]
+    },
+    {
+      "id": "D042",
+      "competence": "microbio",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à microbio en contexte réel (item 42).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 42: en section EAJE, un écart microbio apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N06",
+        "N09"
+      ]
+    },
+    {
+      "id": "D043",
+      "competence": "protocole",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à protocole en contexte réel (item 43).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 43: en section EAJE, un écart protocole apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N07",
+        "N10"
+      ]
+    },
+    {
+      "id": "D044",
+      "competence": "hygiene",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à hygiene en contexte réel (item 44).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 44: en section EAJE, un écart hygiene apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N08",
+        "N11"
+      ]
+    },
+    {
+      "id": "D045",
+      "competence": "risque",
+      "formulation": "Je maîtrise de manière régulière les décisions liées à risque en contexte réel (item 45).",
+      "niveau": 3,
+      "exemple_terrain": "Exemple terrain 45: en section EAJE, un écart risque apparaît pendant une transition d’activité.",
+      "lien_notions": [
+        "N09",
+        "N12"
+      ]
     }
+  ],
+  "scale": [
+    "Jamais",
+    "Rarement",
+    "Souvent",
+    "Toujours"
   ]
 }

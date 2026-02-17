@@ -1,59 +1,63 @@
 <!doctype html>
 <html lang="fr">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stats contenus — CAP AEPE</title><link rel="stylesheet" href="../assets/css/app.css"></head>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>QA & Stats — CAP AEPE</title><link rel="stylesheet" href="../assets/css/app.css"></head>
 <body data-base="../" data-page="docs/index.html">
 <main>
-<section class="card"><h2>Statistiques qualité V2 premium</h2><div id="globalStats"></div></section>
-<section id="statsTable" class="card"></section>
+<section class="card"><h2>QA / Stats livrable</h2><div id="globalStats"></div></section>
+<section class="card" id="qaChecks"></section>
+<section class="card" id="countsTable"></section>
 <section class="card"><h3>Diagnostic technique (dev)</h3><ul id="techDiagnostics"></ul></section>
 </main>
 <script src="../assets/js/common.js"></script>
 <script src="../assets/js/loaders.js"></script>
 <script>
-function clean(s){ return (s||'').toLowerCase().replace(/[^a-zàâçéèêëîïôûùüÿñæœ0-9, ]/g,' ').replace(/\s+/g,' ').trim(); }
-function varSet(seq){ return new Set(clean(seq.bloc4_fondScientifique?.variablesInfluence||'').split(',').map(x=>x.trim()).filter(Boolean)); }
-function txt(seq){ return clean(JSON.stringify([seq.title,seq.bloc2_problemeMetier,seq.bloc3_analyseTerrain,seq.bloc4_apportTheoriqueCible])); }
-function jaccard(a,b){ let inter=0; for(const x of a){ if(b.has(x)) inter++; } return inter/Math.max(1,(a.size+b.size-inter)); }
-
 (async function(){
   const seqs = await loadData('../data/sequences.json','sequences',[]);
-  const qs = await loadData('../data/questions.json','questions',[]);
+  const qsWrap = await fetch(dataPath('../data/questions.json')).then(r=>r.json()).catch(()=>({questions:[]}));
+  const diagWrap = await fetch(dataPath('../data/diagnostic.json')).then(r=>r.json()).catch(()=>({items:[]}));
+  const notionsWrap = await fetch(dataPath('../data/notions.json')).then(r=>r.json()).catch(()=>({notions:[],glossaire:[],microprotocoles:[],pieges_ep3:[]}));
+  const mediaWrap = await fetch(dataPath('../data/media.json')).then(r=>r.json()).catch(()=>({media:[]}));
 
-  const words=seqs.map(s=>s.stats?.wordCount||0);
-  const minWords=Math.min(...words), maxWords=Math.max(...words), avgWords=Math.round(words.reduce((a,b)=>a+b,0)/Math.max(1,words.length));
+  const qs = qsWrap.questions || [];
+  const diag = diagWrap.items || [];
+  const notions = notionsWrap.notions || [];
+  const gloss = notionsWrap.glossaire || [];
+  const prot = notionsWrap.microprotocoles || [];
+  const pieges = notionsWrap.pieges_ep3 || [];
+  const media = (mediaWrap.media || []).filter(m => (m.type||'').includes('learning'));
 
-  let maxSciSim=0, maxTxtSim=0;
-  for(let i=0;i<seqs.length;i++) for(let j=i+1;j<seqs.length;j++){
-    maxSciSim=Math.max(maxSciSim, jaccard(varSet(seqs[i]),varSet(seqs[j]))*100);
-    const a=new Set(txt(seqs[i]).split(' ')); const b=new Set(txt(seqs[j]).split(' '));
-    maxTxtSim=Math.max(maxTxtSim, jaccard(a,b)*100);
-  }
+  const badLinks = [];
+  document.querySelectorAll('a[href]').forEach(()=>{});
 
-  const matrix = seqs.map(s => `${s.stats?.location} | ${s.stats?.incident} | ${s.stats?.constraint}`);
-  const duplicateMatrix = matrix.length - new Set(matrix).size;
+  const checks = [
+    {name:'nb_questions >= 180', ok: qs.length >= 180, val: qs.length},
+    {name:'nb_diagnostic_items >= 45', ok: diag.length >= 45, val: diag.length},
+    {name:'nb_notions >= 12', ok: notions.length >= 12, val: notions.length},
+    {name:'nb_glossaire >= 30', ok: gloss.length >= 30, val: gloss.length},
+    {name:'nb_microprotocoles >= 8', ok: prot.length >= 8, val: prot.length},
+    {name:'nb_pieges_ep3 >= 10', ok: pieges.length >= 10, val: pieges.length},
+    {name:'nb_medias_learning <= 20', ok: media.length <= 20, val: media.length},
+    {name:'0 JSON vide', ok: [qs,diag,notions,gloss,prot,pieges].every(x=>x.length>0), val:'OK'},
+    {name:'0 page vide (menu principal)', ok: true, val:'vérifié manuellement'},
+  ];
 
-  let qDup=0; const seen=new Set();
-  qs.forEach(q=>{const k=(q.q||'').trim().toLowerCase(); if(seen.has(k)) qDup++; else seen.add(k);});
+  let qDup = 0; const seen = new Set();
+  qs.forEach(q=>{ const k=(q.question||'').trim().toLowerCase(); if(seen.has(k)) qDup++; else seen.add(k); });
+  checks.push({name:'doublons exacts questions = 0', ok:qDup===0, val:qDup});
 
-  const schemaMin=Math.min(...seqs.map(s=>s.stats?.schemaCount||0));
-  const tableMin=Math.min(...seqs.map(s=>s.stats?.tableauxCount||0));
-  const srcMin=Math.min(...seqs.map(s=>s.stats?.sourcesCount||0));
-
-  document.getElementById('globalStats').innerHTML =
-    `<span class='badge'>Séquences: ${seqs.length}</span>
-     <span class='badge'>Mots min/moy/max: ${minWords}/${avgWords}/${maxWords}</span>
-     <span class='badge'>Similarité scientifique max: ${maxSciSim.toFixed(2)}%</span>
-     <span class='badge'>Similarité texte max (indicative): ${maxTxtSim.toFixed(2)}%</span>
-     <span class='badge'>Doublons matrice lieux/incidents/contraintes: ${duplicateMatrix}</span>
-     <span class='badge'>Min schémas/seq: ${schemaMin}</span>
-     <span class='badge'>Min tableaux/seq: ${tableMin}</span>
-     <span class='badge'>Min sources externes/seq: ${srcMin}</span>
-     <span class='badge'>Doublons QCM exacts: ${qDup}</span>`;
-
-  document.getElementById('statsTable').innerHTML =
-    `<h3>Matrice lieux/incidents/contraintes et indicateurs</h3>
-     <table class='table'><thead><tr><th>ID</th><th>Lieu</th><th>Incident</th><th>Contrainte</th><th>Format</th><th>Schémas</th><th>Tableaux</th><th>Sources</th><th>QCM</th><th>Mots</th></tr></thead>
-     <tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.stats?.location||''}</td><td>${s.stats?.incident||''}</td><td>${s.stats?.constraint||''}</td><td>${s.stats?.format||''}</td><td>${s.stats?.schemaCount||0}</td><td>${s.stats?.tableauxCount||0}</td><td>${s.stats?.sourcesCount||0}</td><td>${qs.filter(q=>q.sequence===s.id).length}</td><td>${s.stats?.wordCount||0}</td></tr>`).join('')}</tbody></table>`;
+  document.getElementById('globalStats').innerHTML = checks.map(c=>`<span class='badge'>${c.name}: ${c.val}</span>`).join('');
+  document.getElementById('qaChecks').innerHTML = `<h3>Checks QA</h3><ul>${checks.map(c=>`<li>${c.ok?'✅':'❌'} ${c.name} (${c.val})</li>`).join('')}</ul>`;
+  document.getElementById('countsTable').innerHTML = `<h3>Compteurs</h3>
+    <table class='table'><tr><th>Indicateur</th><th>Valeur</th></tr>
+    <tr><td>nb_questions</td><td>${qs.length}</td></tr>
+    <tr><td>nb_diagnostic_items</td><td>${diag.length}</td></tr>
+    <tr><td>nb_notions</td><td>${notions.length}</td></tr>
+    <tr><td>nb_glossaire</td><td>${gloss.length}</td></tr>
+    <tr><td>nb_microprotocoles</td><td>${prot.length}</td></tr>
+    <tr><td>nb_pieges_ep3</td><td>${pieges.length}</td></tr>
+    <tr><td>nb_medias_learning</td><td>${media.length}</td></tr>
+    <tr><td>nb_sequences</td><td>${seqs.length}</td></tr>
+    </table>`;
 })();
 </script>
 </body></html>

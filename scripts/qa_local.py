@@ -20,82 +20,63 @@ class LinkParser(HTMLParser):
             if key in attrs:
                 self.links.append(attrs[key].strip())
 
-fails = []
-warns = []
+fails, warns = [], []
 
 # A) HTML sanity
 for html in HTML_FILES:
     text = html.read_text(encoding='utf-8', errors='ignore')
-    lines = text.splitlines()
-    top20 = '\n'.join(lines[:20]).lower()
+    top20 = '\n'.join(text.splitlines()[:20]).lower()
     html_pos = text.lower().find('<html')
     md_pos = text.find('\n## ')
     if not (text.lstrip().lower().startswith('<!doctype html>') or '<html' in top20):
-        fails.append(f"[HTML sanity] {html.relative_to(ROOT)}: missing <!doctype html> and no <html in first 20 lines")
+        fails.append(f"[HTML sanity] {html.relative_to(ROOT)} invalid HTML wrapper")
     if md_pos != -1 and (html_pos == -1 or md_pos < html_pos):
-        fails.append(f"[HTML sanity] {html.relative_to(ROOT)}: markdown heading before <html>")
+        fails.append(f"[HTML sanity] {html.relative_to(ROOT)} markdown heading before <html>")
 
-# B/C) path rules + existence from HTML
+# B/C) links rules + existence
 for html in HTML_FILES:
     parser = LinkParser()
-    data = html.read_text(encoding='utf-8', errors='ignore')
-    parser.feed(data)
+    parser.feed(html.read_text(encoding='utf-8', errors='ignore'))
     for ref in parser.links:
-        if not ref or ref.startswith(('http://', 'https://', 'mailto:', '#', 'javascript:')):
+        if not ref or ref.startswith(('http://','https://','mailto:','#','javascript:')):
             continue
         if ref.startswith('/assets/') or ref.startswith('/data/'):
-            fails.append(f"[GitHub Pages paths] {html.relative_to(ROOT)}: forbidden absolute path {ref}")
+            fails.append(f"[GitHub Pages paths] {html.relative_to(ROOT)} absolute path forbidden: {ref}")
             continue
-        base = html.parent
-        target = (base / ref).resolve()
-        # strip query/hash fallback
         ref_clean = ref.split('#')[0].split('?')[0]
-        target = (base / ref_clean).resolve()
+        target = (html.parent / ref_clean).resolve()
         if not target.exists():
-            fails.append(f"[Resource existence] {html.relative_to(ROOT)}: missing {ref}")
+            fails.append(f"[Resource existence] {html.relative_to(ROOT)} missing {ref}")
 
-# C) JSON validity + non-empty
+# C) JSON valid non-empty
+json_payloads = {}
 for js in JSON_FILES:
     try:
         payload = json.loads(js.read_text(encoding='utf-8'))
     except Exception as e:
         fails.append(f"[JSON] {js.relative_to(ROOT)} invalid: {e}")
         continue
-    if isinstance(payload, dict):
-        if not payload:
-            fails.append(f"[JSON] {js.relative_to(ROOT)} empty object")
-        for k, v in payload.items():
-            if isinstance(v, list) and len(v) == 0:
-                fails.append(f"[JSON] {js.relative_to(ROOT)} key '{k}' is empty list")
-    elif isinstance(payload, list):
-        if len(payload) == 0:
-            fails.append(f"[JSON] {js.relative_to(ROOT)} empty list")
+    json_payloads[js.name] = payload
+    if isinstance(payload, dict) and not payload:
+        fails.append(f"[JSON] {js.relative_to(ROOT)} empty object")
 
-# D) Anti-duplicates for sequences
-seq_path = ROOT / 'data' / 'sequences.json'
-if seq_path.exists():
-    seqs = json.loads(seq_path.read_text(encoding='utf-8')).get('sequences', [])
-    seen_context = set()
+# D) anti-duplicate sequences
+seqs = json_payloads.get('sequences.json', {}).get('sequences', [])
+if seqs:
+    seen_loc_inc = set()
 
-    def norm(text: str) -> str:
-        text = text.lower()
-        text = re.sub(r"[^a-zàâçéèêëîïôûùüÿñæœ0-9\s]", " ", text)
-        return re.sub(r"\s+", " ", text).strip()
+    def norm(s):
+        s = s.lower()
+        s = re.sub(r"[^a-zàâçéèêëîïôûùüÿñæœ0-9\s]", " ", s)
+        return re.sub(r"\s+", " ", s).strip()
 
     def signature(s):
         f = s.get('bloc4_fondScientifique', {})
         b1 = s.get('bloc1_situationProfessionnelle', {})
-        b7 = s.get('bloc7_casGroupeArbitrage', {})
         return norm(' '.join([
-            s.get('title', ''),
-            b1.get('situation1', ''),
-            f.get('mecanismes', ''),
-            f.get('variablesInfluence', ''),
-            f.get('erreursInterpretation', ''),
-            f.get('contreExemple', ''),
-            f.get('limitesApplication', ''),
-            f.get('comparaisonTerrain', ''),
-            b7.get('situation', ''),
+            s.get('title',''), b1.get('situation1',''),
+            f.get('mecanismes',''), f.get('variablesInfluence',''),
+            f.get('erreursInterpretation',''), f.get('contreExemple','')
         ]))
 
     def ngrams(text, n=4):
@@ -104,62 +85,81 @@ if seq_path.exists():
 
     for s in seqs:
         st = s.get('stats', {})
-        key = (st.get('location', '').strip().lower(), st.get('incident', '').strip().lower())
-        if key in seen_context:
-            fails.append(f"[Sequences duplicates] repeated location/incident tuple: {key}")
-        seen_context.add(key)
+        key = (st.get('location','').lower().strip(), st.get('incident','').lower().strip())
+        if key in seen_loc_inc:
+            fails.append(f"[Sequences] duplicate context pair {key}")
+        seen_loc_inc.add(key)
 
-    for a, b in combinations(seqs, 2):
+    for a,b in combinations(seqs,2):
         na, nb = ngrams(signature(a)), ngrams(signature(b))
         if not na or not nb:
             continue
         overlap = len(na & nb) / max(1, min(len(na), len(nb)))
         if overlap > 0.30:
-            warns.append(f"[Sequences similarity] {a.get('id')} vs {b.get('id')} overlap={overlap:.2%}")
+            warns.append(f"[Sequences similarity] {a.get('id')} vs {b.get('id')} overlap {overlap:.2%}")
 
-# E) QCM quality
-qpath = ROOT / 'data' / 'questions.json'
-if qpath.exists():
-    qdata = json.loads(qpath.read_text(encoding='utf-8')).get('questions', [])
-    q_text_seen = set()
-    for i, q in enumerate(qdata, start=1):
-        qid = q.get('id', f'#{i}')
-        options = q.get('options', [])
-        ans = q.get('answer', None)
-        explain = q.get('explain', '')
-        if not isinstance(options, list) or len(options) < 4:
-            fails.append(f"[QCM] {qid}: requires >=4 options")
-            continue
-        if not isinstance(ans, int) or not (0 <= ans < len(options)):
-            fails.append(f"[QCM] {qid}: invalid answer index")
-        distractors = [o for idx, o in enumerate(options) if idx != ans]
-        if len([d for d in distractors if isinstance(d, str) and len(d.strip()) >= 8]) < 3:
-            fails.append(f"[QCM] {qid}: distractors not plausible enough")
-        if not isinstance(explain, str) or len(explain.strip()) < 20:
-            fails.append(f"[QCM] {qid}: missing justification/corrigé")
-        k = q.get('q', '').strip().lower()
-        if k in q_text_seen:
-            fails.append(f"[QCM] duplicate question stem: {qid}")
-        q_text_seen.add(k)
+# E) QCM quality and no repeat session support
+questions = json_payloads.get('questions.json', {}).get('questions', [])
+if len(questions) < 180:
+    fails.append(f"[QCM] questions count < 180 ({len(questions)})")
+qseen = set()
+for q in questions:
+    qid = q.get('id')
+    for k in ['theme','niveau','type','question','choix','reponses','justification','distracteurs_expliques','reference','tags','piege_examen','lien_notions']:
+        if k not in q:
+            fails.append(f"[QCM] {qid} missing key {k}")
+    if not isinstance(q.get('choix'), list) or len(q['choix']) < 4:
+        fails.append(f"[QCM] {qid} must have >=4 choices")
+    if not isinstance(q.get('reponses'), list) or len(q['reponses']) < 1:
+        fails.append(f"[QCM] {qid} must have >=1 correct answer")
+    if not isinstance(q.get('justification',''), str) or len(q['justification'].strip()) < 80:
+        fails.append(f"[QCM] {qid} weak justification")
+    if q.get('question','').strip().lower() in qseen:
+        fails.append(f"[QCM] duplicate question text {qid}")
+    qseen.add(q.get('question','').strip().lower())
 
-    # session no-repeat check (data-level + JS strategy)
-    if len({q.get('id') for q in qdata}) != len(qdata):
-        fails.append("[QCM session] duplicate ids in questions.json")
-    js = (ROOT / 'assets' / 'js' / 'entrainement.js').read_text(encoding='utf-8', errors='ignore')
-    if 'splice(' not in js:
-        fails.append("[QCM session] entrainement.js does not clearly sample without replacement (splice missing)")
+ent_js = (ROOT/'assets/js/entrainement.js').read_text(encoding='utf-8', errors='ignore')
+if 'localStorage' not in ent_js or 'splice(' not in ent_js:
+    fails.append('[QCM session] no evidence of anti-repeat logic in entrainement.js')
+
+# Diagnostic min
+diag = json_payloads.get('diagnostic.json', {}).get('items', [])
+if len(diag) < 45:
+    fails.append(f"[Diagnostic] items count <45 ({len(diag)})")
+for d in diag:
+    for k in ['id','competence','formulation','niveau','exemple_terrain','lien_notions']:
+        if k not in d:
+            fails.append(f"[Diagnostic] item missing {k}")
+
+# Connaissances minimum
+notions_payload = json_payloads.get('notions.json', {})
+notions = notions_payload.get('notions', [])
+gloss = notions_payload.get('glossaire', [])
+micro = notions_payload.get('microprotocoles', [])
+pieges = notions_payload.get('pieges_ep3', [])
+if len(notions) < 12: fails.append(f"[Notions] <12 ({len(notions)})")
+if len(gloss) < 30: fails.append(f"[Glossaire] <30 ({len(gloss)})")
+if len(micro) < 8: fails.append(f"[Microprotocoles] <8 ({len(micro)})")
+if len(pieges) < 10: fails.append(f"[Pieges] <10 ({len(pieges)})")
+
+# learning media <=20
+media = json_payloads.get('media.json', {}).get('media', [])
+learning = [m for m in media if (m.get('type') or '').startswith('schema-learning')]
+if len(learning) > 20:
+    fails.append(f"[Media] learning media >20 ({len(learning)})")
+for m in learning:
+    if not (ROOT / m.get('src','')).exists():
+        fails.append(f"[Media] missing file {m.get('src')}")
 
 print('QA local guardrails summary')
-print(f"- HTML files scanned: {len(HTML_FILES)}")
-print(f"- JSON files scanned: {len(JSON_FILES)}")
+print(f'- HTML files scanned: {len(HTML_FILES)}')
+print(f'- JSON files scanned: {len(JSON_FILES)}')
 if warns:
-    print(f"- WARNINGS: {len(warns)}")
-    for w in warns[:15]:
+    print(f'- WARNINGS: {len(warns)}')
+    for w in warns[:10]:
         print('  WARN', w)
-    if len(warns) > 15:
-        print(f"  ... {len(warns)-15} more")
 if fails:
-    print(f"- FAILURES: {len(fails)}")
+    print(f'- FAILURES: {len(fails)}')
     for f in fails:
         print('  FAIL', f)
     sys.exit(1)

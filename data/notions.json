@@ -1,68 +1,570 @@
 {
   "notions": [
     {
-      "id": "N-01",
-      "title": "Risque infectieux en EAJE",
-      "domain": "Hygiène",
-      "summary": "Comprendre les facteurs favorisants.",
-      "content": "Le risque infectieux dépend de l'agent, de l'hôte et de l'environnement.",
-      "tags": [
-        "risque",
-        "prévention"
+      "id": "N01",
+      "title": "Hygiène des mains",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Hygiène des mains: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Hygiène des mains est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Hygiène des mains survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q001",
+        "Q002",
+        "Q003"
+      ],
+      "media_id": "learn-schema-01"
+    },
+    {
+      "id": "N02",
+      "title": "Bionettoyage",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Bionettoyage: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Bionettoyage est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Bionettoyage survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q016",
+        "Q017",
+        "Q018"
+      ],
+      "media_id": "learn-schema-02"
+    },
+    {
+      "id": "N03",
+      "title": "Gestion du change",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Gestion du change: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Gestion du change est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Gestion du change survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q031",
+        "Q032",
+        "Q033"
+      ],
+      "media_id": "learn-schema-03"
+    },
+    {
+      "id": "N04",
+      "title": "Chaîne de contamination",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Chaîne de contamination: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Chaîne de contamination est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Chaîne de contamination survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q046",
+        "Q047",
+        "Q048"
+      ],
+      "media_id": "learn-schema-04"
+    },
+    {
+      "id": "N05",
+      "title": "EPI/EPC",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de EPI/EPC: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, EPI/EPC est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à EPI/EPC survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q061",
+        "Q062",
+        "Q063"
+      ],
+      "media_id": "learn-schema-05"
+    },
+    {
+      "id": "N06",
+      "title": "Produits et dilution",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Produits et dilution: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Produits et dilution est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Produits et dilution survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q076",
+        "Q077",
+        "Q078"
+      ],
+      "media_id": "learn-schema-06"
+    },
+    {
+      "id": "N07",
+      "title": "Circuit linge propre/sale",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Circuit linge propre/sale: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Circuit linge propre/sale est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Circuit linge propre/sale survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q091",
+        "Q092",
+        "Q093"
+      ],
+      "media_id": "learn-schema-07"
+    },
+    {
+      "id": "N08",
+      "title": "Gestion AES",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Gestion AES: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Gestion AES est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Gestion AES survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q106",
+        "Q107",
+        "Q108"
+      ],
+      "media_id": "learn-schema-08"
+    },
+    {
+      "id": "N09",
+      "title": "Gestion vomissements/diarrhée",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Gestion vomissements/diarrhée: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Gestion vomissements/diarrhée est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Gestion vomissements/diarrhée survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q121",
+        "Q122",
+        "Q123"
+      ],
+      "media_id": "learn-schema-09"
+    },
+    {
+      "id": "N10",
+      "title": "Traçabilité qualité",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Traçabilité qualité: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Traçabilité qualité est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Traçabilité qualité survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q136",
+        "Q137",
+        "Q138"
+      ],
+      "media_id": "learn-schema-10"
+    },
+    {
+      "id": "N11",
+      "title": "Prévention risque chimique",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Prévention risque chimique: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Prévention risque chimique est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Prévention risque chimique survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q151",
+        "Q152",
+        "Q153"
+      ],
+      "media_id": "learn-schema-11"
+    },
+    {
+      "id": "N12",
+      "title": "Prévention risque biologique",
+      "domain": "CAP AEPE Bloc 1",
+      "definition_operationnelle": "Définition opérationnelle de Prévention risque biologique: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "criticite_eaje": "En EAJE, Prévention risque biologique est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "erreurs_frequentes_cap": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "checklist_controle": [
+        "Identifier le risque principal.",
+        "Vérifier les prérequis matériels.",
+        "Appliquer les étapes dans l’ordre.",
+        "Contrôler le résultat objectivement.",
+        "Tracer et transmettre à l’équipe."
+      ],
+      "mini_cas_terrain": "Mini-cas: pendant une activité, un incident lié à Prévention risque biologique survient. Le groupe doit proposer 2 options et justifier la plus sûre.",
+      "questions_liees": [
+        "Q166",
+        "Q167",
+        "Q168"
+      ],
+      "media_id": "learn-schema-12"
+    }
+  ],
+  "glossaire": [
+    {
+      "terme": "Terme 01",
+      "definition": "Définition claire du terme 01 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 02",
+      "definition": "Définition claire du terme 02 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 03",
+      "definition": "Définition claire du terme 03 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 04",
+      "definition": "Définition claire du terme 04 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 05",
+      "definition": "Définition claire du terme 05 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 06",
+      "definition": "Définition claire du terme 06 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 07",
+      "definition": "Définition claire du terme 07 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 08",
+      "definition": "Définition claire du terme 08 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 09",
+      "definition": "Définition claire du terme 09 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 10",
+      "definition": "Définition claire du terme 10 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 11",
+      "definition": "Définition claire du terme 11 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 12",
+      "definition": "Définition claire du terme 12 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 13",
+      "definition": "Définition claire du terme 13 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 14",
+      "definition": "Définition claire du terme 14 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 15",
+      "definition": "Définition claire du terme 15 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 16",
+      "definition": "Définition claire du terme 16 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 17",
+      "definition": "Définition claire du terme 17 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 18",
+      "definition": "Définition claire du terme 18 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 19",
+      "definition": "Définition claire du terme 19 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 20",
+      "definition": "Définition claire du terme 20 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 21",
+      "definition": "Définition claire du terme 21 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 22",
+      "definition": "Définition claire du terme 22 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 23",
+      "definition": "Définition claire du terme 23 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 24",
+      "definition": "Définition claire du terme 24 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 25",
+      "definition": "Définition claire du terme 25 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 26",
+      "definition": "Définition claire du terme 26 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 27",
+      "definition": "Définition claire du terme 27 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 28",
+      "definition": "Définition claire du terme 28 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 29",
+      "definition": "Définition claire du terme 29 appliquée au terrain EAJE."
+    },
+    {
+      "terme": "Terme 30",
+      "definition": "Définition claire du terme 30 appliquée au terrain EAJE."
+    }
+  ],
+  "microprotocoles": [
+    {
+      "id": "P01",
+      "titre": "Friction SHA",
+      "etapes": [
+        "Vérifier mains sèches",
+        "Appliquer dose SHA",
+        "Friction 30 sec zones clés",
+        "Laisser sécher"
+      ],
+      "vigilance": [
+        "Retirer bijoux",
+        "Ne pas rincer après SHA"
       ]
     },
     {
-      "id": "N-02",
-      "title": "Nettoyage vs Désinfection",
-      "domain": "Protocole",
-      "summary": "Deux objectifs distincts et complémentaires.",
-      "content": "Le nettoyage retire les salissures ; la désinfection réduit la charge microbienne.",
-      "tags": [
-        "bionettoyage"
+      "id": "P02",
+      "titre": "Bionettoyage jouets",
+      "etapes": [
+        "Trier jouets",
+        "Nettoyer",
+        "Désinfecter temps contact",
+        "Sécher et stocker"
+      ],
+      "vigilance": [
+        "Respect dilution",
+        "Tracer lot traité"
       ]
     },
     {
-      "id": "N-03",
-      "title": "Biofilm",
-      "domain": "Microbiologie",
-      "summary": "Pourquoi certaines surfaces restent contaminées.",
-      "content": "Le biofilm protège les micro-organismes et diminue l'efficacité des biocides.",
-      "tags": [
-        "surface",
-        "résistance"
+      "id": "P03",
+      "titre": "Protocole change",
+      "etapes": [
+        "Préparer matériel",
+        "Sécuriser enfant",
+        "Nettoyer zone intime",
+        "Éliminer déchets",
+        "Hygiène mains"
+      ],
+      "vigilance": [
+        "Ne jamais quitter enfant",
+        "Désinfecter plan"
       ]
     },
     {
-      "id": "N-04",
-      "title": "Précautions standard",
-      "domain": "Hygiène",
-      "summary": "Mesures applicables à tous les usagers.",
-      "content": "Hygiène des mains, EPI adapté, gestion des déchets et des AES.",
-      "tags": [
+      "id": "P04",
+      "titre": "Vomissements/diarrhée",
+      "etapes": [
+        "Isoler zone",
         "EPI",
-        "universel"
+        "Ramassage sécurisé",
+        "Désinfection renforcée",
+        "Traçabilité"
+      ],
+      "vigilance": [
+        "Temps contact biocide",
+        "Informer référent"
       ]
     },
     {
-      "id": "N-05",
-      "title": "Temps de contact produit",
-      "domain": "Protocole",
-      "summary": "Condition d'efficacité chimique.",
-      "content": "Une désinfection écourtée est considérée non conforme.",
-      "tags": [
-        "conformité"
+      "id": "P05",
+      "titre": "Linge souillé",
+      "etapes": [
+        "Gants",
+        "Sacs dédiés",
+        "Circuit sale séparé",
+        "Lavage adapté",
+        "Traçabilité"
+      ],
+      "vigilance": [
+        "Pas de croisement flux",
+        "Étiquetage nominal"
       ]
     },
     {
-      "id": "N-06",
-      "title": "Flore résidente et transitoire",
-      "domain": "Microbiologie",
-      "summary": "Rôles et risques associés.",
-      "content": "La flore transitoire est acquise par contact et plus facilement éliminée.",
-      "tags": [
-        "mains",
-        "cutané"
+      "id": "P06",
+      "titre": "AES (accident exposition sang)",
+      "etapes": [
+        "Stop activité",
+        "Laver/rincer",
+        "Alerter référent",
+        "Évaluer risque",
+        "Tracer incident"
+      ],
+      "vigilance": [
+        "Ne pas retarder l’alerte",
+        "Respect protocole local"
+      ]
+    },
+    {
+      "id": "P07",
+      "titre": "Dilution produit",
+      "etapes": [
+        "Lire étiquette/FDS",
+        "Mesurer eau",
+        "Mesurer concentré",
+        "Mélanger ordre prescrit",
+        "Étiqueter solution"
+      ],
+      "vigilance": [
+        "Ne pas surdoser",
+        "Date/heure préparation"
+      ]
+    },
+    {
+      "id": "P08",
+      "titre": "Nettoyage local après incident",
+      "etapes": [
+        "Baliser",
+        "Nettoyer mécanique",
+        "Désinfecter",
+        "Contrôler visuel + check",
+        "Réouvrir zone"
+      ],
+      "vigilance": [
+        "EPI adaptés",
+        "Validation croisée"
       ]
     }
+  ],
+  "pieges_ep3": [
+    "Piège EP3 1: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 2: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 3: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 4: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 5: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 6: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 7: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 8: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 9: répondre par une généralité sans preuve opérationnelle.",
+    "Piège EP3 10: répondre par une généralité sans preuve opérationnelle."
   ]
 }

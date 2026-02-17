@@ -1,5 +1,31 @@
 <!doctype html>
-<html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Diagnostic — Phase 2</title><link rel="stylesheet" href="assets/css/app.css"></head>
-<body data-base="./" data-page="diagnostic.html"><main>
-<section class="card"><h2>Diagnostic</h2><p>Module volontairement non activé en Phase 1. Aucun diagnostic n'est construit à ce stade.</p><p>Le socle livré se concentre sur les cours détaillés et la documentation inspectable.</p></section>
-</main><script src="assets/js/common.js"></script></body></html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Diagnostic compétences — CAP AEPE</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body data-base="./" data-page="diagnostic.html">
+<main>
+  <section class="card">
+    <h2>Diagnostic compétences (Likert)</h2>
+    <p>Échelle : Jamais / Rarement / Souvent / Toujours.</p>
+    <div class="toolbar">
+      <button id="reloadDiag" class="btn">Recharger items</button>
+      <button id="calcDiag" class="btn secondary">Calculer score</button>
+      <button id="exportDiag" class="btn secondary">Exporter JSON</button>
+      <button id="printDiag" class="btn secondary">Imprimer</button>
+    </div>
+    <div id="diagZone"></div>
+  </section>
+  <section class="card" id="diagResult"></section>
+  <section class="card">
+    <h3>Diagnostic technique (dev)</h3>
+    <ul id="techDiagnostics"></ul>
+  </section>
+</main>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/loaders.js"></script>
+<script src="assets/js/diagnostic.js"></script>
+</body>
+</html>

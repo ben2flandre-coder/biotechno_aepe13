@@ -1,5 +1,34 @@
 <!doctype html>
-<html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Entraînement — Phase 2</title><link rel="stylesheet" href="assets/css/app.css"></head>
-<body data-base="./" data-page="entrainement.html"><main>
-<section class="card"><h2>Entraînement QCM</h2><p>Module volontairement non activé en Phase 1. La banque QCM massive sera traitée en Phase 2.</p><p>Travail actuel centré sur les 15 séquences complètes et les schémas pédagogiques.</p></section>
-</main><script src="assets/js/common.js"></script></body></html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Entraînement QCM — CAP AEPE</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body data-base="./" data-page="entrainement.html">
+<main>
+  <section class="card">
+    <h2>Entraînement QCM (banque complète)</h2>
+    <div class="toolbar">
+      <label>Taille session
+        <select id="sessionSize"><option>10</option><option selected>20</option><option>50</option></select>
+      </label>
+      <button id="newSession" class="btn">Nouvelle session</button>
+      <button id="correctSession" class="btn secondary">Corriger</button>
+      <button id="resetHistory" class="btn secondary">Reset historique</button>
+      <span id="historyInfo" class="badge"></span>
+    </div>
+    <p id="qcmInfo"></p>
+    <div id="qcmZone"></div>
+    <p id="score" class="badge"></p>
+  </section>
+  <section class="card">
+    <h3>Diagnostic technique (dev)</h3>
+    <ul id="techDiagnostics"></ul>
+  </section>
+</main>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/loaders.js"></script>
+<script src="assets/js/entrainement.js"></script>
+</body>
+</html>

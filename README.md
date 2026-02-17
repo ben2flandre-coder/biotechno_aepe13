@@ -51,3 +51,10 @@ Le script vérifie :
 2. Dans **Settings → Pages**, choisir la source (branche `main`/`work`, dossier `/root`).
 3. Vérifier que tous les liens utilisent des chemins relatifs.
 4. Rejouer `python scripts/qa_local.py` avant publication.
+
+
+## Socle applicatif livré (non vide)
+- Entraînement QCM (180+ items) avec correction argumentée, historique inter-sessions et reset.
+- Diagnostic (45 items Likert) avec scoring par compétence, recommandations, export JSON et impression.
+- Connaissances: 12 fiches, glossaire 30 entrées, 8 micro-protocoles, 10 pièges EP3.
+- QA: `docs/stats.html` + `scripts/qa_local.py`.

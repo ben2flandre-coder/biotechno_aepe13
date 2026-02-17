@@ -1,38 +1,69 @@
-const fallbackDiag = Array.from({length: 30}).map((_,i)=>(
-  {q:`Diagnostic item ${i+1} : je maîtrise le protocole associé.`, options:['Jamais','Parfois','Souvent','Toujours'], answer: i%4===0 ? undefined : 3, domain:['Hygiène','Microbiologie','Protocole'][i%3]}
-));
 (async function(){
-  const all = await loadData('data/diagnostic.json','items',fallbackDiag);
+  const items = await loadData('data/diagnostic.json', 'items', []);
+  const scale = ['Jamais', 'Rarement', 'Souvent', 'Toujours'];
+  const points = [0, 1, 2, 3];
   const zone = document.getElementById('diagZone');
   const result = document.getElementById('diagResult');
-  let current=[];
+  let current = [];
 
-  function sample20(){ const copy=[...all]; const out=[]; while(copy.length && out.length<20) out.push(copy.splice(Math.floor(Math.random()*copy.length),1)[0]); return out; }
-  function render(){
-    zone.innerHTML=current.map((q,idx)=>`<div class="card q-item"><p><strong>${idx+1}. ${q.q}</strong> <span class="badge">${q.domain||'Général'}</span></p>
-    ${(q.options||[]).map((o,oi)=>`<label><input type="radio" name="d${idx}" value="${oi}"> ${o}</label><br>`).join('')}
-    </div>`).join('');
-    result.innerHTML='';
+  function sample(size = 45) {
+    const copy = [...items];
+    const out = [];
+    while (copy.length && out.length < size) out.push(copy.splice(Math.floor(Math.random() * copy.length), 1)[0]);
+    return out;
   }
-  document.getElementById('reloadDiag').onclick=()=>{ current=sample20(); render(); };
-  document.getElementById('calcDiag').onclick=()=>{
-    let ok=0, total=0; const domains={};
-    current.forEach((q,idx)=>{
-      const pick = zone.querySelector(`input[name="d${idx}"]:checked`);
-      if (!domains[q.domain]) domains[q.domain]={ok:0,total:0};
-      if (typeof q.answer !== 'number'){ domains[q.domain].total++; return; }
-      total++; domains[q.domain].total++;
-      if (pick && Number(pick.value)===q.answer){ ok++; domains[q.domain].ok++; }
+
+  function render() {
+    zone.innerHTML = current.map((q, idx) => `<div class="card q-item">
+      <p><strong>${idx + 1}. ${q.formulation}</strong> <span class="badge">${q.competence}</span> <span class="badge">Niveau ${q.niveau}</span></p>
+      <p><em>${q.exemple_terrain}</em></p>
+      ${scale.map((o,oi)=>`<label><input type="radio" name="d${idx}" value="${oi}"> ${o}</label>`).join(' · ')}
+    </div>`).join('');
+  }
+
+  function compute() {
+    const byComp = {};
+    current.forEach((q, idx) => {
+      const c = q.competence;
+      if (!byComp[c]) byComp[c] = {sum: 0, max: 0, count: 0, notions: new Set()};
+      const pick = zone.querySelector(`input[name='d${idx}']:checked`);
+      const val = pick ? points[Number(pick.value)] : 0;
+      byComp[c].sum += val;
+      byComp[c].max += 3;
+      byComp[c].count += 1;
+      (q.lien_notions || []).forEach((n)=>byComp[c].notions.add(n));
     });
-    const rows = Object.entries(domains).map(([d,v])=>{
-      const pct=v.total?Math.round((v.ok/v.total)*100):0;
-      return `<tr><td>${d}</td><td>${v.ok}/${v.total}</td><td>${pct}%</td></tr>`;
-    }).join('');
-    const prior = Object.entries(domains).map(([d,v])=>({d,p:v.total?Math.round((v.ok/v.total)*100):0})).filter(x=>x.p<70).map(x=>x.d).join(', ') || 'Aucun domaine prioritaire';
-    const incompletes = current.filter(q=>typeof q.answer !== 'number').length;
-    result.innerHTML = `<div class="card"><p><strong>Score total :</strong> ${ok}/${total}</p><p>Items à compléter : ${incompletes} (answer absent).</p>
-      <table class="table"><thead><tr><th>Domaine</th><th>Résultat</th><th>%</th></tr></thead><tbody>${rows}</tbody></table>
-      <p><strong>Recommandation :</strong> prioriser ${prior}.</p></div>`;
+
+    const rows = Object.entries(byComp).map(([c, v]) => {
+      const pct = Math.round((v.sum / Math.max(1, v.max)) * 100);
+      return {c, pct, notions: Array.from(v.notions)};
+    });
+
+    const table = rows.map((r)=>`<tr><td>${r.c}</td><td>${r.pct}%</td><td><div style="background:#e2e8f0;border-radius:999px"><div style="width:${r.pct}%;background:#0ea5e9;color:#fff;border-radius:999px;padding:2px 8px">${r.pct}%</div></div></td></tr>`).join('');
+
+    const recos = rows.sort((a,b)=>a.pct-b.pct).slice(0,3).map((r)=>`<li><strong>${r.c}</strong> : renforcer via <a href="connaissances.html#${r.notions[0]}">${r.notions[0]}</a> et <a href="sequences.html">séquences terrain</a>.</li>`).join('');
+
+    result.innerHTML = `<h3>Restitution diagnostic</h3>
+      <table class="table"><thead><tr><th>Compétence</th><th>Score</th><th>Jauge</th></tr></thead><tbody>${table}</tbody></table>
+      <h4>Recommandations automatiques</h4><ul>${recos}</ul>`;
+
+    return rows;
+  }
+
+  document.getElementById('reloadDiag').onclick = () => { current = sample(45); render(); result.innerHTML=''; };
+  document.getElementById('calcDiag').onclick = compute;
+  document.getElementById('printDiag').onclick = () => window.print();
+  document.getElementById('exportDiag').onclick = () => {
+    const scores = compute();
+    const payload = { exportedAt: new Date().toISOString(), scores, items: current.map((x)=>x.id) };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], {type: 'application/json'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'diagnostic-cap-aepe.json';
+    a.click();
+    URL.revokeObjectURL(a.href);
   };
-  current=sample20(); render();
+
+  current = sample(45);
+  render();
 })();
