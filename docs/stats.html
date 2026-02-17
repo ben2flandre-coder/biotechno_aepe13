@@ -12,11 +12,13 @@
 <script>
 (async function(){
   const seqs = await loadData('../data/sequences.json','sequences',[]);
-  const totalWords = seqs.reduce((a,s)=>a+(s.stats?.wordCount||0),0);
   const totalSchemas = seqs.reduce((a,s)=>a+(s.stats?.schemaCount||0),0);
-  const minWords = Math.min(...seqs.map(s=>s.stats?.wordCount||0));
-  document.getElementById('globalStats').innerHTML = `<span class='badge'>Séquences: ${seqs.length}</span> <span class='badge'>Mots totaux: ${totalWords}</span> <span class='badge'>Schémas: ${totalSchemas}</span> <span class='badge'>Minimum mots/séquence: ${minWords}</span>`;
-  document.getElementById('statsTable').innerHTML = `<h3>Détail par séquence</h3><table class='table'><thead><tr><th>ID</th><th>Titre</th><th>Mots</th><th>Schémas</th></tr></thead><tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.title}</td><td>${s.stats?.wordCount||0}</td><td>${s.stats?.schemaCount||0}</td></tr>`).join('')}</tbody></table>`;
+  const allHave2Situations = seqs.every(s => (s.situations||[]).length >= 2);
+  const allHaveArbitrage = seqs.every(s => !!s.arbitrage);
+  const allHaveGroupCase = seqs.every(s => !!s.groupCase);
+  const allHaveExamTrap = seqs.every(s => !!s.examTrap);
+  document.getElementById('globalStats').innerHTML = `<span class='badge'>Séquences: ${seqs.length}</span> <span class='badge'>Schémas: ${totalSchemas}</span> <span class='badge'>2 situations/séquence: ${allHave2Situations ? 'OK' : 'KO'}</span> <span class='badge'>Arbitrage: ${allHaveArbitrage ? 'OK' : 'KO'}</span> <span class='badge'>Cas groupe: ${allHaveGroupCase ? 'OK' : 'KO'}</span> <span class='badge'>Piège EP3: ${allHaveExamTrap ? 'OK' : 'KO'}</span>`;
+  document.getElementById('statsTable').innerHTML = `<h3>Détail par séquence</h3><table class='table'><thead><tr><th>ID</th><th>Titre</th><th>Situations</th><th>Arbitrage</th><th>Cas groupe</th><th>Piège EP3</th><th>Schémas</th></tr></thead><tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.title}</td><td>${(s.situations||[]).length}</td><td>${s.arbitrage ? 'Oui' : 'Non'}</td><td>${s.groupCase ? 'Oui' : 'Non'}</td><td>${s.examTrap ? 'Oui' : 'Non'}</td><td>${s.stats?.schemaCount||0}</td></tr>`).join('')}</tbody></table>`;
 })();
 </script>
 </body></html>
