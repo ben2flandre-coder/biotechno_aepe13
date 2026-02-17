@@ -1,154 +1,543 @@
 {
   "media": [
     {
-      "id": "IMG_RISK_SCHEMA",
-      "title": "Schéma contamination",
-      "src": "assets/img/schemas/schema-contamination.svg",
-      "alt": "Schéma contamination croisée",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S01_SVG1",
+      "title": "Évaluation des risques — schéma 1",
+      "src": "assets/img/sequences/s01-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Évaluation des risques",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "risques",
-        "schema"
+        "S01",
+        "Évaluation des risques",
+        "conceptuel"
       ]
     },
     {
-      "id": "IMG_BIO_BASE",
-      "title": "Flore microbienne",
-      "src": "assets/img/schemas/flore-microbienne.svg",
-      "alt": "Flore microbienne utile et opportuniste",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S01_SVG2",
+      "title": "Évaluation des risques — schéma 2",
+      "src": "assets/img/sequences/s01-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Évaluation des risques",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "microbiologie"
+        "S01",
+        "Évaluation des risques",
+        "procédure"
       ]
     },
     {
-      "id": "IMG_HYGIENE_VISUAL",
-      "title": "Illustration hygiène",
-      "src": "assets/img/hygiene/hygiene-illustration.svg",
-      "alt": "Illustration hygiène",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S01_SVG3",
+      "title": "Évaluation des risques — schéma 3",
+      "src": "assets/img/sequences/s01-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Évaluation des risques",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "hygiene"
+        "S01",
+        "Évaluation des risques",
+        "contrôle"
       ]
     },
     {
-      "id": "IMG_PROTO_BASE",
-      "title": "Illustration protocoles",
-      "src": "assets/img/protocoles/protocoles-illustration.svg",
-      "alt": "Illustration protocoles",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S02_SVG1",
+      "title": "Dangers chimiques & biologiques — schéma 1",
+      "src": "assets/img/sequences/s02-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Dangers chimiques & biologiques",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "protocoles"
+        "S02",
+        "Dangers chimiques & biologiques",
+        "conceptuel"
       ]
     },
     {
-      "id": "IMG_CHIMIE_BASE",
-      "title": "Illustration chimie",
-      "src": "assets/img/chimie/chimie-illustration.svg",
-      "alt": "Illustration chimie",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S02_SVG2",
+      "title": "Dangers chimiques & biologiques — schéma 2",
+      "src": "assets/img/sequences/s02-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Dangers chimiques & biologiques",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "chimie"
+        "S02",
+        "Dangers chimiques & biologiques",
+        "procédure"
       ]
     },
     {
-      "id": "IMG_PH_SCHEMA",
-      "title": "pH",
-      "src": "assets/img/chimie/chimie-illustration.svg",
-      "alt": "Échelle de pH simplifiée",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S02_SVG3",
+      "title": "Dangers chimiques & biologiques — schéma 3",
+      "src": "assets/img/sequences/s02-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Dangers chimiques & biologiques",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "ph"
+        "S02",
+        "Dangers chimiques & biologiques",
+        "contrôle"
       ]
     },
     {
-      "id": "IMG_WATER_BASE",
-      "title": "Chimie eau",
-      "src": "assets/img/chimie/chimie-illustration.svg",
-      "alt": "Chimie de l'eau",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S03_SVG1",
+      "title": "EPI / EPC — schéma 1",
+      "src": "assets/img/sequences/s03-schema-1.svg",
+      "alt": "Schéma 1 de la séquence EPI / EPC",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "eau"
+        "S03",
+        "EPI / EPC",
+        "conceptuel"
       ]
     },
     {
-      "id": "IMG_SOIL_TYPES",
-      "title": "Types salissures",
-      "src": "assets/img/protocoles/protocoles-illustration.svg",
-      "alt": "Types de salissures",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S03_SVG2",
+      "title": "EPI / EPC — schéma 2",
+      "src": "assets/img/sequences/s03-schema-2.svg",
+      "alt": "Schéma 2 de la séquence EPI / EPC",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "salissures"
+        "S03",
+        "EPI / EPC",
+        "procédure"
       ]
     },
     {
-      "id": "IMG_SOIL_LEVELS",
-      "title": "Niveaux salissures",
-      "src": "assets/img/protocoles/protocoles-illustration.svg",
-      "alt": "Niveaux de salissures",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S03_SVG3",
+      "title": "EPI / EPC — schéma 3",
+      "src": "assets/img/sequences/s03-schema-3.svg",
+      "alt": "Schéma 3 de la séquence EPI / EPC",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "salissures"
+        "S03",
+        "EPI / EPC",
+        "contrôle"
       ]
     },
     {
-      "id": "IMG_SINNER",
-      "title": "Cercle de Sinner",
-      "src": "assets/img/schemas/chaine-transmission.svg",
-      "alt": "Représentation schématique d'un cercle de paramètres",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S04_SVG1",
+      "title": "Matériel & protocoles — schéma 1",
+      "src": "assets/img/sequences/s04-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Matériel & protocoles",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "sinner"
+        "S04",
+        "Matériel & protocoles",
+        "conceptuel"
       ]
     },
     {
-      "id": "IMG_VANTHOFF",
-      "title": "Van't Hoff",
-      "src": "assets/img/chimie/chimie-illustration.svg",
-      "alt": "Influence de la température sur la vitesse de réaction",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S04_SVG2",
+      "title": "Matériel & protocoles — schéma 2",
+      "src": "assets/img/sequences/s04-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Matériel & protocoles",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "chimie"
+        "S04",
+        "Matériel & protocoles",
+        "procédure"
       ]
     },
     {
-      "id": "IMG_MATERIALS",
-      "title": "Matériaux",
-      "src": "assets/img/protocoles/protocoles-illustration.svg",
-      "alt": "Compatibilité matériaux/produits",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S04_SVG3",
+      "title": "Matériel & protocoles — schéma 3",
+      "src": "assets/img/sequences/s04-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Matériel & protocoles",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "materiaux"
+        "S04",
+        "Matériel & protocoles",
+        "contrôle"
       ]
     },
     {
-      "id": "IMG_BIONET",
-      "title": "Bionettoyage",
-      "src": "assets/img/schemas/schema-contamination.svg",
-      "alt": "Étapes de bionettoyage",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S05_SVG1",
+      "title": "Produits & désinfectants — schéma 1",
+      "src": "assets/img/sequences/s05-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Produits & désinfectants",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "bionettoyage"
+        "S05",
+        "Produits & désinfectants",
+        "conceptuel"
       ]
     },
     {
-      "id": "IMG_CLEAN_METHOD",
-      "title": "Méthodes nettoyage",
-      "src": "assets/img/hygiene/hygiene-illustration.svg",
-      "alt": "Méthodes de nettoyage",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S05_SVG2",
+      "title": "Produits & désinfectants — schéma 2",
+      "src": "assets/img/sequences/s05-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Produits & désinfectants",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "nettoyage"
+        "S05",
+        "Produits & désinfectants",
+        "procédure"
       ]
     },
     {
-      "id": "IMG_EVAL",
-      "title": "Évaluations",
-      "src": "assets/img/alimentaire/alimentaire-illustration.svg",
-      "alt": "Évaluation des acquis",
-      "credit": "Création interne CAP AEPE 2026",
+      "id": "S05_SVG3",
+      "title": "Produits & désinfectants — schéma 3",
+      "src": "assets/img/sequences/s05-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Produits & désinfectants",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
-        "evaluation"
+        "S05",
+        "Produits & désinfectants",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S06_SVG1",
+      "title": "Échelle de pH — schéma 1",
+      "src": "assets/img/sequences/s06-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Échelle de pH",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S06",
+        "Échelle de pH",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S06_SVG2",
+      "title": "Échelle de pH — schéma 2",
+      "src": "assets/img/sequences/s06-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Échelle de pH",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S06",
+        "Échelle de pH",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S06_SVG3",
+      "title": "Échelle de pH — schéma 3",
+      "src": "assets/img/sequences/s06-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Échelle de pH",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S06",
+        "Échelle de pH",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S07_SVG1",
+      "title": "Chimie de l’eau — schéma 1",
+      "src": "assets/img/sequences/s07-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Chimie de l’eau",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S07",
+        "Chimie de l’eau",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S07_SVG2",
+      "title": "Chimie de l’eau — schéma 2",
+      "src": "assets/img/sequences/s07-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Chimie de l’eau",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S07",
+        "Chimie de l’eau",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S07_SVG3",
+      "title": "Chimie de l’eau — schéma 3",
+      "src": "assets/img/sequences/s07-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Chimie de l’eau",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S07",
+        "Chimie de l’eau",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S08_SVG1",
+      "title": "Types de salissures — schéma 1",
+      "src": "assets/img/sequences/s08-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Types de salissures",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S08",
+        "Types de salissures",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S08_SVG2",
+      "title": "Types de salissures — schéma 2",
+      "src": "assets/img/sequences/s08-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Types de salissures",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S08",
+        "Types de salissures",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S08_SVG3",
+      "title": "Types de salissures — schéma 3",
+      "src": "assets/img/sequences/s08-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Types de salissures",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S08",
+        "Types de salissures",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S09_SVG1",
+      "title": "Niveaux de salissures — schéma 1",
+      "src": "assets/img/sequences/s09-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Niveaux de salissures",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S09",
+        "Niveaux de salissures",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S09_SVG2",
+      "title": "Niveaux de salissures — schéma 2",
+      "src": "assets/img/sequences/s09-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Niveaux de salissures",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S09",
+        "Niveaux de salissures",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S09_SVG3",
+      "title": "Niveaux de salissures — schéma 3",
+      "src": "assets/img/sequences/s09-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Niveaux de salissures",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S09",
+        "Niveaux de salissures",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S10_SVG1",
+      "title": "Cercle de Sinner — schéma 1",
+      "src": "assets/img/sequences/s10-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Cercle de Sinner",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S10",
+        "Cercle de Sinner",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S10_SVG2",
+      "title": "Cercle de Sinner — schéma 2",
+      "src": "assets/img/sequences/s10-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Cercle de Sinner",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S10",
+        "Cercle de Sinner",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S10_SVG3",
+      "title": "Cercle de Sinner — schéma 3",
+      "src": "assets/img/sequences/s10-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Cercle de Sinner",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S10",
+        "Cercle de Sinner",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S11_SVG1",
+      "title": "Loi de Van’t Hoff — schéma 1",
+      "src": "assets/img/sequences/s11-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Loi de Van’t Hoff",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S11",
+        "Loi de Van’t Hoff",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S11_SVG2",
+      "title": "Loi de Van’t Hoff — schéma 2",
+      "src": "assets/img/sequences/s11-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Loi de Van’t Hoff",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S11",
+        "Loi de Van’t Hoff",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S11_SVG3",
+      "title": "Loi de Van’t Hoff — schéma 3",
+      "src": "assets/img/sequences/s11-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Loi de Van’t Hoff",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S11",
+        "Loi de Van’t Hoff",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S12_SVG1",
+      "title": "Matériaux — schéma 1",
+      "src": "assets/img/sequences/s12-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Matériaux",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S12",
+        "Matériaux",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S12_SVG2",
+      "title": "Matériaux — schéma 2",
+      "src": "assets/img/sequences/s12-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Matériaux",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S12",
+        "Matériaux",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S12_SVG3",
+      "title": "Matériaux — schéma 3",
+      "src": "assets/img/sequences/s12-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Matériaux",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S12",
+        "Matériaux",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S13_SVG1",
+      "title": "Bionettoyage — schéma 1",
+      "src": "assets/img/sequences/s13-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Bionettoyage",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S13",
+        "Bionettoyage",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S13_SVG2",
+      "title": "Bionettoyage — schéma 2",
+      "src": "assets/img/sequences/s13-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Bionettoyage",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S13",
+        "Bionettoyage",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S13_SVG3",
+      "title": "Bionettoyage — schéma 3",
+      "src": "assets/img/sequences/s13-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Bionettoyage",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S13",
+        "Bionettoyage",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S14_SVG1",
+      "title": "Méthodes de nettoyage — schéma 1",
+      "src": "assets/img/sequences/s14-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Méthodes de nettoyage",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S14",
+        "Méthodes de nettoyage",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S14_SVG2",
+      "title": "Méthodes de nettoyage — schéma 2",
+      "src": "assets/img/sequences/s14-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Méthodes de nettoyage",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S14",
+        "Méthodes de nettoyage",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S14_SVG3",
+      "title": "Méthodes de nettoyage — schéma 3",
+      "src": "assets/img/sequences/s14-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Méthodes de nettoyage",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S14",
+        "Méthodes de nettoyage",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "S15_SVG1",
+      "title": "Évaluations formatives — schéma 1",
+      "src": "assets/img/sequences/s15-schema-1.svg",
+      "alt": "Schéma 1 de la séquence Évaluations formatives",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S15",
+        "Évaluations formatives",
+        "conceptuel"
+      ]
+    },
+    {
+      "id": "S15_SVG2",
+      "title": "Évaluations formatives — schéma 2",
+      "src": "assets/img/sequences/s15-schema-2.svg",
+      "alt": "Schéma 2 de la séquence Évaluations formatives",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S15",
+        "Évaluations formatives",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S15_SVG3",
+      "title": "Évaluations formatives — schéma 3",
+      "src": "assets/img/sequences/s15-schema-3.svg",
+      "alt": "Schéma 3 de la séquence Évaluations formatives",
+      "credit": "Création pédagogique interne CAP AEPE 2026",
+      "tags": [
+        "S15",
+        "Évaluations formatives",
+        "contrôle"
       ]
     }
   ]

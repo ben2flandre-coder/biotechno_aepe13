@@ -3,587 +3,482 @@
     {
       "id": "S01",
       "title": "Évaluation des risques",
-      "objectif": "Maîtriser les fondamentaux de « Évaluation des risques » en contexte AEPE.",
-      "essentiel": "Points clés de Évaluation des risques appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Évaluation des risques : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Évaluation des risques en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Évaluation des risques » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Évaluation des risques » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Évaluation des risques lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Évaluation des risques : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq01"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_RISK_SCHEMA"
-      ]
+        "S01_SVG1",
+        "S01_SVG2",
+        "S01_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S02",
       "title": "Dangers chimiques & biologiques",
-      "objectif": "Maîtriser les fondamentaux de « Dangers chimiques & biologiques » en contexte AEPE.",
-      "essentiel": "Points clés de Dangers chimiques & biologiques appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Dangers chimiques & biologiques : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Dangers chimiques & biologiques en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Dangers chimiques & biologiques » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Dangers chimiques & biologiques » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Dangers chimiques & biologiques lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Dangers chimiques & biologiques : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq02"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_BIO_BASE"
-      ]
+        "S02_SVG1",
+        "S02_SVG2",
+        "S02_SVG3"
+      ],
+      "stats": {
+        "wordCount": 897,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S03",
       "title": "EPI / EPC",
-      "objectif": "Maîtriser les fondamentaux de « EPI / EPC » en contexte AEPE.",
-      "essentiel": "Points clés de EPI / EPC appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour EPI / EPC : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser EPI / EPC en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « EPI / EPC » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « EPI / EPC » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer EPI / EPC lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "EPI / EPC : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq03"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_HYGIENE_VISUAL"
-      ]
+        "S03_SVG1",
+        "S03_SVG2",
+        "S03_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S04",
       "title": "Matériel & protocoles",
-      "objectif": "Maîtriser les fondamentaux de « Matériel & protocoles » en contexte AEPE.",
-      "essentiel": "Points clés de Matériel & protocoles appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Matériel & protocoles : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Matériel & protocoles en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Matériel & protocoles » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Matériel & protocoles » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Matériel & protocoles lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Matériel & protocoles : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq04"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_PROTO_BASE"
-      ]
+        "S04_SVG1",
+        "S04_SVG2",
+        "S04_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S05",
       "title": "Produits & désinfectants",
-      "objectif": "Maîtriser les fondamentaux de « Produits & désinfectants » en contexte AEPE.",
-      "essentiel": "Points clés de Produits & désinfectants appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Produits & désinfectants : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Produits & désinfectants en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Produits & désinfectants » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Produits & désinfectants » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Produits & désinfectants lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Produits & désinfectants : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq05"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_CHIMIE_BASE"
-      ]
+        "S05_SVG1",
+        "S05_SVG2",
+        "S05_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S06",
       "title": "Échelle de pH",
-      "objectif": "Maîtriser les fondamentaux de « Échelle de pH » en contexte AEPE.",
-      "essentiel": "Points clés de Échelle de pH appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Échelle de pH : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Échelle de pH en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Échelle de pH » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Échelle de pH » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Échelle de pH lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Échelle de pH : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq06"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_PH_SCHEMA"
-      ]
+        "S06_SVG1",
+        "S06_SVG2",
+        "S06_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S07",
       "title": "Chimie de l’eau",
-      "objectif": "Maîtriser les fondamentaux de « Chimie de l’eau » en contexte AEPE.",
-      "essentiel": "Points clés de Chimie de l’eau appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Chimie de l’eau : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Chimie de l’eau en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Chimie de l’eau » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Chimie de l’eau » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Chimie de l’eau lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Chimie de l’eau : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq07"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_WATER_BASE"
-      ]
+        "S07_SVG1",
+        "S07_SVG2",
+        "S07_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S08",
       "title": "Types de salissures",
-      "objectif": "Maîtriser les fondamentaux de « Types de salissures » en contexte AEPE.",
-      "essentiel": "Points clés de Types de salissures appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Types de salissures : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Types de salissures en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Types de salissures » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Types de salissures » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Types de salissures lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Types de salissures : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq08"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_SOIL_TYPES"
-      ]
+        "S08_SVG1",
+        "S08_SVG2",
+        "S08_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S09",
       "title": "Niveaux de salissures",
-      "objectif": "Maîtriser les fondamentaux de « Niveaux de salissures » en contexte AEPE.",
-      "essentiel": "Points clés de Niveaux de salissures appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Niveaux de salissures : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Niveaux de salissures en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Niveaux de salissures » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Niveaux de salissures » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Niveaux de salissures lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Niveaux de salissures : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq09"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_SOIL_LEVELS"
-      ]
+        "S09_SVG1",
+        "S09_SVG2",
+        "S09_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S10",
       "title": "Cercle de Sinner",
-      "objectif": "Maîtriser les fondamentaux de « Cercle de Sinner » en contexte AEPE.",
-      "essentiel": "Points clés de Cercle de Sinner appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Cercle de Sinner : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Cercle de Sinner en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Cercle de Sinner » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Cercle de Sinner » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Cercle de Sinner lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Cercle de Sinner : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq10"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_SINNER"
-      ]
+        "S10_SVG1",
+        "S10_SVG2",
+        "S10_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S11",
       "title": "Loi de Van’t Hoff",
-      "objectif": "Maîtriser les fondamentaux de « Loi de Van’t Hoff » en contexte AEPE.",
-      "essentiel": "Points clés de Loi de Van’t Hoff appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Loi de Van’t Hoff : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Loi de Van’t Hoff en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Loi de Van’t Hoff » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Loi de Van’t Hoff » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Loi de Van’t Hoff lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Loi de Van’t Hoff : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq11"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_VANTHOFF"
-      ]
+        "S11_SVG1",
+        "S11_SVG2",
+        "S11_SVG3"
+      ],
+      "stats": {
+        "wordCount": 897,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S12",
       "title": "Matériaux",
-      "objectif": "Maîtriser les fondamentaux de « Matériaux » en contexte AEPE.",
-      "essentiel": "Points clés de Matériaux appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Matériaux : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Matériaux en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Matériaux » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Matériaux » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Matériaux lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Matériaux : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq12"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_MATERIALS"
-      ]
+        "S12_SVG1",
+        "S12_SVG2",
+        "S12_SVG3"
+      ],
+      "stats": {
+        "wordCount": 891,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S13",
       "title": "Bionettoyage",
-      "objectif": "Maîtriser les fondamentaux de « Bionettoyage » en contexte AEPE.",
-      "essentiel": "Points clés de Bionettoyage appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Bionettoyage : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Bionettoyage en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Bionettoyage » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Bionettoyage » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Bionettoyage lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Bionettoyage : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq13"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_BIONET"
-      ]
+        "S13_SVG1",
+        "S13_SVG2",
+        "S13_SVG3"
+      ],
+      "stats": {
+        "wordCount": 891,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S14",
       "title": "Méthodes de nettoyage",
-      "objectif": "Maîtriser les fondamentaux de « Méthodes de nettoyage » en contexte AEPE.",
-      "essentiel": "Points clés de Méthodes de nettoyage appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Méthodes de nettoyage : préparation, réalisation, contrôle, traçabilité.",
+      "objectif": "Maîtriser Méthodes de nettoyage en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Méthodes de nettoyage » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Méthodes de nettoyage » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Méthodes de nettoyage lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Méthodes de nettoyage : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq14"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_CLEAN_METHOD"
-      ]
+        "S14_SVG1",
+        "S14_SVG2",
+        "S14_SVG3"
+      ],
+      "stats": {
+        "wordCount": 895,
+        "schemaCount": 3
+      }
     },
     {
       "id": "S15",
-      "title": "Évaluations",
-      "objectif": "Maîtriser les fondamentaux de « Évaluations » en contexte AEPE.",
-      "essentiel": "Points clés de Évaluations appliqués en structure petite enfance, avec priorisation sécurité usager/professionnel.",
-      "protocoles": "Méthode standardisée pour Évaluations : préparation, réalisation, contrôle, traçabilité.",
+      "title": "Évaluations formatives",
+      "objectif": "Maîtriser Évaluations formatives en contexte professionnel AEPE avec méthode, sécurité et traçabilité.",
+      "cours": "La séquence « Évaluations formatives » constitue un pilier du parcours Biotechnologie CAP AEPE. Elle relie les exigences institutionnelles, les contraintes du terrain et les bonnes pratiques professionnelles.\n\nDans un contexte CAP AEPE, la biotechnologie appliquée doit rester concrète, reproductible et compatible avec les contraintes d’un accueil collectif d’enfants. Le professionnel agit dans un environnement où la sécurité sanitaire, la qualité relationnelle et l’organisation quotidienne sont étroitement liées. Chaque action technique, même simple en apparence, s’inscrit dans une chaîne d’objectifs : protéger l’enfant, protéger le professionnel, préserver les matériels, garantir la conformité institutionnelle et documenter les pratiques. Cette séquence propose une approche progressive, orientée terrain, afin de transformer les connaissances en gestes fiables.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nApplication spécifique à « Évaluations formatives » : l’équipe définit des critères de réussite simples, visibles et vérifiables. Un protocole utile décrit qui fait quoi, avec quel matériel, dans quel ordre, et avec quel contrôle final. Le vocabulaire doit rester commun pour éviter les malentendus : nature du risque, niveau de priorité, action immédiate, action différée, signalement. En formation adulte, on insiste sur les écarts réels observés en structure et sur les corrections à faible coût organisationnel.\n\nLa méthode conseillée repose sur quatre temps. D’abord observer la situation réelle : local, matériel disponible, niveau de souillure, risque de projection, présence de public. Ensuite analyser les choix possibles en s’appuyant sur des critères objectivables : efficacité attendue, innocuité, faisabilité et traçabilité. Puis agir en respectant une séquence stable et en contrôlant les paramètres critiques. Enfin vérifier et ajuster, avec une trace écrite simple mais exploitable. Cette logique évite les automatismes fragiles et limite les écarts entre protocole affiché et pratique réelle.\n\nLes points de vigilance concernent surtout la dilution des produits, le temps de contact, la compatibilité support/produit, la prévention des contaminations croisées et la protection cutanée. Un autre risque fréquent est la sous-documentation : l’action est réalisée mais non tracée, donc non démontrable. En inspection ou en analyse d’incident, l’absence de trace équivaut souvent à une action non réalisée. Il faut donc intégrer la traçabilité au geste, pas après coup. Une fiche courte, renseignée immédiatement, est plus fiable qu’un reporting reconstruit en fin de journée.\n\nEn AEPE, la difficulté principale n’est pas la complexité théorique mais la constance opérationnelle. Les rythmes de la journée, les imprévus et la polyvalence du poste favorisent les raccourcis. Or un raccourci répété devient une habitude et peut dégrader la sécurité. La formation doit donc entraîner à décider vite sans improviser : utiliser des repères visuels, préparer en amont, anticiper les ruptures de stock, sécuriser les circuits propre/sale, et maintenir un langage commun dans l’équipe. Plus les critères sont partagés, plus la qualité est stable.\n\nSur le plan pédagogique, on privilégie des micro-objectifs observables : préparer un poste, choisir le bon matériel, expliquer un choix de produit, réaliser une séquence complète, repérer une non-conformité, proposer une correction. Cette granularité facilite l’évaluation formative et la remédiation. L’apprenant progresse en explicitant son raisonnement et en confrontant ses choix à un référentiel clair. La séquence devient alors un outil d’autonomie professionnelle, pas seulement un cours à mémoriser.\n\nEn synthèse, la performance attendue en CAP AEPE repose sur l’articulation entre connaissance, méthode et preuve. Le bon niveau n’est pas la perfection théorique ; c’est la capacité à produire un geste sûr, cohérent et explicable, dans un contexte réel. Cette séquence fournit des repères réutilisables immédiatement, tout en préparant la montée en compétence vers des situations plus complexes.",
+      "protocoles": [
+        "Préparer le poste, vérifier matériel et consommables.",
+        "Appliquer la séquence opérationnelle validée sans inversion des étapes.",
+        "Contrôler le résultat et renseigner la traçabilité immédiatement."
+      ],
       "redflags": [
-        "Étape non tracée",
-        "Incohérence produit/support",
-        "Absence de contrôle visuel final"
+        "Dilution non vérifiée",
+        "Temps de contact non respecté",
+        "Traçabilité différée ou absente"
       ],
-      "casPro": "Cas pro : en salle d’accueil, appliquer Évaluations lors d’une situation de routine et justifier les choix.",
-      "quiz": [
-        {
-          "q": "Évaluations : quelle action est prioritaire ?",
-          "options": [
-            "Ignorer le protocole",
-            "Appliquer la méthode validée",
-            "Reporter sans signaler",
-            "Mélanger les produits"
-          ],
-          "answer": 1,
-          "explain": "En AEPE, la méthode validée et tracée est prioritaire."
-        }
-      ],
+      "casPro": "Situation type : prise en charge d’un environnement d’accueil après activité, avec arbitrage entre urgence, sécurité et conformité.",
       "references": [
-        "Référentiel CAP AEPE (Bloc 1 / EP3)",
+        "Référentiel CAP AEPE Bloc 1/EP3",
         "INRS",
-        "SBSSA Bordeaux"
-      ],
-      "tags": [
-        "bloc1",
-        "aepe",
-        "seq15"
+        "SBSSA Bordeaux",
+        "CPIAS"
       ],
       "media": [
-        "IMG_EVAL"
-      ]
+        "S15_SVG1",
+        "S15_SVG2",
+        "S15_SVG3"
+      ],
+      "stats": {
+        "wordCount": 893,
+        "schemaCount": 3
+      }
     }
   ]
 }

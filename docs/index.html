@@ -9,45 +9,21 @@
 <body data-base="../" data-page="docs/index.html">
 <main>
   <section class="card">
-    <h2>Structure arborescence</h2>
-    <pre>/
-├── index.html
-├── sequences.html
-├── parcours.html
-├── connaissances.html
-├── entrainement.html
-├── diagnostic.html
-├── docs/{index,credits,banque-medias}.html
-├── assets/css/app.css
-├── assets/js/*.js (+ sequences.js)
-├── assets/img/{logos,schemas,microbiologie,hygiene,chimie,protocoles,linge,alimentaire}
-├── data/{capsules,notions,questions,diagnostic,sequences,media}.json
-└── QA_REPORT.md</pre>
+    <h2>Documentation Phase 1</h2>
+    <p>Portée : 15 séquences complètes, schémas pédagogiques locaux, navigation plateforme cours, docs et stats visibles.</p>
   </section>
   <section class="card">
-    <h2>Description JSON (schémas)</h2>
+    <h2>Liens docs</h2>
     <ul>
-      <li><strong>sequences.json</strong> : 15 séquences officielles (objectif, essentiel, protocoles, redflags, casPro, quiz, références, media[]).</li>
-      <li><strong>media.json</strong> : {id,title,src,alt,credit,tags} utilisé dans les écrans et docs.</li>
-      <li><strong>questions.json</strong> : q, options[4], answer(0-3), explain, domain.</li>
-      <li><strong>diagnostic.json</strong> : q, options, answer (optionnel), domain.</li>
-    </ul>
-  </section>
-  <section class="card">
-    <h2>Pages inspectables</h2>
-    <ul>
-      <li><a href="../sequences.html">15 séquences (Version Benoît)</a></li>
-      <li><a href="credits.html">Crédits & sources</a></li>
+      <li><a href="../sequences.html">15 séquences</a></li>
+      <li><a href="stats.html">Statistiques des contenus</a></li>
       <li><a href="banque-medias.html">Banque médias</a></li>
+      <li><a href="credits.html">Crédits & sources</a></li>
     </ul>
   </section>
   <section class="card">
-    <h2>Conformité</h2>
-    <ul>
-      <li>Aucun tracker, cookie analytique ou appel externe obligatoire.</li>
-      <li>Aucune donnée personnelle collectée ou stockée.</li>
-      <li>Site statique inspectable (HTML/CSS/JS vanilla), robuste aux JSON manquants via fallback.</li>
-    </ul>
+    <h2>Contrainte phase</h2>
+    <p>Aucun développement de banque QCM massive et aucun diagnostic dans cette phase.</p>
   </section>
   <section class="card">
     <h2>Liens & audit</h2>
@@ -56,18 +32,6 @@
       <li>Conversation précédente du projet : [PLACEHOLDER_A_REMPLIR_PAR_BENOIT]</li>
       <li>Liens versions (si fournis) : [PLACEHOLDER_OPTIONNEL]</li>
     </ul>
-  </section>
-  <section class="card">
-    <h2>Historique incidents & RCA</h2>
-    <table class="table">
-      <thead><tr><th>Incident</th><th>Symptom</th><th>Root cause</th><th>Corrective action V1.1</th><th>Preventive controls</th></tr></thead>
-      <tbody>
-        <tr><td>Pages vides (AEPE12)</td><td>UI sans contenus réels</td><td>Données non branchées / fetch fragile</td><td>Ajout module séquences + fallbacks + diagnostic technique</td><td>Vérification de charge JSON + bloc fallback visible</td></tr>
-        <tr><td>Logos/crédits absents</td><td>Branding institutionnel manquant</td><td>Footer non uniformisé</td><td>Header/footer globaux + docs/credits.html</td><td>Checklist QA item dédié</td></tr>
-        <tr><td>Banque médias non injectée</td><td>Médias présents mais non exploités</td><td>Absence de registre media</td><td>data/media.json + docs/banque-medias + rendu dans séquences</td><td>Contrôle d'intégrité IDs média</td></tr>
-        <tr><td>Chemins GitHub Pages</td><td>404 aléatoires selon base path</td><td>Chemins absolus/non robustes</td><td>Chemins relatifs + cache-buster léger</td><td>Test sous serveur statique local</td></tr>
-      </tbody>
-    </table>
   </section>
 </main>
 <script src="../assets/js/common.js"></script>

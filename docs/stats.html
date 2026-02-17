@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stats contenus — CAP AEPE</title><link rel="stylesheet" href="../assets/css/app.css"></head>
+<body data-base="../" data-page="docs/index.html">
+<main>
+<section class="card"><h2>Statistiques visibles — Phase 1</h2><div id="globalStats"></div></section>
+<section id="statsTable" class="card"></section>
+<section class="card"><h3>Diagnostic technique (dev)</h3><ul id="techDiagnostics"></ul></section>
+</main>
+<script src="../assets/js/common.js"></script>
+<script src="../assets/js/loaders.js"></script>
+<script>
+(async function(){
+  const seqs = await loadData('../data/sequences.json','sequences',[]);
+  const totalWords = seqs.reduce((a,s)=>a+(s.stats?.wordCount||0),0);
+  const totalSchemas = seqs.reduce((a,s)=>a+(s.stats?.schemaCount||0),0);
+  const minWords = Math.min(...seqs.map(s=>s.stats?.wordCount||0));
+  document.getElementById('globalStats').innerHTML = `<span class='badge'>Séquences: ${seqs.length}</span> <span class='badge'>Mots totaux: ${totalWords}</span> <span class='badge'>Schémas: ${totalSchemas}</span> <span class='badge'>Minimum mots/séquence: ${minWords}</span>`;
+  document.getElementById('statsTable').innerHTML = `<h3>Détail par séquence</h3><table class='table'><thead><tr><th>ID</th><th>Titre</th><th>Mots</th><th>Schémas</th></tr></thead><tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.title}</td><td>${s.stats?.wordCount||0}</td><td>${s.stats?.schemaCount||0}</td></tr>`).join('')}</tbody></table>`;
+})();
+</script>
+</body></html>
