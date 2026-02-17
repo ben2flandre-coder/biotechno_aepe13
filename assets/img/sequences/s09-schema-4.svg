@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
 <rect width="960" height="560" fill="#f8fbff"/>
 <rect x="30" y="24" width="900" height="70" rx="12" fill="#164e63"/>
-<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S09 — Mecanisme : Corriger une dilution incorrecte en réserve</text>
+<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S09 — Erreur : Corriger une dilution incorrecte en réserve</text>
 <rect x="40" y="120" width="270" height="170" rx="12" fill="#dbeafe" stroke="#1d4ed8"/>
 <text x="58" y="152" font-size="18" fill="#0f172a" font-family="Arial">Contexte</text>
 <text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Réserve entretien</text>

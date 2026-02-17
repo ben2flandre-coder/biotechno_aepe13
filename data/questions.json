@@ -1,544 +1,484 @@
 {
   "questions": [
     {
-      "q": "Évaluation des risques — Cas 1 : dans Salle motricité sensorielle, sous contrainte de temps et avec incident « un tapis antidérapant mal fixé glisse sous un parcours d’équilibre », quelle décision est la plus conforme ?",
+      "id": "Q01-1",
+      "sequence": "S01",
+      "domain": "Maîtriser le risque de chute et la logique de signalement",
+      "q": "[S01] Salle motricité — chute liée à un sol humide. Contrainte: activité motricité maintenue malgré ménage en retard. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Évaluation des risques"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Évaluation des risques — Cas 2 : dans Salle motricité sensorielle, sous contrainte de temps et avec incident « un tapis antidérapant mal fixé glisse sous un parcours d’équilibre », quelle décision est la plus conforme ?",
+      "id": "Q01-2",
+      "sequence": "S01",
+      "domain": "Maîtriser le risque de chute et la logique de signalement",
+      "q": "[S01] Salle motricité — chute liée à un sol humide. Contrainte: activité motricité maintenue malgré ménage en retard. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Évaluation des risques"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Évaluation des risques — Cas 3 : dans Salle motricité sensorielle, sous contrainte de temps et avec incident « un tapis antidérapant mal fixé glisse sous un parcours d’équilibre », quelle décision est la plus conforme ?",
+      "id": "Q02-1",
+      "sequence": "S02",
+      "domain": "Prévenir les incompatibilités chimiques au poste de change",
+      "q": "[S02] Espace change — mélange produit désinfectant/crème. Contrainte: pénurie de lingettes et pression de flux. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Évaluation des risques"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Dangers chimiques & biologiques — Cas 1 : dans Zone change nourrissons, sous contrainte de temps et avec incident « un flacon détartrant est stocké dans le bac des consommables de change », quelle décision est la plus conforme ?",
+      "id": "Q02-2",
+      "sequence": "S02",
+      "domain": "Prévenir les incompatibilités chimiques au poste de change",
+      "q": "[S02] Espace change — mélange produit désinfectant/crème. Contrainte: pénurie de lingettes et pression de flux. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Dangers chimiques & biologiques"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Dangers chimiques & biologiques — Cas 2 : dans Zone change nourrissons, sous contrainte de temps et avec incident « un flacon détartrant est stocké dans le bac des consommables de change », quelle décision est la plus conforme ?",
+      "id": "Q03-1",
+      "sequence": "S03",
+      "domain": "Sécuriser l’usage des EPI lors d’un atelier peinture",
+      "q": "[S03] Atelier peinture — EPI mal utilisé. Contrainte: effectif incomplet et matériel partagé. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Dangers chimiques & biologiques"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Dangers chimiques & biologiques — Cas 3 : dans Zone change nourrissons, sous contrainte de temps et avec incident « un flacon détartrant est stocké dans le bac des consommables de change », quelle décision est la plus conforme ?",
+      "id": "Q03-2",
+      "sequence": "S03",
+      "domain": "Sécuriser l’usage des EPI lors d’un atelier peinture",
+      "q": "[S03] Atelier peinture — EPI mal utilisé. Contrainte: effectif incomplet et matériel partagé. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Dangers chimiques & biologiques"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "EPI / EPC — Cas 1 : dans Atelier peinture verticale, sous contrainte de temps et avec incident « les visières sont absentes et des gants sont portés en continu de 45 min », quelle décision est la plus conforme ?",
+      "id": "Q04-1",
+      "sequence": "S04",
+      "domain": "Garantir la chaîne chaud/froid au coin repas",
+      "q": "[S04] Coin repas — rupture de la chaîne chaud/froid. Contrainte: arrivée différée des repas et effectif réduit. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "EPI / EPC"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "EPI / EPC — Cas 2 : dans Atelier peinture verticale, sous contrainte de temps et avec incident « les visières sont absentes et des gants sont portés en continu de 45 min », quelle décision est la plus conforme ?",
+      "id": "Q04-2",
+      "sequence": "S04",
+      "domain": "Garantir la chaîne chaud/froid au coin repas",
+      "q": "[S04] Coin repas — rupture de la chaîne chaud/froid. Contrainte: arrivée différée des repas et effectif réduit. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "EPI / EPC"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "EPI / EPC — Cas 3 : dans Atelier peinture verticale, sous contrainte de temps et avec incident « les visières sont absentes et des gants sont portés en continu de 45 min », quelle décision est la plus conforme ?",
+      "id": "Q05-1",
+      "sequence": "S05",
+      "domain": "Organiser un circuit linge propre/sale robuste",
+      "q": "[S05] Lingerie — circuit propre/sale inversé. Contrainte: panne temporaire du local de tri. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "EPI / EPC"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Matériel & protocoles — Cas 1 : dans Office préparation biberonnerie, sous contrainte de temps et avec incident « les lavettes code couleur ont été mélangées après lavage », quelle décision est la plus conforme ?",
+      "id": "Q05-2",
+      "sequence": "S05",
+      "domain": "Organiser un circuit linge propre/sale robuste",
+      "q": "[S05] Lingerie — circuit propre/sale inversé. Contrainte: panne temporaire du local de tri. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Matériel & protocoles"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Matériel & protocoles — Cas 2 : dans Office préparation biberonnerie, sous contrainte de temps et avec incident « les lavettes code couleur ont été mélangées après lavage », quelle décision est la plus conforme ?",
+      "id": "Q06-1",
+      "sequence": "S06",
+      "domain": "Assainir un bac à sable contaminé sans fermer l’accueil",
+      "q": "[S06] Extérieur — bac à sable contaminé. Contrainte: attente parentale forte d’activité extérieure. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Matériel & protocoles"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Matériel & protocoles — Cas 3 : dans Office préparation biberonnerie, sous contrainte de temps et avec incident « les lavettes code couleur ont été mélangées après lavage », quelle décision est la plus conforme ?",
+      "id": "Q06-2",
+      "sequence": "S06",
+      "domain": "Assainir un bac à sable contaminé sans fermer l’accueil",
+      "q": "[S06] Extérieur — bac à sable contaminé. Contrainte: attente parentale forte d’activité extérieure. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Matériel & protocoles"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Produits & désinfectants — Cas 1 : dans Coin repas maternels, sous contrainte de temps et avec incident « la table est essuyée avant fin du temps de contact désinfectant », quelle décision est la plus conforme ?",
+      "id": "Q07-1",
+      "sequence": "S07",
+      "domain": "Tracer et isoler le linge mal identifié en période sieste",
+      "q": "[S07] Espace sieste — linge mal identifié. Contrainte: rotation rapide entre sections. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Produits & désinfectants"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Produits & désinfectants — Cas 2 : dans Coin repas maternels, sous contrainte de temps et avec incident « la table est essuyée avant fin du temps de contact désinfectant », quelle décision est la plus conforme ?",
+      "id": "Q07-2",
+      "sequence": "S07",
+      "domain": "Tracer et isoler le linge mal identifié en période sieste",
+      "q": "[S07] Espace sieste — linge mal identifié. Contrainte: rotation rapide entre sections. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Produits & désinfectants"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Produits & désinfectants — Cas 3 : dans Coin repas maternels, sous contrainte de temps et avec incident « la table est essuyée avant fin du temps de contact désinfectant », quelle décision est la plus conforme ?",
+      "id": "Q08-1",
+      "sequence": "S08",
+      "domain": "Mettre en conformité le stockage produits au bureau direction",
+      "q": "[S08] Bureau direction — stockage produits inadapté. Contrainte: manque de place et coactivité administrative. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Produits & désinfectants"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Échelle de pH — Cas 1 : dans Sanitaires section grands, sous contrainte de temps et avec incident « un produit acide pH 2 est utilisé sur joints sensibles en usage quotidien », quelle décision est la plus conforme ?",
+      "id": "Q08-2",
+      "sequence": "S08",
+      "domain": "Mettre en conformité le stockage produits au bureau direction",
+      "q": "[S08] Bureau direction — stockage produits inadapté. Contrainte: manque de place et coactivité administrative. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Échelle de pH"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Échelle de pH — Cas 2 : dans Sanitaires section grands, sous contrainte de temps et avec incident « un produit acide pH 2 est utilisé sur joints sensibles en usage quotidien », quelle décision est la plus conforme ?",
+      "id": "Q09-1",
+      "sequence": "S09",
+      "domain": "Corriger une dilution incorrecte en réserve",
+      "q": "[S09] Réserve entretien — dilution incorrecte. Contrainte: absence de doseur gradué disponible. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Échelle de pH"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Échelle de pH — Cas 3 : dans Sanitaires section grands, sous contrainte de temps et avec incident « un produit acide pH 2 est utilisé sur joints sensibles en usage quotidien », quelle décision est la plus conforme ?",
+      "id": "Q09-2",
+      "sequence": "S09",
+      "domain": "Corriger une dilution incorrecte en réserve",
+      "q": "[S09] Réserve entretien — dilution incorrecte. Contrainte: absence de doseur gradué disponible. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Échelle de pH"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Chimie de l’eau — Cas 1 : dans Local technique buanderie, sous contrainte de temps et avec incident « des traces persistent malgré double dosage détergent », quelle décision est la plus conforme ?",
+      "id": "Q10-1",
+      "sequence": "S10",
+      "domain": "Arbitrer sous pression parentale en micro-crèche privée",
+      "q": "[S10] Micro-crèche privée — pression parentale sur délais de désinfection. Contrainte: menace de plainte et réputation en jeu. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Chimie de l’eau"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Chimie de l’eau — Cas 2 : dans Local technique buanderie, sous contrainte de temps et avec incident « des traces persistent malgré double dosage détergent », quelle décision est la plus conforme ?",
+      "id": "Q10-2",
+      "sequence": "S10",
+      "domain": "Arbitrer sous pression parentale en micro-crèche privée",
+      "q": "[S10] Micro-crèche privée — pression parentale sur délais de désinfection. Contrainte: menace de plainte et réputation en jeu. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Chimie de l’eau"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Chimie de l’eau — Cas 3 : dans Local technique buanderie, sous contrainte de temps et avec incident « des traces persistent malgré double dosage détergent », quelle décision est la plus conforme ?",
+      "id": "Q11-1",
+      "sequence": "S11",
+      "domain": "Gérer la cohabitation des risques en accueil multi-âge",
+      "q": "[S11] Accueil multi-âge — cohabitation de risques biologiques et chimiques. Contrainte: espaces mutualisés sur la même plage horaire. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Chimie de l’eau"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Types de salissures — Cas 1 : dans Table activité sensorielle, sous contrainte de temps et avec incident « la même méthode est appliquée à tache grasse, argile et protéine sèche », quelle décision est la plus conforme ?",
+      "id": "Q11-2",
+      "sequence": "S11",
+      "domain": "Gérer la cohabitation des risques en accueil multi-âge",
+      "q": "[S11] Accueil multi-âge — cohabitation de risques biologiques et chimiques. Contrainte: espaces mutualisés sur la même plage horaire. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Types de salissures"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Types de salissures — Cas 2 : dans Table activité sensorielle, sous contrainte de temps et avec incident « la même méthode est appliquée à tache grasse, argile et protéine sèche », quelle décision est la plus conforme ?",
+      "id": "Q12-1",
+      "sequence": "S12",
+      "domain": "Réduire les ruptures de protocole en halte-garderie",
+      "q": "[S12] Halte-garderie — rotation rapide des usagers. Contrainte: temps d’entre-deux insuffisant entre familles. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Types de salissures"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Types de salissures — Cas 3 : dans Table activité sensorielle, sous contrainte de temps et avec incident « la même méthode est appliquée à tache grasse, argile et protéine sèche », quelle décision est la plus conforme ?",
+      "id": "Q12-2",
+      "sequence": "S12",
+      "domain": "Réduire les ruptures de protocole en halte-garderie",
+      "q": "[S12] Halte-garderie — rotation rapide des usagers. Contrainte: temps d’entre-deux insuffisant entre familles. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Types de salissures"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Niveaux de salissures — Cas 1 : dans Classe passerelle après épisode gastro, sous contrainte de temps et avec incident « niveau renforcé non maintenu sur poignées malgré alerte infectieuse active », quelle décision est la plus conforme ?",
+      "id": "Q13-1",
+      "sequence": "S13",
+      "domain": "Formaliser un protocole écrit au domicile d’assistante maternelle",
+      "q": "[S13] Domicile assistante maternelle — absence de protocole écrit. Contrainte: multi-activité seule sans supervision directe. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Niveaux de salissures"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Niveaux de salissures — Cas 2 : dans Classe passerelle après épisode gastro, sous contrainte de temps et avec incident « niveau renforcé non maintenu sur poignées malgré alerte infectieuse active », quelle décision est la plus conforme ?",
+      "id": "Q13-2",
+      "sequence": "S13",
+      "domain": "Formaliser un protocole écrit au domicile d’assistante maternelle",
+      "q": "[S13] Domicile assistante maternelle — absence de protocole écrit. Contrainte: multi-activité seule sans supervision directe. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Niveaux de salissures"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Niveaux de salissures — Cas 3 : dans Classe passerelle après épisode gastro, sous contrainte de temps et avec incident « niveau renforcé non maintenu sur poignées malgré alerte infectieuse active », quelle décision est la plus conforme ?",
+      "id": "Q14-1",
+      "sequence": "S14",
+      "domain": "Compléter la trousse hygiène en sortie extérieure",
+      "q": "[S14] Sortie extérieure — trousse hygiène incomplète. Contrainte: distance au point d’eau et imprévu météo. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Niveaux de salissures"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Cercle de Sinner — Cas 1 : dans Entrée vestiaires, sous contrainte de temps et avec incident « temps réduit de moitié compensé par triple dose chimique », quelle décision est la plus conforme ?",
+      "id": "Q14-2",
+      "sequence": "S14",
+      "domain": "Compléter la trousse hygiène en sortie extérieure",
+      "q": "[S14] Sortie extérieure — trousse hygiène incomplète. Contrainte: distance au point d’eau et imprévu météo. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Cercle de Sinner"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Cercle de Sinner — Cas 2 : dans Entrée vestiaires, sous contrainte de temps et avec incident « temps réduit de moitié compensé par triple dose chimique », quelle décision est la plus conforme ?",
+      "id": "Q15-1",
+      "sequence": "S15",
+      "domain": "Désinfecter le matériel d’atelier psychomoteur",
+      "q": "[S15] Atelier psychomoteur — matériel non désinfecté entre groupes. Contrainte: enchaînement d’ateliers sans temps mort. Quelle action initiale est la plus pertinente ? (item 1)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Cercle de Sinner"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     },
     {
-      "q": "Cercle de Sinner — Cas 3 : dans Entrée vestiaires, sous contrainte de temps et avec incident « temps réduit de moitié compensé par triple dose chimique », quelle décision est la plus conforme ?",
+      "id": "Q15-2",
+      "sequence": "S15",
+      "domain": "Désinfecter le matériel d’atelier psychomoteur",
+      "q": "[S15] Atelier psychomoteur — matériel non désinfecté entre groupes. Contrainte: enchaînement d’ateliers sans temps mort. Quelle action initiale est la plus pertinente ? (item 2)",
       "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
+        "Accélérer sans mesurer pour respecter l’horaire",
+        "Sécuriser, mesurer variable clé puis tracer la décision",
+        "Attendre la fin de journée",
+        "Demander au parent de décider"
       ],
       "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Cercle de Sinner"
-    },
-    {
-      "q": "Loi de Van’t Hoff — Cas 1 : dans Lingerie pédagogique, sous contrainte de temps et avec incident « lavage accéléré par hausse température sur textile enduit sensible », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Loi de Van’t Hoff"
-    },
-    {
-      "q": "Loi de Van’t Hoff — Cas 2 : dans Lingerie pédagogique, sous contrainte de temps et avec incident « lavage accéléré par hausse température sur textile enduit sensible », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Loi de Van’t Hoff"
-    },
-    {
-      "q": "Loi de Van’t Hoff — Cas 3 : dans Lingerie pédagogique, sous contrainte de temps et avec incident « lavage accéléré par hausse température sur textile enduit sensible », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Loi de Van’t Hoff"
-    },
-    {
-      "q": "Matériaux — Cas 1 : dans Coin repas mobilier stratifié, sous contrainte de temps et avec incident « désinfectant chloré répété provoque microfissures sur plateau », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Matériaux"
-    },
-    {
-      "q": "Matériaux — Cas 2 : dans Coin repas mobilier stratifié, sous contrainte de temps et avec incident « désinfectant chloré répété provoque microfissures sur plateau », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Matériaux"
-    },
-    {
-      "q": "Matériaux — Cas 3 : dans Coin repas mobilier stratifié, sous contrainte de temps et avec incident « désinfectant chloré répété provoque microfissures sur plateau », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Matériaux"
-    },
-    {
-      "q": "Bionettoyage — Cas 1 : dans Couloir + zone change + dortoir, sous contrainte de temps et avec incident « le chariot repasse en zone propre après passage zone sale sans reconditionnement », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Bionettoyage"
-    },
-    {
-      "q": "Bionettoyage — Cas 2 : dans Couloir + zone change + dortoir, sous contrainte de temps et avec incident « le chariot repasse en zone propre après passage zone sale sans reconditionnement », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Bionettoyage"
-    },
-    {
-      "q": "Bionettoyage — Cas 3 : dans Couloir + zone change + dortoir, sous contrainte de temps et avec incident « le chariot repasse en zone propre après passage zone sale sans reconditionnement », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Bionettoyage"
-    },
-    {
-      "q": "Méthodes de nettoyage — Cas 1 : dans Salle activités manuelles, sous contrainte de temps et avec incident « essuyage en boucles crée recontamination des bords de table », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Méthodes de nettoyage"
-    },
-    {
-      "q": "Méthodes de nettoyage — Cas 2 : dans Salle activités manuelles, sous contrainte de temps et avec incident « essuyage en boucles crée recontamination des bords de table », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Méthodes de nettoyage"
-    },
-    {
-      "q": "Méthodes de nettoyage — Cas 3 : dans Salle activités manuelles, sous contrainte de temps et avec incident « essuyage en boucles crée recontamination des bords de table », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Méthodes de nettoyage"
-    },
-    {
-      "q": "Évaluations (préparation EP3) — Cas 1 : dans Plateau technique EP3 simulé, sous contrainte de temps et avec incident « candidate exécute correctement mais ne justifie aucun arbitrage », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Évaluations (préparation EP3)"
-    },
-    {
-      "q": "Évaluations (préparation EP3) — Cas 2 : dans Plateau technique EP3 simulé, sous contrainte de temps et avec incident « candidate exécute correctement mais ne justifie aucun arbitrage », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Évaluations (préparation EP3)"
-    },
-    {
-      "q": "Évaluations (préparation EP3) — Cas 3 : dans Plateau technique EP3 simulé, sous contrainte de temps et avec incident « candidate exécute correctement mais ne justifie aucun arbitrage », quelle décision est la plus conforme ?",
-      "options": [
-        "Corriger uniquement ce qui est visible immédiatement",
-        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
-        "Reporter l’action après l’accueil sans sécuriser",
-        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
-      ],
-      "answer": 1,
-      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
-      "domain": "Évaluations (préparation EP3)"
+      "explain": "Réponse attendue: sécurisation + mesure + traçabilité. Cela réduit le risque résiduel et répond aux critères EP3.",
+      "erreurFrequente": "Choisir la rapidité perçue plutôt que la preuve objective.",
+      "ep3Link": "Observation de la cohérence analyse-action-preuve."
     }
   ]
 }

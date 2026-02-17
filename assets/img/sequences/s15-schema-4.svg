@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
 <rect width="960" height="560" fill="#f8fbff"/>
 <rect x="30" y="24" width="900" height="70" rx="12" fill="#164e63"/>
-<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S09 — Mecanisme : Corriger une dilution incorrecte en réserve</text>
+<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S15 — Erreur : Désinfecter le matériel d’atelier psychomoteur</text>
 <rect x="40" y="120" width="270" height="170" rx="12" fill="#dbeafe" stroke="#1d4ed8"/>
 <text x="58" y="152" font-size="18" fill="#0f172a" font-family="Arial">Contexte</text>
-<text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Réserve entretien</text>
-<text x="58" y="210" font-size="15" fill="#0f172a" font-family="Arial">Incident: dilution incorrecte</text>
+<text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Atelier psychomoteur</text>
+<text x="58" y="210" font-size="15" fill="#0f172a" font-family="Arial">Incident: matériel non désinfecté entre groupes</text>
 <rect x="345" y="120" width="270" height="170" rx="12" fill="#ecfccb" stroke="#65a30d"/>
 <text x="363" y="152" font-size="18" fill="#0f172a" font-family="Arial">Analyse</text>
-<text x="363" y="182" font-size="14" fill="#0f172a" font-family="Arial">Variables: concentration cible</text>
-<text x="363" y="206" font-size="14" fill="#0f172a" font-family="Arial">volume d’eau</text>
+<text x="363" y="182" font-size="14" fill="#0f172a" font-family="Arial">Variables: porosité des matériaux psych</text>
+<text x="363" y="206" font-size="14" fill="#0f172a" font-family="Arial">temps de contact biocide</text>
 <rect x="650" y="120" width="270" height="170" rx="12" fill="#fee2e2" stroke="#dc2626"/>
 <text x="668" y="152" font-size="18" fill="#0f172a" font-family="Arial">Décision / preuve</text>
 <text x="668" y="182" font-size="14" fill="#0f172a" font-family="Arial">Option B prioritaire</text>
@@ -18,7 +18,7 @@
 <line x1="615" y1="205" x2="650" y2="205" stroke="#334155" stroke-width="3"/>
 <rect x="40" y="320" width="880" height="190" rx="12" fill="#ffffff" stroke="#94a3b8"/>
 <text x="58" y="352" font-size="18" fill="#0f172a" font-family="Arial">Message pédagogique clé</text>
-<text x="58" y="382" font-size="15" fill="#0f172a" font-family="Arial">Selon la loi d’action de masse, l’efficacité varie avec la concentration active ; la relation n’est pas linéaire et peut</text>
-<text x="58" y="412" font-size="15" fill="#0f172a" font-family="Arial">Erreur à éviter: surdoser pour aller plus vite</text>
-<text x="58" y="442" font-size="15" fill="#0f172a" font-family="Arial">Limite: La formule fabricant n’est valide que pour eau dans la plage de dureté recommandée.</text>
+<text x="58" y="382" font-size="15" fill="#0f172a" font-family="Arial">Le biofilm et les microfissures protègent les micro-organismes ; l’efficacité dépend de la séquence nettoyage puis désin</text>
+<text x="58" y="412" font-size="15" fill="#0f172a" font-family="Arial">Erreur à éviter: désinfecter sans nettoyage préalable</text>
+<text x="58" y="442" font-size="15" fill="#0f172a" font-family="Arial">Limite: Les mousses fissurées rendent la désinfection non fiable ; remplacement nécessaire.</text>
 </svg>

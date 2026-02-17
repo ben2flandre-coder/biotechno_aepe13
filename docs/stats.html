@@ -11,51 +11,49 @@
 <script src="../assets/js/loaders.js"></script>
 <script>
 function clean(s){ return (s||'').toLowerCase().replace(/[^a-zàâçéèêëîïôûùüÿñæœ0-9, ]/g,' ').replace(/\s+/g,' ').trim(); }
-function varSet(seq){
-  const raw = (seq.bloc4_fondScientifique?.variablesInfluence || '').split(':').pop();
-  return new Set(clean(raw).split(',').map(x=>x.trim()).filter(Boolean));
-}
-function jaccard(a,b){ let inter=0; for(const x of a){ if(b.has(x)) inter++; } return inter / Math.max(1, (a.size + b.size - inter)); }
+function varSet(seq){ return new Set(clean(seq.bloc4_fondScientifique?.variablesInfluence||'').split(',').map(x=>x.trim()).filter(Boolean)); }
+function txt(seq){ return clean(JSON.stringify([seq.title,seq.bloc2_problemeMetier,seq.bloc3_analyseTerrain,seq.bloc4_apportTheoriqueCible])); }
+function jaccard(a,b){ let inter=0; for(const x of a){ if(b.has(x)) inter++; } return inter/Math.max(1,(a.size+b.size-inter)); }
 
 (async function(){
   const seqs = await loadData('../data/sequences.json','sequences',[]);
   const qs = await loadData('../data/questions.json','questions',[]);
 
-  const minWords = Math.min(...seqs.map(s => s.stats?.wordCount || 0));
-  const maxWords = Math.max(...seqs.map(s => s.stats?.wordCount || 0));
+  const words=seqs.map(s=>s.stats?.wordCount||0);
+  const minWords=Math.min(...words), maxWords=Math.max(...words), avgWords=Math.round(words.reduce((a,b)=>a+b,0)/Math.max(1,words.length));
 
-  let maxSciSim = 0;
-  for(let i=0;i<seqs.length;i++){
-    for(let j=i+1;j<seqs.length;j++){
-      const sim = jaccard(varSet(seqs[i]), varSet(seqs[j])) * 100;
-      if(sim > maxSciSim) maxSciSim = sim;
-    }
+  let maxSciSim=0, maxTxtSim=0;
+  for(let i=0;i<seqs.length;i++) for(let j=i+1;j<seqs.length;j++){
+    maxSciSim=Math.max(maxSciSim, jaccard(varSet(seqs[i]),varSet(seqs[j]))*100);
+    const a=new Set(txt(seqs[i]).split(' ')); const b=new Set(txt(seqs[j]).split(' '));
+    maxTxtSim=Math.max(maxTxtSim, jaccard(a,b)*100);
   }
 
   const matrix = seqs.map(s => `${s.stats?.location} | ${s.stats?.incident} | ${s.stats?.constraint}`);
   const duplicateMatrix = matrix.length - new Set(matrix).size;
 
-  const schemaOk = seqs.every(s => (s.stats?.schemaCount || 0) >= 3);
-  const tableOk = seqs.every(s => (s.stats?.tableauxCount || 0) >= 3);
-  const miniEvalOk = seqs.every(s => s.miniEvaluation && (s.miniEvaluation.options || []).length >= 4);
+  let qDup=0; const seen=new Set();
+  qs.forEach(q=>{const k=(q.q||'').trim().toLowerCase(); if(seen.has(k)) qDup++; else seen.add(k);});
 
-  let qDup = 0; const qSet = new Set();
-  qs.forEach(q => { const k=(q.q||'').trim().toLowerCase(); if(qSet.has(k)) qDup++; else qSet.add(k); });
+  const schemaMin=Math.min(...seqs.map(s=>s.stats?.schemaCount||0));
+  const tableMin=Math.min(...seqs.map(s=>s.stats?.tableauxCount||0));
+  const srcMin=Math.min(...seqs.map(s=>s.stats?.sourcesCount||0));
 
   document.getElementById('globalStats').innerHTML =
     `<span class='badge'>Séquences: ${seqs.length}</span>
-     <span class='badge'>Mots min/max: ${minWords}/${maxWords}</span>
-     <span class='badge'>% similarité noyau scientifique max: ${maxSciSim.toFixed(2)}%</span>
+     <span class='badge'>Mots min/moy/max: ${minWords}/${avgWords}/${maxWords}</span>
+     <span class='badge'>Similarité scientifique max: ${maxSciSim.toFixed(2)}%</span>
+     <span class='badge'>Similarité texte max (indicative): ${maxTxtSim.toFixed(2)}%</span>
      <span class='badge'>Doublons matrice lieux/incidents/contraintes: ${duplicateMatrix}</span>
-     <span class='badge'>Schémas/seq ≥3: ${schemaOk?'OK':'KO'}</span>
-     <span class='badge'>Tableaux/seq ≥3: ${tableOk?'OK':'KO'}</span>
-     <span class='badge'>Mini-éval/seq ≥1: ${miniEvalOk?'OK':'KO'}</span>
+     <span class='badge'>Min schémas/seq: ${schemaMin}</span>
+     <span class='badge'>Min tableaux/seq: ${tableMin}</span>
+     <span class='badge'>Min sources externes/seq: ${srcMin}</span>
      <span class='badge'>Doublons QCM exacts: ${qDup}</span>`;
 
   document.getElementById('statsTable').innerHTML =
-    `<h3>Matrice qualité par séquence</h3>
-     <table class='table'><thead><tr><th>ID</th><th>Lieu</th><th>Incident</th><th>Contrainte</th><th>Schémas</th><th>Tableaux</th><th>Mini-éval</th><th>Mots</th></tr></thead>
-     <tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.stats?.location||''}</td><td>${s.stats?.incident||''}</td><td>${s.stats?.constraint||''}</td><td>${s.stats?.schemaCount||0}</td><td>${s.stats?.tableauxCount||0}</td><td>${s.miniEvaluation?'Oui':'Non'}</td><td>${s.stats?.wordCount||0}</td></tr>`).join('')}</tbody></table>`;
+    `<h3>Matrice lieux/incidents/contraintes et indicateurs</h3>
+     <table class='table'><thead><tr><th>ID</th><th>Lieu</th><th>Incident</th><th>Contrainte</th><th>Format</th><th>Schémas</th><th>Tableaux</th><th>Sources</th><th>QCM</th><th>Mots</th></tr></thead>
+     <tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.stats?.location||''}</td><td>${s.stats?.incident||''}</td><td>${s.stats?.constraint||''}</td><td>${s.stats?.format||''}</td><td>${s.stats?.schemaCount||0}</td><td>${s.stats?.tableauxCount||0}</td><td>${s.stats?.sourcesCount||0}</td><td>${qs.filter(q=>q.sequence===s.id).length}</td><td>${s.stats?.wordCount||0}</td></tr>`).join('')}</tbody></table>`;
 })();
 </script>
 </body></html>

@@ -1,1 +1,24 @@
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540'><rect width='960' height='540' fill='#f8fafc'/><rect x='30' y='30' width='900' height='480' rx='18' fill='#e2e8f0' stroke='#94a3b8'/><text x='60' y='82' font-size='30' font-family='Arial' fill='#0f172a'>S03 — EPI / EPC</text><text x='60' y='118' font-size='20' font-family='Arial' fill='#334155'>Schéma 1: mecanisme</text><text x='70' y='170' font-size='18' font-family='Arial'>Variables: hiérarchie suppression-substitution-EPC-EPI, niveau d’aérosolisation, durée d’exposition</text><text x='70' y='205' font-size='18' font-family='Arial'>Erreurs: survaloriser l’EPI vs EPC</text><rect x='70' y='240' width='260' height='90' rx='10' fill='#bfdbfe'/><text x='95' y='295' font-size='16' font-family='Arial'>Cause terrain</text><rect x='370' y='240' width='260' height='90' rx='10' fill='#bbf7d0'/><text x='395' y='295' font-size='16' font-family='Arial'>Mécanisme</text><rect x='670' y='240' width='220' height='90' rx='10' fill='#fecaca'/><text x='695' y='295' font-size='16' font-family='Arial'>Effet</text><path d='M330 285h40M630 285h40' stroke='#334155' stroke-width='4' marker-end='url(#a)'/><text x='60' y='470' font-size='15' font-family='Arial' fill='#475569'>Lieu: Atelier peinture verticale | Incident: les visières sont absentes et des gants sont portés en continu de 45 min</text><defs><marker id='a' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto'><polygon points='0,0 10,5 0,10' fill='#334155'/></marker></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="960" height="560" fill="#f8fbff"/>
+<rect x="30" y="24" width="900" height="70" rx="12" fill="#164e63"/>
+<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S03 — Mecanisme : Sécuriser l’usage des EPI lors d’un atelier peinture</text>
+<rect x="40" y="120" width="270" height="170" rx="12" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="58" y="152" font-size="18" fill="#0f172a" font-family="Arial">Contexte</text>
+<text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Atelier peinture</text>
+<text x="58" y="210" font-size="15" fill="#0f172a" font-family="Arial">Incident: EPI mal utilisé</text>
+<rect x="345" y="120" width="270" height="170" rx="12" fill="#ecfccb" stroke="#65a30d"/>
+<text x="363" y="152" font-size="18" fill="#0f172a" font-family="Arial">Analyse</text>
+<text x="363" y="182" font-size="14" fill="#0f172a" font-family="Arial">Variables: type de gants (nitrile/vinyl</text>
+<text x="363" y="206" font-size="14" fill="#0f172a" font-family="Arial">perméabilité aux solvants des colo</text>
+<rect x="650" y="120" width="270" height="170" rx="12" fill="#fee2e2" stroke="#dc2626"/>
+<text x="668" y="152" font-size="18" fill="#0f172a" font-family="Arial">Décision / preuve</text>
+<text x="668" y="182" font-size="14" fill="#0f172a" font-family="Arial">Option B prioritaire</text>
+<text x="668" y="206" font-size="14" fill="#0f172a" font-family="Arial">Trace EP3 obligatoire</text>
+<line x1="310" y1="205" x2="345" y2="205" stroke="#334155" stroke-width="3"/>
+<line x1="615" y1="205" x2="650" y2="205" stroke="#334155" stroke-width="3"/>
+<rect x="40" y="320" width="880" height="190" rx="12" fill="#ffffff" stroke="#94a3b8"/>
+<text x="58" y="352" font-size="18" fill="#0f172a" font-family="Arial">Message pédagogique clé</text>
+<text x="58" y="382" font-size="15" fill="#0f172a" font-family="Arial">La hiérarchie des protections impose d’abord suppression/substitution du danger, puis protection collective, puis indivi</text>
+<text x="58" y="412" font-size="15" fill="#0f172a" font-family="Arial">Erreur à éviter: porter des gants trop longtemps sans changement</text>
+<text x="58" y="442" font-size="15" fill="#0f172a" font-family="Arial">Limite: EPI ne compense jamais une ventilation défaillante durable ; la réduction du risque doit prioriser EPC (aérati</text>
+</svg>

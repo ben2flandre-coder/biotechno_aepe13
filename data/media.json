@@ -1,589 +1,544 @@
 {
   "media": [
     {
-      "id": "S01_SCHEMA_1",
-      "title": "Évaluation des risques — mecanisme",
+      "id": "s01-schema-1",
+      "type": "schema",
+      "seq": "S01",
+      "title": "S01 — Schéma mecanisme",
       "src": "assets/img/sequences/s01-schema-1.svg",
-      "alt": "Schéma mecanisme pour Évaluation des risques",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S01",
-        "Évaluation des risques",
-        "mecanisme",
-        "Salle motricité sensorielle"
-      ]
+      "alt": "S01 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S01_SCHEMA_2",
-      "title": "Évaluation des risques — decision",
+      "id": "s01-schema-2",
+      "type": "schema",
+      "seq": "S01",
+      "title": "S01 — Schéma decision",
       "src": "assets/img/sequences/s01-schema-2.svg",
-      "alt": "Schéma decision pour Évaluation des risques",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S01",
-        "Évaluation des risques",
-        "decision",
-        "Salle motricité sensorielle"
-      ]
+      "alt": "S01 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S01_SCHEMA_3",
-      "title": "Évaluation des risques — protocole",
+      "id": "s01-schema-3",
+      "type": "schema",
+      "seq": "S01",
+      "title": "S01 — Schéma protocole",
       "src": "assets/img/sequences/s01-schema-3.svg",
-      "alt": "Schéma protocole pour Évaluation des risques",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S01",
-        "Évaluation des risques",
-        "protocole",
-        "Salle motricité sensorielle"
-      ]
+      "alt": "S01 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S02_SCHEMA_1",
-      "title": "Dangers chimiques & biologiques — mecanisme",
+      "id": "s01-schema-4",
+      "type": "schema",
+      "seq": "S01",
+      "title": "S01 — Schéma erreur",
+      "src": "assets/img/sequences/s01-schema-4.svg",
+      "alt": "S01 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s02-schema-1",
+      "type": "schema",
+      "seq": "S02",
+      "title": "S02 — Schéma mecanisme",
       "src": "assets/img/sequences/s02-schema-1.svg",
-      "alt": "Schéma mecanisme pour Dangers chimiques & biologiques",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S02",
-        "Dangers chimiques & biologiques",
-        "mecanisme",
-        "Zone change nourrissons"
-      ]
+      "alt": "S02 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S02_SCHEMA_2",
-      "title": "Dangers chimiques & biologiques — decision",
+      "id": "s02-schema-2",
+      "type": "schema",
+      "seq": "S02",
+      "title": "S02 — Schéma decision",
       "src": "assets/img/sequences/s02-schema-2.svg",
-      "alt": "Schéma decision pour Dangers chimiques & biologiques",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S02",
-        "Dangers chimiques & biologiques",
-        "decision",
-        "Zone change nourrissons"
-      ]
+      "alt": "S02 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S02_SCHEMA_3",
-      "title": "Dangers chimiques & biologiques — protocole",
+      "id": "s02-schema-3",
+      "type": "schema",
+      "seq": "S02",
+      "title": "S02 — Schéma protocole",
       "src": "assets/img/sequences/s02-schema-3.svg",
-      "alt": "Schéma protocole pour Dangers chimiques & biologiques",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S02",
-        "Dangers chimiques & biologiques",
-        "protocole",
-        "Zone change nourrissons"
-      ]
+      "alt": "S02 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S03_SCHEMA_1",
-      "title": "EPI / EPC — mecanisme",
+      "id": "s02-schema-4",
+      "type": "schema",
+      "seq": "S02",
+      "title": "S02 — Schéma erreur",
+      "src": "assets/img/sequences/s02-schema-4.svg",
+      "alt": "S02 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s03-schema-1",
+      "type": "schema",
+      "seq": "S03",
+      "title": "S03 — Schéma mecanisme",
       "src": "assets/img/sequences/s03-schema-1.svg",
-      "alt": "Schéma mecanisme pour EPI / EPC",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S03",
-        "EPI / EPC",
-        "mecanisme",
-        "Atelier peinture verticale"
-      ]
+      "alt": "S03 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S03_SCHEMA_2",
-      "title": "EPI / EPC — decision",
+      "id": "s03-schema-2",
+      "type": "schema",
+      "seq": "S03",
+      "title": "S03 — Schéma decision",
       "src": "assets/img/sequences/s03-schema-2.svg",
-      "alt": "Schéma decision pour EPI / EPC",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S03",
-        "EPI / EPC",
-        "decision",
-        "Atelier peinture verticale"
-      ]
+      "alt": "S03 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S03_SCHEMA_3",
-      "title": "EPI / EPC — protocole",
+      "id": "s03-schema-3",
+      "type": "schema",
+      "seq": "S03",
+      "title": "S03 — Schéma protocole",
       "src": "assets/img/sequences/s03-schema-3.svg",
-      "alt": "Schéma protocole pour EPI / EPC",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S03",
-        "EPI / EPC",
-        "protocole",
-        "Atelier peinture verticale"
-      ]
+      "alt": "S03 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S04_SCHEMA_1",
-      "title": "Matériel & protocoles — mecanisme",
+      "id": "s03-schema-4",
+      "type": "schema",
+      "seq": "S03",
+      "title": "S03 — Schéma erreur",
+      "src": "assets/img/sequences/s03-schema-4.svg",
+      "alt": "S03 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s04-schema-1",
+      "type": "schema",
+      "seq": "S04",
+      "title": "S04 — Schéma mecanisme",
       "src": "assets/img/sequences/s04-schema-1.svg",
-      "alt": "Schéma mecanisme pour Matériel & protocoles",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S04",
-        "Matériel & protocoles",
-        "mecanisme",
-        "Office préparation biberonnerie"
-      ]
+      "alt": "S04 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S04_SCHEMA_2",
-      "title": "Matériel & protocoles — decision",
+      "id": "s04-schema-2",
+      "type": "schema",
+      "seq": "S04",
+      "title": "S04 — Schéma decision",
       "src": "assets/img/sequences/s04-schema-2.svg",
-      "alt": "Schéma decision pour Matériel & protocoles",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S04",
-        "Matériel & protocoles",
-        "decision",
-        "Office préparation biberonnerie"
-      ]
+      "alt": "S04 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S04_SCHEMA_3",
-      "title": "Matériel & protocoles — protocole",
+      "id": "s04-schema-3",
+      "type": "schema",
+      "seq": "S04",
+      "title": "S04 — Schéma protocole",
       "src": "assets/img/sequences/s04-schema-3.svg",
-      "alt": "Schéma protocole pour Matériel & protocoles",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S04",
-        "Matériel & protocoles",
-        "protocole",
-        "Office préparation biberonnerie"
-      ]
+      "alt": "S04 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S05_SCHEMA_1",
-      "title": "Produits & désinfectants — mecanisme",
+      "id": "s04-schema-4",
+      "type": "schema",
+      "seq": "S04",
+      "title": "S04 — Schéma erreur",
+      "src": "assets/img/sequences/s04-schema-4.svg",
+      "alt": "S04 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s05-schema-1",
+      "type": "schema",
+      "seq": "S05",
+      "title": "S05 — Schéma mecanisme",
       "src": "assets/img/sequences/s05-schema-1.svg",
-      "alt": "Schéma mecanisme pour Produits & désinfectants",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S05",
-        "Produits & désinfectants",
-        "mecanisme",
-        "Coin repas maternels"
-      ]
+      "alt": "S05 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S05_SCHEMA_2",
-      "title": "Produits & désinfectants — decision",
+      "id": "s05-schema-2",
+      "type": "schema",
+      "seq": "S05",
+      "title": "S05 — Schéma decision",
       "src": "assets/img/sequences/s05-schema-2.svg",
-      "alt": "Schéma decision pour Produits & désinfectants",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S05",
-        "Produits & désinfectants",
-        "decision",
-        "Coin repas maternels"
-      ]
+      "alt": "S05 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S05_SCHEMA_3",
-      "title": "Produits & désinfectants — protocole",
+      "id": "s05-schema-3",
+      "type": "schema",
+      "seq": "S05",
+      "title": "S05 — Schéma protocole",
       "src": "assets/img/sequences/s05-schema-3.svg",
-      "alt": "Schéma protocole pour Produits & désinfectants",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S05",
-        "Produits & désinfectants",
-        "protocole",
-        "Coin repas maternels"
-      ]
+      "alt": "S05 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S06_SCHEMA_1",
-      "title": "Échelle de pH — mecanisme",
+      "id": "s05-schema-4",
+      "type": "schema",
+      "seq": "S05",
+      "title": "S05 — Schéma erreur",
+      "src": "assets/img/sequences/s05-schema-4.svg",
+      "alt": "S05 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s06-schema-1",
+      "type": "schema",
+      "seq": "S06",
+      "title": "S06 — Schéma mecanisme",
       "src": "assets/img/sequences/s06-schema-1.svg",
-      "alt": "Schéma mecanisme pour Échelle de pH",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S06",
-        "Échelle de pH",
-        "mecanisme",
-        "Sanitaires section grands"
-      ]
+      "alt": "S06 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S06_SCHEMA_2",
-      "title": "Échelle de pH — decision",
+      "id": "s06-schema-2",
+      "type": "schema",
+      "seq": "S06",
+      "title": "S06 — Schéma decision",
       "src": "assets/img/sequences/s06-schema-2.svg",
-      "alt": "Schéma decision pour Échelle de pH",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S06",
-        "Échelle de pH",
-        "decision",
-        "Sanitaires section grands"
-      ]
+      "alt": "S06 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S06_SCHEMA_3",
-      "title": "Échelle de pH — protocole",
+      "id": "s06-schema-3",
+      "type": "schema",
+      "seq": "S06",
+      "title": "S06 — Schéma protocole",
       "src": "assets/img/sequences/s06-schema-3.svg",
-      "alt": "Schéma protocole pour Échelle de pH",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S06",
-        "Échelle de pH",
-        "protocole",
-        "Sanitaires section grands"
-      ]
+      "alt": "S06 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S07_SCHEMA_1",
-      "title": "Chimie de l’eau — mecanisme",
+      "id": "s06-schema-4",
+      "type": "schema",
+      "seq": "S06",
+      "title": "S06 — Schéma erreur",
+      "src": "assets/img/sequences/s06-schema-4.svg",
+      "alt": "S06 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s07-schema-1",
+      "type": "schema",
+      "seq": "S07",
+      "title": "S07 — Schéma mecanisme",
       "src": "assets/img/sequences/s07-schema-1.svg",
-      "alt": "Schéma mecanisme pour Chimie de l’eau",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S07",
-        "Chimie de l’eau",
-        "mecanisme",
-        "Local technique buanderie"
-      ]
+      "alt": "S07 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S07_SCHEMA_2",
-      "title": "Chimie de l’eau — decision",
+      "id": "s07-schema-2",
+      "type": "schema",
+      "seq": "S07",
+      "title": "S07 — Schéma decision",
       "src": "assets/img/sequences/s07-schema-2.svg",
-      "alt": "Schéma decision pour Chimie de l’eau",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S07",
-        "Chimie de l’eau",
-        "decision",
-        "Local technique buanderie"
-      ]
+      "alt": "S07 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S07_SCHEMA_3",
-      "title": "Chimie de l’eau — protocole",
+      "id": "s07-schema-3",
+      "type": "schema",
+      "seq": "S07",
+      "title": "S07 — Schéma protocole",
       "src": "assets/img/sequences/s07-schema-3.svg",
-      "alt": "Schéma protocole pour Chimie de l’eau",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S07",
-        "Chimie de l’eau",
-        "protocole",
-        "Local technique buanderie"
-      ]
+      "alt": "S07 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S08_SCHEMA_1",
-      "title": "Types de salissures — mecanisme",
+      "id": "s07-schema-4",
+      "type": "schema",
+      "seq": "S07",
+      "title": "S07 — Schéma erreur",
+      "src": "assets/img/sequences/s07-schema-4.svg",
+      "alt": "S07 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s08-schema-1",
+      "type": "schema",
+      "seq": "S08",
+      "title": "S08 — Schéma mecanisme",
       "src": "assets/img/sequences/s08-schema-1.svg",
-      "alt": "Schéma mecanisme pour Types de salissures",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S08",
-        "Types de salissures",
-        "mecanisme",
-        "Table activité sensorielle"
-      ]
+      "alt": "S08 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S08_SCHEMA_2",
-      "title": "Types de salissures — decision",
+      "id": "s08-schema-2",
+      "type": "schema",
+      "seq": "S08",
+      "title": "S08 — Schéma decision",
       "src": "assets/img/sequences/s08-schema-2.svg",
-      "alt": "Schéma decision pour Types de salissures",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S08",
-        "Types de salissures",
-        "decision",
-        "Table activité sensorielle"
-      ]
+      "alt": "S08 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S08_SCHEMA_3",
-      "title": "Types de salissures — protocole",
+      "id": "s08-schema-3",
+      "type": "schema",
+      "seq": "S08",
+      "title": "S08 — Schéma protocole",
       "src": "assets/img/sequences/s08-schema-3.svg",
-      "alt": "Schéma protocole pour Types de salissures",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S08",
-        "Types de salissures",
-        "protocole",
-        "Table activité sensorielle"
-      ]
+      "alt": "S08 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S09_SCHEMA_1",
-      "title": "Niveaux de salissures — mecanisme",
+      "id": "s08-schema-4",
+      "type": "schema",
+      "seq": "S08",
+      "title": "S08 — Schéma erreur",
+      "src": "assets/img/sequences/s08-schema-4.svg",
+      "alt": "S08 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s09-schema-1",
+      "type": "schema",
+      "seq": "S09",
+      "title": "S09 — Schéma mecanisme",
       "src": "assets/img/sequences/s09-schema-1.svg",
-      "alt": "Schéma mecanisme pour Niveaux de salissures",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S09",
-        "Niveaux de salissures",
-        "mecanisme",
-        "Classe passerelle après épisode gastro"
-      ]
+      "alt": "S09 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S09_SCHEMA_2",
-      "title": "Niveaux de salissures — decision",
+      "id": "s09-schema-2",
+      "type": "schema",
+      "seq": "S09",
+      "title": "S09 — Schéma decision",
       "src": "assets/img/sequences/s09-schema-2.svg",
-      "alt": "Schéma decision pour Niveaux de salissures",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S09",
-        "Niveaux de salissures",
-        "decision",
-        "Classe passerelle après épisode gastro"
-      ]
+      "alt": "S09 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S09_SCHEMA_3",
-      "title": "Niveaux de salissures — protocole",
+      "id": "s09-schema-3",
+      "type": "schema",
+      "seq": "S09",
+      "title": "S09 — Schéma protocole",
       "src": "assets/img/sequences/s09-schema-3.svg",
-      "alt": "Schéma protocole pour Niveaux de salissures",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S09",
-        "Niveaux de salissures",
-        "protocole",
-        "Classe passerelle après épisode gastro"
-      ]
+      "alt": "S09 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S10_SCHEMA_1",
-      "title": "Cercle de Sinner — mecanisme",
+      "id": "s09-schema-4",
+      "type": "schema",
+      "seq": "S09",
+      "title": "S09 — Schéma erreur",
+      "src": "assets/img/sequences/s09-schema-4.svg",
+      "alt": "S09 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s10-schema-1",
+      "type": "schema",
+      "seq": "S10",
+      "title": "S10 — Schéma mecanisme",
       "src": "assets/img/sequences/s10-schema-1.svg",
-      "alt": "Schéma mecanisme pour Cercle de Sinner",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S10",
-        "Cercle de Sinner",
-        "mecanisme",
-        "Entrée vestiaires"
-      ]
+      "alt": "S10 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S10_SCHEMA_2",
-      "title": "Cercle de Sinner — decision",
+      "id": "s10-schema-2",
+      "type": "schema",
+      "seq": "S10",
+      "title": "S10 — Schéma decision",
       "src": "assets/img/sequences/s10-schema-2.svg",
-      "alt": "Schéma decision pour Cercle de Sinner",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S10",
-        "Cercle de Sinner",
-        "decision",
-        "Entrée vestiaires"
-      ]
+      "alt": "S10 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S10_SCHEMA_3",
-      "title": "Cercle de Sinner — protocole",
+      "id": "s10-schema-3",
+      "type": "schema",
+      "seq": "S10",
+      "title": "S10 — Schéma protocole",
       "src": "assets/img/sequences/s10-schema-3.svg",
-      "alt": "Schéma protocole pour Cercle de Sinner",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S10",
-        "Cercle de Sinner",
-        "protocole",
-        "Entrée vestiaires"
-      ]
+      "alt": "S10 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S11_SCHEMA_1",
-      "title": "Loi de Van’t Hoff — mecanisme",
+      "id": "s10-schema-4",
+      "type": "schema",
+      "seq": "S10",
+      "title": "S10 — Schéma erreur",
+      "src": "assets/img/sequences/s10-schema-4.svg",
+      "alt": "S10 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s11-schema-1",
+      "type": "schema",
+      "seq": "S11",
+      "title": "S11 — Schéma mecanisme",
       "src": "assets/img/sequences/s11-schema-1.svg",
-      "alt": "Schéma mecanisme pour Loi de Van’t Hoff",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S11",
-        "Loi de Van’t Hoff",
-        "mecanisme",
-        "Lingerie pédagogique"
-      ]
+      "alt": "S11 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S11_SCHEMA_2",
-      "title": "Loi de Van’t Hoff — decision",
+      "id": "s11-schema-2",
+      "type": "schema",
+      "seq": "S11",
+      "title": "S11 — Schéma decision",
       "src": "assets/img/sequences/s11-schema-2.svg",
-      "alt": "Schéma decision pour Loi de Van’t Hoff",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S11",
-        "Loi de Van’t Hoff",
-        "decision",
-        "Lingerie pédagogique"
-      ]
+      "alt": "S11 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S11_SCHEMA_3",
-      "title": "Loi de Van’t Hoff — protocole",
+      "id": "s11-schema-3",
+      "type": "schema",
+      "seq": "S11",
+      "title": "S11 — Schéma protocole",
       "src": "assets/img/sequences/s11-schema-3.svg",
-      "alt": "Schéma protocole pour Loi de Van’t Hoff",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S11",
-        "Loi de Van’t Hoff",
-        "protocole",
-        "Lingerie pédagogique"
-      ]
+      "alt": "S11 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S12_SCHEMA_1",
-      "title": "Matériaux — mecanisme",
+      "id": "s11-schema-4",
+      "type": "schema",
+      "seq": "S11",
+      "title": "S11 — Schéma erreur",
+      "src": "assets/img/sequences/s11-schema-4.svg",
+      "alt": "S11 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s12-schema-1",
+      "type": "schema",
+      "seq": "S12",
+      "title": "S12 — Schéma mecanisme",
       "src": "assets/img/sequences/s12-schema-1.svg",
-      "alt": "Schéma mecanisme pour Matériaux",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S12",
-        "Matériaux",
-        "mecanisme",
-        "Coin repas mobilier stratifié"
-      ]
+      "alt": "S12 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S12_SCHEMA_2",
-      "title": "Matériaux — decision",
+      "id": "s12-schema-2",
+      "type": "schema",
+      "seq": "S12",
+      "title": "S12 — Schéma decision",
       "src": "assets/img/sequences/s12-schema-2.svg",
-      "alt": "Schéma decision pour Matériaux",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S12",
-        "Matériaux",
-        "decision",
-        "Coin repas mobilier stratifié"
-      ]
+      "alt": "S12 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S12_SCHEMA_3",
-      "title": "Matériaux — protocole",
+      "id": "s12-schema-3",
+      "type": "schema",
+      "seq": "S12",
+      "title": "S12 — Schéma protocole",
       "src": "assets/img/sequences/s12-schema-3.svg",
-      "alt": "Schéma protocole pour Matériaux",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S12",
-        "Matériaux",
-        "protocole",
-        "Coin repas mobilier stratifié"
-      ]
+      "alt": "S12 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S13_SCHEMA_1",
-      "title": "Bionettoyage — mecanisme",
+      "id": "s12-schema-4",
+      "type": "schema",
+      "seq": "S12",
+      "title": "S12 — Schéma erreur",
+      "src": "assets/img/sequences/s12-schema-4.svg",
+      "alt": "S12 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s13-schema-1",
+      "type": "schema",
+      "seq": "S13",
+      "title": "S13 — Schéma mecanisme",
       "src": "assets/img/sequences/s13-schema-1.svg",
-      "alt": "Schéma mecanisme pour Bionettoyage",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S13",
-        "Bionettoyage",
-        "mecanisme",
-        "Couloir + zone change + dortoir"
-      ]
+      "alt": "S13 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S13_SCHEMA_2",
-      "title": "Bionettoyage — decision",
+      "id": "s13-schema-2",
+      "type": "schema",
+      "seq": "S13",
+      "title": "S13 — Schéma decision",
       "src": "assets/img/sequences/s13-schema-2.svg",
-      "alt": "Schéma decision pour Bionettoyage",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S13",
-        "Bionettoyage",
-        "decision",
-        "Couloir + zone change + dortoir"
-      ]
+      "alt": "S13 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S13_SCHEMA_3",
-      "title": "Bionettoyage — protocole",
+      "id": "s13-schema-3",
+      "type": "schema",
+      "seq": "S13",
+      "title": "S13 — Schéma protocole",
       "src": "assets/img/sequences/s13-schema-3.svg",
-      "alt": "Schéma protocole pour Bionettoyage",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S13",
-        "Bionettoyage",
-        "protocole",
-        "Couloir + zone change + dortoir"
-      ]
+      "alt": "S13 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S14_SCHEMA_1",
-      "title": "Méthodes de nettoyage — mecanisme",
+      "id": "s13-schema-4",
+      "type": "schema",
+      "seq": "S13",
+      "title": "S13 — Schéma erreur",
+      "src": "assets/img/sequences/s13-schema-4.svg",
+      "alt": "S13 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s14-schema-1",
+      "type": "schema",
+      "seq": "S14",
+      "title": "S14 — Schéma mecanisme",
       "src": "assets/img/sequences/s14-schema-1.svg",
-      "alt": "Schéma mecanisme pour Méthodes de nettoyage",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S14",
-        "Méthodes de nettoyage",
-        "mecanisme",
-        "Salle activités manuelles"
-      ]
+      "alt": "S14 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S14_SCHEMA_2",
-      "title": "Méthodes de nettoyage — decision",
+      "id": "s14-schema-2",
+      "type": "schema",
+      "seq": "S14",
+      "title": "S14 — Schéma decision",
       "src": "assets/img/sequences/s14-schema-2.svg",
-      "alt": "Schéma decision pour Méthodes de nettoyage",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S14",
-        "Méthodes de nettoyage",
-        "decision",
-        "Salle activités manuelles"
-      ]
+      "alt": "S14 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S14_SCHEMA_3",
-      "title": "Méthodes de nettoyage — protocole",
+      "id": "s14-schema-3",
+      "type": "schema",
+      "seq": "S14",
+      "title": "S14 — Schéma protocole",
       "src": "assets/img/sequences/s14-schema-3.svg",
-      "alt": "Schéma protocole pour Méthodes de nettoyage",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S14",
-        "Méthodes de nettoyage",
-        "protocole",
-        "Salle activités manuelles"
-      ]
+      "alt": "S14 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S15_SCHEMA_1",
-      "title": "Évaluations (préparation EP3) — mecanisme",
+      "id": "s14-schema-4",
+      "type": "schema",
+      "seq": "S14",
+      "title": "S14 — Schéma erreur",
+      "src": "assets/img/sequences/s14-schema-4.svg",
+      "alt": "S14 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s15-schema-1",
+      "type": "schema",
+      "seq": "S15",
+      "title": "S15 — Schéma mecanisme",
       "src": "assets/img/sequences/s15-schema-1.svg",
-      "alt": "Schéma mecanisme pour Évaluations (préparation EP3)",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S15",
-        "Évaluations (préparation EP3)",
-        "mecanisme",
-        "Plateau technique EP3 simulé"
-      ]
+      "alt": "S15 schéma mecanisme",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S15_SCHEMA_2",
-      "title": "Évaluations (préparation EP3) — decision",
+      "id": "s15-schema-2",
+      "type": "schema",
+      "seq": "S15",
+      "title": "S15 — Schéma decision",
       "src": "assets/img/sequences/s15-schema-2.svg",
-      "alt": "Schéma decision pour Évaluations (préparation EP3)",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S15",
-        "Évaluations (préparation EP3)",
-        "decision",
-        "Plateau technique EP3 simulé"
-      ]
+      "alt": "S15 schéma decision",
+      "credit": "Production interne pédagogique CAP AEPE"
     },
     {
-      "id": "S15_SCHEMA_3",
-      "title": "Évaluations (préparation EP3) — protocole",
+      "id": "s15-schema-3",
+      "type": "schema",
+      "seq": "S15",
+      "title": "S15 — Schéma protocole",
       "src": "assets/img/sequences/s15-schema-3.svg",
-      "alt": "Schéma protocole pour Évaluations (préparation EP3)",
-      "credit": "Création pédagogique interne CAP AEPE 2026",
-      "tags": [
-        "S15",
-        "Évaluations (préparation EP3)",
-        "protocole",
-        "Plateau technique EP3 simulé"
-      ]
+      "alt": "S15 schéma protocole",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s15-schema-4",
+      "type": "schema",
+      "seq": "S15",
+      "title": "S15 — Schéma erreur",
+      "src": "assets/img/sequences/s15-schema-4.svg",
+      "alt": "S15 schéma erreur",
+      "credit": "Production interne pédagogique CAP AEPE"
     }
   ]
 }

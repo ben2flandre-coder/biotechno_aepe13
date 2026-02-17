@@ -1,1 +1,24 @@
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 540'><rect width='960' height='540' fill='#f8fafc'/><rect x='30' y='30' width='900' height='480' rx='18' fill='#e2e8f0' stroke='#94a3b8'/><text x='60' y='82' font-size='30' font-family='Arial' fill='#0f172a'>S04 — Matériel & protocoles</text><text x='60' y='118' font-size='20' font-family='Arial' fill='#334155'>Schéma 2: decision</text><rect x='70' y='150' width='820' height='250' rx='10' fill='#fff' stroke='#94a3b8'/><line x1='70' y1='200' x2='890' y2='200' stroke='#94a3b8'/><line x1='320' y1='150' x2='320' y2='400' stroke='#94a3b8'/><line x1='500' y1='150' x2='500' y2='400' stroke='#94a3b8'/><line x1='700' y1='150' x2='700' y2='400' stroke='#94a3b8'/><text x='90' y='182' font-size='16' font-family='Arial'>Option</text><text x='340' y='182' font-size='16' font-family='Arial'>Sécurité</text><text x='520' y='182' font-size='16' font-family='Arial'>Conformité</text><text x='720' y='182' font-size='16' font-family='Arial'>Risque résiduel</text><text x='90' y='245' font-size='15' font-family='Arial'>A visible</text><text x='90' y='295' font-size='15' font-family='Arial'>B critique</text><text x='90' y='345' font-size='15' font-family='Arial'>C report</text><text x='60' y='470' font-size='15' font-family='Arial' fill='#475569'>Lieu: Office préparation biberonnerie | Incident: les lavettes code couleur ont été mélangées après lavage</text><defs><marker id='a' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto'><polygon points='0,0 10,5 0,10' fill='#334155'/></marker></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="960" height="560" fill="#f8fbff"/>
+<rect x="30" y="24" width="900" height="70" rx="12" fill="#164e63"/>
+<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S04 — Decision : Garantir la chaîne chaud/froid au coin repas</text>
+<rect x="40" y="120" width="270" height="170" rx="12" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="58" y="152" font-size="18" fill="#0f172a" font-family="Arial">Contexte</text>
+<text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Coin repas</text>
+<text x="58" y="210" font-size="15" fill="#0f172a" font-family="Arial">Incident: rupture de la chaîne chaud/froid</text>
+<rect x="345" y="120" width="270" height="170" rx="12" fill="#ecfccb" stroke="#65a30d"/>
+<text x="363" y="152" font-size="18" fill="#0f172a" font-family="Arial">Analyse</text>
+<text x="363" y="182" font-size="14" fill="#0f172a" font-family="Arial">Variables: température cœur des plats</text>
+<text x="363" y="206" font-size="14" fill="#0f172a" font-family="Arial">durée d’exposition en zone tampon</text>
+<rect x="650" y="120" width="270" height="170" rx="12" fill="#fee2e2" stroke="#dc2626"/>
+<text x="668" y="152" font-size="18" fill="#0f172a" font-family="Arial">Décision / preuve</text>
+<text x="668" y="182" font-size="14" fill="#0f172a" font-family="Arial">Option B prioritaire</text>
+<text x="668" y="206" font-size="14" fill="#0f172a" font-family="Arial">Trace EP3 obligatoire</text>
+<line x1="310" y1="205" x2="345" y2="205" stroke="#334155" stroke-width="3"/>
+<line x1="615" y1="205" x2="650" y2="205" stroke="#334155" stroke-width="3"/>
+<rect x="40" y="320" width="880" height="190" rx="12" fill="#ffffff" stroke="#94a3b8"/>
+<text x="58" y="352" font-size="18" fill="#0f172a" font-family="Arial">Message pédagogique clé</text>
+<text x="58" y="382" font-size="15" fill="#0f172a" font-family="Arial">La croissance bactérienne suit une cinétique exponentielle dans la zone de danger thermique ; chaque minute hors plage s</text>
+<text x="58" y="412" font-size="15" fill="#0f172a" font-family="Arial">Erreur à éviter: assimiler plat tiède à plat sûr</text>
+<text x="58" y="442" font-size="15" fill="#0f172a" font-family="Arial">Limite: Sans thermomètre étalonné, l’évaluation sensorielle est non recevable en audit EP3.</text>
+</svg>

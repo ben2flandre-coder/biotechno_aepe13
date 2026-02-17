@@ -43,7 +43,7 @@
 
       body.innerHTML = `
       <h2>${s.title}</h2>
-      <p><span class="badge">${s.stats?.wordCount || 0} mots utiles</span><span class="badge">3 schémas</span><span class="badge">3 tableaux</span></p>
+      <p><span class="badge">${s.stats?.wordCount || 0} mots utiles</span><span class="badge">4 schémas</span><span class="badge">3 tableaux</span></p>
       <h3>1) Situation professionnelle concrète (EAJE / école maternelle)</h3>
       <ul><li>${s.bloc1_situationProfessionnelle?.situation1 || ''}</li><li>${s.bloc1_situationProfessionnelle?.situation2 || ''}</li></ul>
       <h3>2) Problème métier à résoudre</h3>${softParagraphs(s.bloc2_problemeMetier)}
@@ -74,7 +74,8 @@
       <h3>Mini-évaluation</h3>
       <p><strong>${e.q || ''}</strong></p><ul>${(e.options || []).map((o,i)=>`<li>${String.fromCharCode(65+i)}. ${o}</li>`).join('')}</ul>
       <p><strong>Corrigé argumenté :</strong> ${e.justification || ''}</p><p><strong>Erreur fréquente :</strong> ${e.erreurFrequente || ''}</p>
-      <h3>Schémas pédagogiques</h3>${mediaHtml}`;
+      <h3>Schémas pédagogiques</h3>${mediaHtml}
+      <h3>Références institutionnelles mobilisées</h3><ul>${(s.institutionalReferences || []).map((r)=>`<li>${r}</li>`).join('')}</ul>`;
       overlay.classList.add('open');
     });
   }
