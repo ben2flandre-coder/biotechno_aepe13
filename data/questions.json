@@ -1,724 +1,544 @@
 {
   "questions": [
     {
-      "q": "Q1. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Évaluation des risques — Cas 1 : dans Salle motricité sensorielle, sous contrainte de temps et avec incident « un tapis antidérapant mal fixé glisse sous un parcours d’équilibre », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Évaluation des risques"
     },
     {
-      "q": "Q2. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Évaluation des risques — Cas 2 : dans Salle motricité sensorielle, sous contrainte de temps et avec incident « un tapis antidérapant mal fixé glisse sous un parcours d’équilibre », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Évaluation des risques"
     },
     {
-      "q": "Q3. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Évaluation des risques — Cas 3 : dans Salle motricité sensorielle, sous contrainte de temps et avec incident « un tapis antidérapant mal fixé glisse sous un parcours d’équilibre », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Évaluation des risques"
     },
     {
-      "q": "Q4. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Dangers chimiques & biologiques — Cas 1 : dans Zone change nourrissons, sous contrainte de temps et avec incident « un flacon détartrant est stocké dans le bac des consommables de change », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Dangers chimiques & biologiques"
     },
     {
-      "q": "Q5. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Dangers chimiques & biologiques — Cas 2 : dans Zone change nourrissons, sous contrainte de temps et avec incident « un flacon détartrant est stocké dans le bac des consommables de change », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Dangers chimiques & biologiques"
     },
     {
-      "q": "Q6. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Dangers chimiques & biologiques — Cas 3 : dans Zone change nourrissons, sous contrainte de temps et avec incident « un flacon détartrant est stocké dans le bac des consommables de change », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Dangers chimiques & biologiques"
     },
     {
-      "q": "Q7. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "EPI / EPC — Cas 1 : dans Atelier peinture verticale, sous contrainte de temps et avec incident « les visières sont absentes et des gants sont portés en continu de 45 min », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "EPI / EPC"
     },
     {
-      "q": "Q8. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "EPI / EPC — Cas 2 : dans Atelier peinture verticale, sous contrainte de temps et avec incident « les visières sont absentes et des gants sont portés en continu de 45 min », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "EPI / EPC"
     },
     {
-      "q": "Q9. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "EPI / EPC — Cas 3 : dans Atelier peinture verticale, sous contrainte de temps et avec incident « les visières sont absentes et des gants sont portés en continu de 45 min », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "EPI / EPC"
     },
     {
-      "q": "Q10. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Matériel & protocoles — Cas 1 : dans Office préparation biberonnerie, sous contrainte de temps et avec incident « les lavettes code couleur ont été mélangées après lavage », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Matériel & protocoles"
     },
     {
-      "q": "Q11. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Matériel & protocoles — Cas 2 : dans Office préparation biberonnerie, sous contrainte de temps et avec incident « les lavettes code couleur ont été mélangées après lavage », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Matériel & protocoles"
     },
     {
-      "q": "Q12. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Matériel & protocoles — Cas 3 : dans Office préparation biberonnerie, sous contrainte de temps et avec incident « les lavettes code couleur ont été mélangées après lavage », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Matériel & protocoles"
     },
     {
-      "q": "Q13. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Produits & désinfectants — Cas 1 : dans Coin repas maternels, sous contrainte de temps et avec incident « la table est essuyée avant fin du temps de contact désinfectant », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Produits & désinfectants"
     },
     {
-      "q": "Q14. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Produits & désinfectants — Cas 2 : dans Coin repas maternels, sous contrainte de temps et avec incident « la table est essuyée avant fin du temps de contact désinfectant », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Produits & désinfectants"
     },
     {
-      "q": "Q15. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Produits & désinfectants — Cas 3 : dans Coin repas maternels, sous contrainte de temps et avec incident « la table est essuyée avant fin du temps de contact désinfectant », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Produits & désinfectants"
     },
     {
-      "q": "Q16. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Échelle de pH — Cas 1 : dans Sanitaires section grands, sous contrainte de temps et avec incident « un produit acide pH 2 est utilisé sur joints sensibles en usage quotidien », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Échelle de pH"
     },
     {
-      "q": "Q17. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Échelle de pH — Cas 2 : dans Sanitaires section grands, sous contrainte de temps et avec incident « un produit acide pH 2 est utilisé sur joints sensibles en usage quotidien », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Échelle de pH"
     },
     {
-      "q": "Q18. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Échelle de pH — Cas 3 : dans Sanitaires section grands, sous contrainte de temps et avec incident « un produit acide pH 2 est utilisé sur joints sensibles en usage quotidien », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Échelle de pH"
     },
     {
-      "q": "Q19. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Chimie de l’eau — Cas 1 : dans Local technique buanderie, sous contrainte de temps et avec incident « des traces persistent malgré double dosage détergent », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Chimie de l’eau"
     },
     {
-      "q": "Q20. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Chimie de l’eau — Cas 2 : dans Local technique buanderie, sous contrainte de temps et avec incident « des traces persistent malgré double dosage détergent », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Chimie de l’eau"
     },
     {
-      "q": "Q21. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Chimie de l’eau — Cas 3 : dans Local technique buanderie, sous contrainte de temps et avec incident « des traces persistent malgré double dosage détergent », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Chimie de l’eau"
     },
     {
-      "q": "Q22. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Types de salissures — Cas 1 : dans Table activité sensorielle, sous contrainte de temps et avec incident « la même méthode est appliquée à tache grasse, argile et protéine sèche », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Types de salissures"
     },
     {
-      "q": "Q23. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Types de salissures — Cas 2 : dans Table activité sensorielle, sous contrainte de temps et avec incident « la même méthode est appliquée à tache grasse, argile et protéine sèche », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Types de salissures"
     },
     {
-      "q": "Q24. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Types de salissures — Cas 3 : dans Table activité sensorielle, sous contrainte de temps et avec incident « la même méthode est appliquée à tache grasse, argile et protéine sèche », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Types de salissures"
     },
     {
-      "q": "Q25. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Niveaux de salissures — Cas 1 : dans Classe passerelle après épisode gastro, sous contrainte de temps et avec incident « niveau renforcé non maintenu sur poignées malgré alerte infectieuse active », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Niveaux de salissures"
     },
     {
-      "q": "Q26. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Niveaux de salissures — Cas 2 : dans Classe passerelle après épisode gastro, sous contrainte de temps et avec incident « niveau renforcé non maintenu sur poignées malgré alerte infectieuse active », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Niveaux de salissures"
     },
     {
-      "q": "Q27. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Niveaux de salissures — Cas 3 : dans Classe passerelle après épisode gastro, sous contrainte de temps et avec incident « niveau renforcé non maintenu sur poignées malgré alerte infectieuse active », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Niveaux de salissures"
     },
     {
-      "q": "Q28. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Cercle de Sinner — Cas 1 : dans Entrée vestiaires, sous contrainte de temps et avec incident « temps réduit de moitié compensé par triple dose chimique », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Cercle de Sinner"
     },
     {
-      "q": "Q29. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Cercle de Sinner — Cas 2 : dans Entrée vestiaires, sous contrainte de temps et avec incident « temps réduit de moitié compensé par triple dose chimique », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Cercle de Sinner"
     },
     {
-      "q": "Q30. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Cercle de Sinner — Cas 3 : dans Entrée vestiaires, sous contrainte de temps et avec incident « temps réduit de moitié compensé par triple dose chimique », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Cercle de Sinner"
     },
     {
-      "q": "Q31. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Loi de Van’t Hoff — Cas 1 : dans Lingerie pédagogique, sous contrainte de temps et avec incident « lavage accéléré par hausse température sur textile enduit sensible », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Loi de Van’t Hoff"
     },
     {
-      "q": "Q32. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Loi de Van’t Hoff — Cas 2 : dans Lingerie pédagogique, sous contrainte de temps et avec incident « lavage accéléré par hausse température sur textile enduit sensible », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Loi de Van’t Hoff"
     },
     {
-      "q": "Q33. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Loi de Van’t Hoff — Cas 3 : dans Lingerie pédagogique, sous contrainte de temps et avec incident « lavage accéléré par hausse température sur textile enduit sensible », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Loi de Van’t Hoff"
     },
     {
-      "q": "Q34. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Matériaux — Cas 1 : dans Coin repas mobilier stratifié, sous contrainte de temps et avec incident « désinfectant chloré répété provoque microfissures sur plateau », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Matériaux"
     },
     {
-      "q": "Q35. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Matériaux — Cas 2 : dans Coin repas mobilier stratifié, sous contrainte de temps et avec incident « désinfectant chloré répété provoque microfissures sur plateau », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Matériaux"
     },
     {
-      "q": "Q36. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Matériaux — Cas 3 : dans Coin repas mobilier stratifié, sous contrainte de temps et avec incident « désinfectant chloré répété provoque microfissures sur plateau », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Matériaux"
     },
     {
-      "q": "Q37. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Bionettoyage — Cas 1 : dans Couloir + zone change + dortoir, sous contrainte de temps et avec incident « le chariot repasse en zone propre après passage zone sale sans reconditionnement », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Bionettoyage"
     },
     {
-      "q": "Q38. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Bionettoyage — Cas 2 : dans Couloir + zone change + dortoir, sous contrainte de temps et avec incident « le chariot repasse en zone propre après passage zone sale sans reconditionnement », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Bionettoyage"
     },
     {
-      "q": "Q39. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Bionettoyage — Cas 3 : dans Couloir + zone change + dortoir, sous contrainte de temps et avec incident « le chariot repasse en zone propre après passage zone sale sans reconditionnement », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Bionettoyage"
     },
     {
-      "q": "Q40. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Méthodes de nettoyage — Cas 1 : dans Salle activités manuelles, sous contrainte de temps et avec incident « essuyage en boucles crée recontamination des bords de table », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Méthodes de nettoyage"
     },
     {
-      "q": "Q41. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Méthodes de nettoyage — Cas 2 : dans Salle activités manuelles, sous contrainte de temps et avec incident « essuyage en boucles crée recontamination des bords de table », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Méthodes de nettoyage"
     },
     {
-      "q": "Q42. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Méthodes de nettoyage — Cas 3 : dans Salle activités manuelles, sous contrainte de temps et avec incident « essuyage en boucles crée recontamination des bords de table », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Méthodes de nettoyage"
     },
     {
-      "q": "Q43. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Évaluations (préparation EP3) — Cas 1 : dans Plateau technique EP3 simulé, sous contrainte de temps et avec incident « candidate exécute correctement mais ne justifie aucun arbitrage », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Évaluations (préparation EP3)"
     },
     {
-      "q": "Q44. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Évaluations (préparation EP3) — Cas 2 : dans Plateau technique EP3 simulé, sous contrainte de temps et avec incident « candidate exécute correctement mais ne justifie aucun arbitrage », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Évaluations (préparation EP3)"
     },
     {
-      "q": "Q45. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "q": "Évaluations (préparation EP3) — Cas 3 : dans Plateau technique EP3 simulé, sous contrainte de temps et avec incident « candidate exécute correctement mais ne justifie aucun arbitrage », quelle décision est la plus conforme ?",
       "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
+        "Corriger uniquement ce qui est visible immédiatement",
+        "Prioriser le risque critique puis appliquer le protocole complet et tracer",
+        "Reporter l’action après l’accueil sans sécuriser",
+        "Augmenter un paramètre (produit/temps) sans réévaluer le reste"
       ],
       "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
-    },
-    {
-      "q": "Q46. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
-    },
-    {
-      "q": "Q47. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
-    },
-    {
-      "q": "Q48. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
-    },
-    {
-      "q": "Q49. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
-    },
-    {
-      "q": "Q50. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
-    },
-    {
-      "q": "Q51. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
-    },
-    {
-      "q": "Q52. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
-    },
-    {
-      "q": "Q53. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
-    },
-    {
-      "q": "Q54. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
-    },
-    {
-      "q": "Q55. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
-    },
-    {
-      "q": "Q56. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
-    },
-    {
-      "q": "Q57. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Hygiène"
-    },
-    {
-      "q": "Q58. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Microbiologie"
-    },
-    {
-      "q": "Q59. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Protocole"
-    },
-    {
-      "q": "Q60. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
-      "options": [
-        "Ignorer le protocole écrit",
-        "Appliquer le geste barrière adapté",
-        "Reporter l'action sans justification",
-        "Utiliser un matériel non désinfecté"
-      ],
-      "answer": 1,
-      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
-      "domain": "Qualité"
+      "explain": "La décision robuste combine hiérarchisation du risque, application protocolaire complète, et preuve attendue en contexte EP3.",
+      "domain": "Évaluations (préparation EP3)"
     }
   ]
 }

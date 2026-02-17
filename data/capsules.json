@@ -3,40 +3,42 @@
     {
       "id": "CAPS-01",
       "title": "Capsule 1 — Évaluation des risques",
-      "microTheme": "cartographie des risques",
-      "frequentError": "Erreur fréquente : tapis humide près d’un atelier psychomoteur traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : le risque est le produit d’un danger par une exposition contextualisée ; un danger non exposé n’a pas le même niveau de priorité. Variables d’influence : densité d’enfants, humidité résiduelle, visibilité de zone, compétence du remplaçant, délai disponible.",
+      "microTheme": "cartographie dynamique des risques",
+      "frequentError": "Erreur fréquente : un tapis antidérapant mal fixé glisse sous un parcours d’équilibre traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : gravité potentielle influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : probabilité d’occurrence modifie la dynamique de risque dans le temps court.",
       "schemaId": "S01_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Évaluation des risques, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S01"
     },
     {
       "id": "CAPS-02",
       "title": "Capsule 2 — Dangers chimiques & biologiques",
-      "microTheme": "cohabitation bio/chimique",
-      "frequentError": "Erreur fréquente : spray désinfectant posé à côté d’une crème de change traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : risque chimique et risque biologique peuvent coexister ; prioriser l’un sans contrôler l’autre crée une vulnérabilité secondaire. Variables : volatilité du produit, charge organique, proximité des denrées, fréquence de contact main-bouche des enfants.",
+      "microTheme": "cohabitation des dangers bio/chimiques",
+      "frequentError": "Erreur fréquente : un flacon détartrant est stocké dans le bac des consommables de change traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : toxicité intrinsèque produit influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : voie d’exposition modifie la dynamique de risque dans le temps court.",
       "schemaId": "S02_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Dangers chimiques & biologiques, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S02"
     },
@@ -44,19 +46,20 @@
       "id": "CAPS-03",
       "title": "Capsule 3 — EPI / EPC",
       "microTheme": "hiérarchie des protections",
-      "frequentError": "Erreur fréquente : atsem garde les mêmes gants pour peinture et nettoyage traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : hiérarchie des protections = suppression > substitution > EPC > EPI ; l’EPI ne doit pas compenser une EPC défaillante durablement. Variables : type de tâche, durée d’exposition, ventilation, proximité enfant, dextérité requise.",
+      "frequentError": "Erreur fréquente : les visières sont absentes et des gants sont portés en continu de 45 min traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : hiérarchie suppression-substitution-EPC-EPI influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : niveau d’aérosolisation modifie la dynamique de risque dans le temps court.",
       "schemaId": "S03_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence EPI / EPC, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S03"
     },
@@ -64,79 +67,83 @@
       "id": "CAPS-04",
       "title": "Capsule 4 — Matériel & protocoles",
       "microTheme": "standardisation matérielle",
-      "frequentError": "Erreur fréquente : lavettes multi-usages sans code couleur traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : standardisation réduit la variance inter-opérateur et donc le risque systémique. Variables : lisibilité protocole, disponibilité matériel dédié, turnover équipe, pression temporelle.",
+      "frequentError": "Erreur fréquente : les lavettes code couleur ont été mélangées après lavage traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : traçabilité matérielle influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : séparation fonctionnelle des outils modifie la dynamique de risque dans le temps court.",
       "schemaId": "S04_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Matériel & protocoles, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S04"
     },
     {
       "id": "CAPS-05",
       "title": "Capsule 5 — Produits & désinfectants",
-      "microTheme": "choix produit et temps de contact",
-      "frequentError": "Erreur fréquente : désinfection écourtée pour accélérer la mise en place du goûter traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : efficacité biocide dépend du triplet concentration-temps-contact-température, plus nettoyage préalable. Variables : type de surface, porosité, charge organique, rinçage requis, lot produit.",
+      "microTheme": "maîtrise concentration/temps",
+      "frequentError": "Erreur fréquente : la table est essuyée avant fin du temps de contact désinfectant traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : concentration active influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : temps de contact modifie la dynamique de risque dans le temps court.",
       "schemaId": "S05_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Produits & désinfectants, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S05"
     },
     {
       "id": "CAPS-06",
       "title": "Capsule 6 — Échelle de pH",
-      "microTheme": "adéquation pH/support",
-      "frequentError": "Erreur fréquente : produit acide appliqué sur surface sensible traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : pH est logarithmique ; un écart d’une unité correspond à un facteur 10 en activité protonique. Variables : nature support, nature salissure, dureté eau, compatibilité produit.",
+      "microTheme": "relation pH et efficacité",
+      "frequentError": "Erreur fréquente : un produit acide ph 2 est utilisé sur joints sensibles en usage quotidien traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : logarithme pH influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : pouvoir tampon modifie la dynamique de risque dans le temps court.",
       "schemaId": "S06_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Échelle de pH, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S06"
     },
     {
       "id": "CAPS-07",
       "title": "Capsule 7 — Chimie de l’eau",
-      "microTheme": "dureté et température",
-      "frequentError": "Erreur fréquente : traces persistantes malgré hausse du dosage traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : dureté (Ca2+/Mg2+) peut piéger certains tensioactifs et réduire le pouvoir nettoyant. Variables : TH local, température d’usage, débit rinçage, dosage réel.",
+      "microTheme": "dureté et tensioactivité",
+      "frequentError": "Erreur fréquente : des traces persistent malgré double dosage détergent traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : dureté TH influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : complexation calcium/magnésium modifie la dynamique de risque dans le temps court.",
       "schemaId": "S07_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Chimie de l’eau, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S07"
     },
@@ -144,119 +151,125 @@
       "id": "CAPS-08",
       "title": "Capsule 8 — Types de salissures",
       "microTheme": "diagnostic de souillure",
-      "frequentError": "Erreur fréquente : mélange d’argile, gras, et traces protéiques traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : souillures minérales, organiques et grasses répondent différemment aux leviers chimiques/mécaniques. Variables : ancienneté de tache, température, texture surface, humidité.",
+      "frequentError": "Erreur fréquente : la même méthode est appliquée à tache grasse, argile et protéine sèche traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : nature hydrophile/hydrophobe influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : ancienneté de tache modifie la dynamique de risque dans le temps court.",
       "schemaId": "S08_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Types de salissures, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S08"
     },
     {
       "id": "CAPS-09",
       "title": "Capsule 9 — Niveaux de salissures",
-      "microTheme": "gradation d'exigence",
-      "frequentError": "Erreur fréquente : même protocole utilisé en routine et après épisode gastro traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : niveau d’exigence se module selon risque épidémiologique et intensité de contact des surfaces. Variables : contexte infectieux, fréquence d’usage, public vulnérable, renouvellement d’air.",
+      "microTheme": "gradation d’exigence sanitaire",
+      "frequentError": "Erreur fréquente : niveau renforcé non maintenu sur poignées malgré alerte infectieuse active traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : niveau courant/renforcé/critique influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : fréquence de contact modifie la dynamique de risque dans le temps court.",
       "schemaId": "S09_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Niveaux de salissures, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S09"
     },
     {
       "id": "CAPS-10",
       "title": "Capsule 10 — Cercle de Sinner",
-      "microTheme": "équilibrage des paramètres",
-      "frequentError": "Erreur fréquente : pression temps: seul paramètre chimique augmenté traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : cercle de Sinner impose compensation raisonnée entre temps, température, chimie et mécanique. Variables : contrainte horaire, disponibilité matériel, support, niveau souillure.",
+      "microTheme": "arbitrage des 4 paramètres",
+      "frequentError": "Erreur fréquente : temps réduit de moitié compensé par triple dose chimique traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : temps d’action influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : température modifie la dynamique de risque dans le temps court.",
       "schemaId": "S10_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Cercle de Sinner, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S10"
     },
     {
       "id": "CAPS-11",
       "title": "Capsule 11 — Loi de Van’t Hoff",
-      "microTheme": "effet température maîtrisé",
-      "frequentError": "Erreur fréquente : augmentation forte de température sur textile fragile traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : Van’t Hoff relie hausse de température et vitesse réactionnelle mais avec limites thermiques des matériaux et actifs. Variables : plage thermique produit, stabilité textile, durée exposition.",
+      "microTheme": "température et vitesse réactionnelle",
+      "frequentError": "Erreur fréquente : lavage accéléré par hausse température sur textile enduit sensible traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : vitesse réactionnelle vs température influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : stabilité des polymères modifie la dynamique de risque dans le temps court.",
       "schemaId": "S11_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Loi de Van’t Hoff, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S11"
     },
     {
       "id": "CAPS-12",
       "title": "Capsule 12 — Matériaux",
-      "microTheme": "compatibilité produit/support",
-      "frequentError": "Erreur fréquente : produit chloré répété sur polymère poreux traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : structure physico-chimique des matériaux gouverne adsorption, résistance et sensibilité aux agents. Variables : porosité, rugosité, revêtement, vieillissement.",
+      "microTheme": "compatibilité support/produit",
+      "frequentError": "Erreur fréquente : désinfectant chloré répété provoque microfissures sur plateau traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : porosité influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : rugosité modifie la dynamique de risque dans le temps court.",
       "schemaId": "S12_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Matériaux, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S12"
     },
     {
       "id": "CAPS-13",
       "title": "Capsule 13 — Bionettoyage",
-      "microTheme": "logique descendante",
-      "frequentError": "Erreur fréquente : circuit propre/sale croisé pendant passage du chariot traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : bionettoyage efficace = zonage, progression propre→sale, et rupture des recontaminations. Variables : flux de circulation, séparation chariot, fréquence passage, niveau d’alerte sanitaire.",
+      "microTheme": "circuit propre/sale",
+      "frequentError": "Erreur fréquente : le chariot repasse en zone propre après passage zone sale sans reconditionnement traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : zonage fonctionnel influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : progression propre→sale modifie la dynamique de risque dans le temps court.",
       "schemaId": "S13_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Bionettoyage, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S13"
     },
@@ -264,39 +277,41 @@
       "id": "CAPS-14",
       "title": "Capsule 14 — Méthodes de nettoyage",
       "microTheme": "méthode directionnelle",
-      "frequentError": "Erreur fréquente : essuyage aléatoire avec retours arrière traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : méthode directionnelle et recouvrement contrôlé garantissent la couverture réelle des surfaces. Variables : taille zone, géométrie mobilier, fatigue opérateur, qualité consommable.",
+      "frequentError": "Erreur fréquente : essuyage en boucles crée recontamination des bords de table traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : méthode directionnelle influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : taux de recouvrement modifie la dynamique de risque dans le temps court.",
       "schemaId": "S14_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Méthodes de nettoyage, quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S14"
     },
     {
       "id": "CAPS-15",
       "title": "Capsule 15 — Évaluations (préparation EP3)",
-      "microTheme": "argumentation professionnelle",
-      "frequentError": "Erreur fréquente : candidate exécute juste mais ne justifie pas ses choix traité comme détail mineur.",
-      "scienceDense": "Explication scientifique dense : Mécanisme clé : en EP3, performance = décision + exécution + justification + preuve ; l’absence d’un pilier affaiblit l’évaluation. Variables : stress, gestion temps, clarté verbale, traçabilité.",
+      "microTheme": "preuve attendue EP3",
+      "frequentError": "Erreur fréquente : candidate exécute correctement mais ne justifie aucun arbitrage traité comme incident secondaire.",
+      "scienceDense": "Mécanisme 1 spécifique : alignement analyse-action-preuve influence directement la stabilité de la décision technique. Mécanisme 2 spécifique : gestion du stress modifie la dynamique de risque dans le temps court.",
       "schemaId": "S15_SCHEMA_1",
       "miniQCU": {
-        "q": "Quelle décision est la plus conforme en contexte contraint ?",
+        "q": "Dans la séquence Évaluations (préparation EP3), quelle décision est la plus robuste sous contrainte ?",
         "options": [
-          "Traiter le visible d’abord",
+          "Prioriser l’apparence visuelle",
           "Prioriser le risque critique puis tracer",
-          "Reporter sans sécuriser",
-          "Augmenter le produit sans analyse"
+          "Reporter l’action sans sécuriser",
+          "Augmenter un seul paramètre sans analyse"
         ],
         "answer": 1,
-        "correction": "La conformité CAP AEPE exige une priorisation du risque critique, une exécution maîtrisée et une preuve traçable."
+        "justification": "La robustesse vient de la priorisation du risque critique, de l’application protocolaire complète et de la preuve attendue.",
+        "erreurFrequente": "Confondre rapidité perçue et conformité sanitaire."
       },
       "sequenceLink": "S15"
     }

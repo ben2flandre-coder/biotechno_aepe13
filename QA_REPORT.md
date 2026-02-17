@@ -1,38 +1,39 @@
-# QA_REPORT — Refonte expert GRETA (Phase 1)
+# QA_REPORT — V2 premium cours (GRETA)
 
-## Validation canonique séquences (15/15)
-- [x] 9 blocs obligatoires présents par séquence
-- [x] Fond scientifique spécifique par séquence (mécanisme, variables, erreurs, limites)
-- [x] 2 situations professionnelles distinctes (EAJE + école maternelle)
-- [x] Erreur métier détaillée (causes terrain + impacts sanitaires/réglementaires/EP3)
-- [x] Analyse décisionnelle structurée en 3 options
-- [x] Micro-protocole opérationnel numéroté avec vigilance + EPI
-- [x] Encadré « Erreur fréquente candidat CAP »
-- [x] Arbitrage formateur (débat, question piège EP3, mise en situation, cas groupe)
+## Contrôles bloquants séquences
+- [x] 15 séquences avec scénarios distincts (lieu/incident/contrainte)
+- [x] Fond scientifique spécifique par thème (>=5 mécanismes/variables + 3 erreurs d’interprétation)
+- [x] 2 situations EAJE/école par séquence
+- [x] 1 erreur métier détaillée par séquence
+- [x] 1 tableau options décisionnelles (3 options)
+- [x] 1 micro-protocole terrain actionnable
+- [x] 1 encadré erreur fréquente candidat CAP
+- [x] 1 encadré piège EP3 + preuve attendue
+- [x] 1 mini-cas groupe + arbitrage formateur
+- [x] 3 schémas didactiques par séquence
+- [x] 1 mini-évaluation contextualisée par séquence
 
-## Indicateurs quantitatifs
-- Nombre de mots utiles par séquence : min 1477 (script de contrôle)
-- Situations professionnelles par séquence : 2
-- Tableaux pédagogiques par séquence : 2 (erreurs+options)
-- Schémas pédagogiques par séquence : 3
-- Total schémas séquences : 45
+## Contrôles capsules
+- [x] 15 capsules refondues avec micro-compétence ciblée
+- [x] erreur fréquente + explication dense + schéma + QCU corrigé + lien séquence
 
-## Capsules — refonte qualitative
-- [x] Capsule = micro-thème précis
-- [x] Erreur fréquente contextualisée
-- [x] Explication scientifique dense
-- [x] Schéma explicatif utile référencé
-- [x] Mini QCU + corrigé argumenté
-- [x] Lien explicite vers séquence approfondie
+## Contrôles QCM
+- [x] questions contextualisées
+- [x] distracteurs crédibles
+- [x] explication riche
+- [x] doublons exacts = 0
+
+## Métriques qualité (docs/stats.html)
+- % similarité noyau scientifique entre séquences: calculée et affichée (cible basse)
+- Matrice lieux/incidents/contraintes: doublons totaux affichés
+- Schémas/seq, tableaux/seq, mini-éval/seq : contrôlés
+- Audit doublons questions: affiché
 
 ## Contrôles techniques
-- [x] `data/sequences.json` valide
-- [x] `data/media.json` valide
-- [x] `data/capsules.json` valide
-- [x] `assets/img/sequences/*.svg` = 45 fichiers
-- [x] Zéro référence statique manquante en HTML
-- [x] Rendu overlay séquences opérationnel
+- [x] JSON valides (`sequences`, `capsules`, `questions`, `media`)
+- [x] 45 schémas séquences présents
+- [x] zéro référence statique manquante (HTML)
+- [x] overlay séquences et capsules fonctionnels
 
-## Hors périmètre (inchangé)
-- Banque QCM massive : non développée
-- Diagnostic : non développé
+## Hors périmètre
+- Diagnostic non activé

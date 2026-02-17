@@ -3,22 +3,59 @@
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stats contenus — CAP AEPE</title><link rel="stylesheet" href="../assets/css/app.css"></head>
 <body data-base="../" data-page="docs/index.html">
 <main>
-<section class="card"><h2>Statistiques visibles — Refonte expert</h2><div id="globalStats"></div></section>
+<section class="card"><h2>Statistiques qualité V2 premium</h2><div id="globalStats"></div></section>
 <section id="statsTable" class="card"></section>
 <section class="card"><h3>Diagnostic technique (dev)</h3><ul id="techDiagnostics"></ul></section>
 </main>
 <script src="../assets/js/common.js"></script>
 <script src="../assets/js/loaders.js"></script>
 <script>
+function clean(s){ return (s||'').toLowerCase().replace(/[^a-zàâçéèêëîïôûùüÿñæœ0-9, ]/g,' ').replace(/\s+/g,' ').trim(); }
+function varSet(seq){
+  const raw = (seq.bloc4_fondScientifique?.variablesInfluence || '').split(':').pop();
+  return new Set(clean(raw).split(',').map(x=>x.trim()).filter(Boolean));
+}
+function jaccard(a,b){ let inter=0; for(const x of a){ if(b.has(x)) inter++; } return inter / Math.max(1, (a.size + b.size - inter)); }
+
 (async function(){
   const seqs = await loadData('../data/sequences.json','sequences',[]);
+  const qs = await loadData('../data/questions.json','questions',[]);
+
   const minWords = Math.min(...seqs.map(s => s.stats?.wordCount || 0));
-  const all9 = seqs.every(s => s.stats?.has9Blocks === true);
-  const allSci = seqs.every(s => s.bloc4_fondScientifique && s.bloc4_fondScientifique.mecanismes);
-  const allOptions = seqs.every(s => (s.bloc7_tableauOptions || []).length === 3);
-  const allSchemas = seqs.every(s => (s.stats?.schemaCount || 0) >= 3);
-  document.getElementById('globalStats').innerHTML = `<span class='badge'>Séquences: ${seqs.length}</span> <span class='badge'>Min mots: ${minWords}</span> <span class='badge'>9 blocs: ${all9?'OK':'KO'}</span> <span class='badge'>Fond scientifique: ${allSci?'OK':'KO'}</span> <span class='badge'>3 options décisionnelles: ${allOptions?'OK':'KO'}</span> <span class='badge'>3 schémas: ${allSchemas?'OK':'KO'}</span>`;
-  document.getElementById('statsTable').innerHTML = `<h3>Détail validation</h3><table class='table'><thead><tr><th>ID</th><th>Mots</th><th>Situations</th><th>Tableau erreurs</th><th>Tableau options</th><th>Schémas</th><th>Fond scientifique</th></tr></thead><tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.stats?.wordCount||0}</td><td>${s.stats?.situationsCount||0}</td><td>${(s.bloc6_tableauPedagogique||[]).length}</td><td>${(s.bloc7_tableauOptions||[]).length}</td><td>${s.stats?.schemaCount||0}</td><td>${s.bloc4_fondScientifique?'Oui':'Non'}</td></tr>`).join('')}</tbody></table>`;
+  const maxWords = Math.max(...seqs.map(s => s.stats?.wordCount || 0));
+
+  let maxSciSim = 0;
+  for(let i=0;i<seqs.length;i++){
+    for(let j=i+1;j<seqs.length;j++){
+      const sim = jaccard(varSet(seqs[i]), varSet(seqs[j])) * 100;
+      if(sim > maxSciSim) maxSciSim = sim;
+    }
+  }
+
+  const matrix = seqs.map(s => `${s.stats?.location} | ${s.stats?.incident} | ${s.stats?.constraint}`);
+  const duplicateMatrix = matrix.length - new Set(matrix).size;
+
+  const schemaOk = seqs.every(s => (s.stats?.schemaCount || 0) >= 3);
+  const tableOk = seqs.every(s => (s.stats?.tableauxCount || 0) >= 3);
+  const miniEvalOk = seqs.every(s => s.miniEvaluation && (s.miniEvaluation.options || []).length >= 4);
+
+  let qDup = 0; const qSet = new Set();
+  qs.forEach(q => { const k=(q.q||'').trim().toLowerCase(); if(qSet.has(k)) qDup++; else qSet.add(k); });
+
+  document.getElementById('globalStats').innerHTML =
+    `<span class='badge'>Séquences: ${seqs.length}</span>
+     <span class='badge'>Mots min/max: ${minWords}/${maxWords}</span>
+     <span class='badge'>% similarité noyau scientifique max: ${maxSciSim.toFixed(2)}%</span>
+     <span class='badge'>Doublons matrice lieux/incidents/contraintes: ${duplicateMatrix}</span>
+     <span class='badge'>Schémas/seq ≥3: ${schemaOk?'OK':'KO'}</span>
+     <span class='badge'>Tableaux/seq ≥3: ${tableOk?'OK':'KO'}</span>
+     <span class='badge'>Mini-éval/seq ≥1: ${miniEvalOk?'OK':'KO'}</span>
+     <span class='badge'>Doublons QCM exacts: ${qDup}</span>`;
+
+  document.getElementById('statsTable').innerHTML =
+    `<h3>Matrice qualité par séquence</h3>
+     <table class='table'><thead><tr><th>ID</th><th>Lieu</th><th>Incident</th><th>Contrainte</th><th>Schémas</th><th>Tableaux</th><th>Mini-éval</th><th>Mots</th></tr></thead>
+     <tbody>${seqs.map(s=>`<tr><td>${s.id}</td><td>${s.stats?.location||''}</td><td>${s.stats?.incident||''}</td><td>${s.stats?.constraint||''}</td><td>${s.stats?.schemaCount||0}</td><td>${s.stats?.tableauxCount||0}</td><td>${s.miniEvaluation?'Oui':'Non'}</td><td>${s.stats?.wordCount||0}</td></tr>`).join('')}</tbody></table>`;
 })();
 </script>
 </body></html>
