@@ -2,542 +2,542 @@
   "media": [
     {
       "id": "S01_SCHEMA_1",
-      "title": "Évaluation des risques — analyse-situation",
+      "title": "Évaluation des risques — mécanisme-causal",
       "src": "assets/img/sequences/s01-schema-1.svg",
-      "alt": "Schéma 1 de Évaluation des risques illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Évaluation des risques",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S01",
         "Évaluation des risques",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S01_SCHEMA_2",
-      "title": "Évaluation des risques — decision-arbitrage",
+      "title": "Évaluation des risques — matrice-décisionnelle",
       "src": "assets/img/sequences/s01-schema-2.svg",
-      "alt": "Schéma 2 de Évaluation des risques illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Évaluation des risques",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S01",
         "Évaluation des risques",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S01_SCHEMA_3",
-      "title": "Évaluation des risques — protocole-operatoire",
+      "title": "Évaluation des risques — chaîne-opérationnelle",
       "src": "assets/img/sequences/s01-schema-3.svg",
-      "alt": "Schéma 3 de Évaluation des risques illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Évaluation des risques",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S01",
         "Évaluation des risques",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S02_SCHEMA_1",
-      "title": "Dangers chimiques & biologiques — analyse-situation",
+      "title": "Dangers chimiques & biologiques — mécanisme-causal",
       "src": "assets/img/sequences/s02-schema-1.svg",
-      "alt": "Schéma 1 de Dangers chimiques & biologiques illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Dangers chimiques & biologiques",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S02",
         "Dangers chimiques & biologiques",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S02_SCHEMA_2",
-      "title": "Dangers chimiques & biologiques — decision-arbitrage",
+      "title": "Dangers chimiques & biologiques — matrice-décisionnelle",
       "src": "assets/img/sequences/s02-schema-2.svg",
-      "alt": "Schéma 2 de Dangers chimiques & biologiques illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Dangers chimiques & biologiques",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S02",
         "Dangers chimiques & biologiques",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S02_SCHEMA_3",
-      "title": "Dangers chimiques & biologiques — protocole-operatoire",
+      "title": "Dangers chimiques & biologiques — chaîne-opérationnelle",
       "src": "assets/img/sequences/s02-schema-3.svg",
-      "alt": "Schéma 3 de Dangers chimiques & biologiques illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Dangers chimiques & biologiques",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S02",
         "Dangers chimiques & biologiques",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S03_SCHEMA_1",
-      "title": "EPI / EPC — analyse-situation",
+      "title": "EPI / EPC — mécanisme-causal",
       "src": "assets/img/sequences/s03-schema-1.svg",
-      "alt": "Schéma 1 de EPI / EPC illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence EPI / EPC",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S03",
         "EPI / EPC",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S03_SCHEMA_2",
-      "title": "EPI / EPC — decision-arbitrage",
+      "title": "EPI / EPC — matrice-décisionnelle",
       "src": "assets/img/sequences/s03-schema-2.svg",
-      "alt": "Schéma 2 de EPI / EPC illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence EPI / EPC",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S03",
         "EPI / EPC",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S03_SCHEMA_3",
-      "title": "EPI / EPC — protocole-operatoire",
+      "title": "EPI / EPC — chaîne-opérationnelle",
       "src": "assets/img/sequences/s03-schema-3.svg",
-      "alt": "Schéma 3 de EPI / EPC illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence EPI / EPC",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S03",
         "EPI / EPC",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S04_SCHEMA_1",
-      "title": "Matériel & protocoles — analyse-situation",
+      "title": "Matériel & protocoles — mécanisme-causal",
       "src": "assets/img/sequences/s04-schema-1.svg",
-      "alt": "Schéma 1 de Matériel & protocoles illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Matériel & protocoles",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S04",
         "Matériel & protocoles",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S04_SCHEMA_2",
-      "title": "Matériel & protocoles — decision-arbitrage",
+      "title": "Matériel & protocoles — matrice-décisionnelle",
       "src": "assets/img/sequences/s04-schema-2.svg",
-      "alt": "Schéma 2 de Matériel & protocoles illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Matériel & protocoles",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S04",
         "Matériel & protocoles",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S04_SCHEMA_3",
-      "title": "Matériel & protocoles — protocole-operatoire",
+      "title": "Matériel & protocoles — chaîne-opérationnelle",
       "src": "assets/img/sequences/s04-schema-3.svg",
-      "alt": "Schéma 3 de Matériel & protocoles illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Matériel & protocoles",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S04",
         "Matériel & protocoles",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S05_SCHEMA_1",
-      "title": "Produits & désinfectants — analyse-situation",
+      "title": "Produits & désinfectants — mécanisme-causal",
       "src": "assets/img/sequences/s05-schema-1.svg",
-      "alt": "Schéma 1 de Produits & désinfectants illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Produits & désinfectants",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S05",
         "Produits & désinfectants",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S05_SCHEMA_2",
-      "title": "Produits & désinfectants — decision-arbitrage",
+      "title": "Produits & désinfectants — matrice-décisionnelle",
       "src": "assets/img/sequences/s05-schema-2.svg",
-      "alt": "Schéma 2 de Produits & désinfectants illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Produits & désinfectants",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S05",
         "Produits & désinfectants",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S05_SCHEMA_3",
-      "title": "Produits & désinfectants — protocole-operatoire",
+      "title": "Produits & désinfectants — chaîne-opérationnelle",
       "src": "assets/img/sequences/s05-schema-3.svg",
-      "alt": "Schéma 3 de Produits & désinfectants illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Produits & désinfectants",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S05",
         "Produits & désinfectants",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S06_SCHEMA_1",
-      "title": "Échelle de pH — analyse-situation",
+      "title": "Échelle de pH — mécanisme-causal",
       "src": "assets/img/sequences/s06-schema-1.svg",
-      "alt": "Schéma 1 de Échelle de pH illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Échelle de pH",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S06",
         "Échelle de pH",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S06_SCHEMA_2",
-      "title": "Échelle de pH — decision-arbitrage",
+      "title": "Échelle de pH — matrice-décisionnelle",
       "src": "assets/img/sequences/s06-schema-2.svg",
-      "alt": "Schéma 2 de Échelle de pH illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Échelle de pH",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S06",
         "Échelle de pH",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S06_SCHEMA_3",
-      "title": "Échelle de pH — protocole-operatoire",
+      "title": "Échelle de pH — chaîne-opérationnelle",
       "src": "assets/img/sequences/s06-schema-3.svg",
-      "alt": "Schéma 3 de Échelle de pH illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Échelle de pH",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S06",
         "Échelle de pH",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S07_SCHEMA_1",
-      "title": "Chimie de l’eau — analyse-situation",
+      "title": "Chimie de l’eau — mécanisme-causal",
       "src": "assets/img/sequences/s07-schema-1.svg",
-      "alt": "Schéma 1 de Chimie de l’eau illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Chimie de l’eau",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S07",
         "Chimie de l’eau",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S07_SCHEMA_2",
-      "title": "Chimie de l’eau — decision-arbitrage",
+      "title": "Chimie de l’eau — matrice-décisionnelle",
       "src": "assets/img/sequences/s07-schema-2.svg",
-      "alt": "Schéma 2 de Chimie de l’eau illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Chimie de l’eau",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S07",
         "Chimie de l’eau",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S07_SCHEMA_3",
-      "title": "Chimie de l’eau — protocole-operatoire",
+      "title": "Chimie de l’eau — chaîne-opérationnelle",
       "src": "assets/img/sequences/s07-schema-3.svg",
-      "alt": "Schéma 3 de Chimie de l’eau illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Chimie de l’eau",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S07",
         "Chimie de l’eau",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S08_SCHEMA_1",
-      "title": "Types de salissures — analyse-situation",
+      "title": "Types de salissures — mécanisme-causal",
       "src": "assets/img/sequences/s08-schema-1.svg",
-      "alt": "Schéma 1 de Types de salissures illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Types de salissures",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S08",
         "Types de salissures",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S08_SCHEMA_2",
-      "title": "Types de salissures — decision-arbitrage",
+      "title": "Types de salissures — matrice-décisionnelle",
       "src": "assets/img/sequences/s08-schema-2.svg",
-      "alt": "Schéma 2 de Types de salissures illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Types de salissures",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S08",
         "Types de salissures",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S08_SCHEMA_3",
-      "title": "Types de salissures — protocole-operatoire",
+      "title": "Types de salissures — chaîne-opérationnelle",
       "src": "assets/img/sequences/s08-schema-3.svg",
-      "alt": "Schéma 3 de Types de salissures illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Types de salissures",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S08",
         "Types de salissures",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S09_SCHEMA_1",
-      "title": "Niveaux de salissures — analyse-situation",
+      "title": "Niveaux de salissures — mécanisme-causal",
       "src": "assets/img/sequences/s09-schema-1.svg",
-      "alt": "Schéma 1 de Niveaux de salissures illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Niveaux de salissures",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S09",
         "Niveaux de salissures",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S09_SCHEMA_2",
-      "title": "Niveaux de salissures — decision-arbitrage",
+      "title": "Niveaux de salissures — matrice-décisionnelle",
       "src": "assets/img/sequences/s09-schema-2.svg",
-      "alt": "Schéma 2 de Niveaux de salissures illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Niveaux de salissures",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S09",
         "Niveaux de salissures",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S09_SCHEMA_3",
-      "title": "Niveaux de salissures — protocole-operatoire",
+      "title": "Niveaux de salissures — chaîne-opérationnelle",
       "src": "assets/img/sequences/s09-schema-3.svg",
-      "alt": "Schéma 3 de Niveaux de salissures illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Niveaux de salissures",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S09",
         "Niveaux de salissures",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S10_SCHEMA_1",
-      "title": "Cercle de Sinner — analyse-situation",
+      "title": "Cercle de Sinner — mécanisme-causal",
       "src": "assets/img/sequences/s10-schema-1.svg",
-      "alt": "Schéma 1 de Cercle de Sinner illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Cercle de Sinner",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S10",
         "Cercle de Sinner",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S10_SCHEMA_2",
-      "title": "Cercle de Sinner — decision-arbitrage",
+      "title": "Cercle de Sinner — matrice-décisionnelle",
       "src": "assets/img/sequences/s10-schema-2.svg",
-      "alt": "Schéma 2 de Cercle de Sinner illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Cercle de Sinner",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S10",
         "Cercle de Sinner",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S10_SCHEMA_3",
-      "title": "Cercle de Sinner — protocole-operatoire",
+      "title": "Cercle de Sinner — chaîne-opérationnelle",
       "src": "assets/img/sequences/s10-schema-3.svg",
-      "alt": "Schéma 3 de Cercle de Sinner illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Cercle de Sinner",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S10",
         "Cercle de Sinner",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S11_SCHEMA_1",
-      "title": "Loi de Van’t Hoff — analyse-situation",
+      "title": "Loi de Van’t Hoff — mécanisme-causal",
       "src": "assets/img/sequences/s11-schema-1.svg",
-      "alt": "Schéma 1 de Loi de Van’t Hoff illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Loi de Van’t Hoff",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S11",
         "Loi de Van’t Hoff",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S11_SCHEMA_2",
-      "title": "Loi de Van’t Hoff — decision-arbitrage",
+      "title": "Loi de Van’t Hoff — matrice-décisionnelle",
       "src": "assets/img/sequences/s11-schema-2.svg",
-      "alt": "Schéma 2 de Loi de Van’t Hoff illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Loi de Van’t Hoff",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S11",
         "Loi de Van’t Hoff",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S11_SCHEMA_3",
-      "title": "Loi de Van’t Hoff — protocole-operatoire",
+      "title": "Loi de Van’t Hoff — chaîne-opérationnelle",
       "src": "assets/img/sequences/s11-schema-3.svg",
-      "alt": "Schéma 3 de Loi de Van’t Hoff illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Loi de Van’t Hoff",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S11",
         "Loi de Van’t Hoff",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S12_SCHEMA_1",
-      "title": "Matériaux — analyse-situation",
+      "title": "Matériaux — mécanisme-causal",
       "src": "assets/img/sequences/s12-schema-1.svg",
-      "alt": "Schéma 1 de Matériaux illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Matériaux",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S12",
         "Matériaux",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S12_SCHEMA_2",
-      "title": "Matériaux — decision-arbitrage",
+      "title": "Matériaux — matrice-décisionnelle",
       "src": "assets/img/sequences/s12-schema-2.svg",
-      "alt": "Schéma 2 de Matériaux illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Matériaux",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S12",
         "Matériaux",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S12_SCHEMA_3",
-      "title": "Matériaux — protocole-operatoire",
+      "title": "Matériaux — chaîne-opérationnelle",
       "src": "assets/img/sequences/s12-schema-3.svg",
-      "alt": "Schéma 3 de Matériaux illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Matériaux",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S12",
         "Matériaux",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S13_SCHEMA_1",
-      "title": "Bionettoyage — analyse-situation",
+      "title": "Bionettoyage — mécanisme-causal",
       "src": "assets/img/sequences/s13-schema-1.svg",
-      "alt": "Schéma 1 de Bionettoyage illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Bionettoyage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S13",
         "Bionettoyage",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S13_SCHEMA_2",
-      "title": "Bionettoyage — decision-arbitrage",
+      "title": "Bionettoyage — matrice-décisionnelle",
       "src": "assets/img/sequences/s13-schema-2.svg",
-      "alt": "Schéma 2 de Bionettoyage illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Bionettoyage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S13",
         "Bionettoyage",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S13_SCHEMA_3",
-      "title": "Bionettoyage — protocole-operatoire",
+      "title": "Bionettoyage — chaîne-opérationnelle",
       "src": "assets/img/sequences/s13-schema-3.svg",
-      "alt": "Schéma 3 de Bionettoyage illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Bionettoyage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S13",
         "Bionettoyage",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S14_SCHEMA_1",
-      "title": "Méthodes de nettoyage — analyse-situation",
+      "title": "Méthodes de nettoyage — mécanisme-causal",
       "src": "assets/img/sequences/s14-schema-1.svg",
-      "alt": "Schéma 1 de Méthodes de nettoyage illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Méthodes de nettoyage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S14",
         "Méthodes de nettoyage",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S14_SCHEMA_2",
-      "title": "Méthodes de nettoyage — decision-arbitrage",
+      "title": "Méthodes de nettoyage — matrice-décisionnelle",
       "src": "assets/img/sequences/s14-schema-2.svg",
-      "alt": "Schéma 2 de Méthodes de nettoyage illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Méthodes de nettoyage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S14",
         "Méthodes de nettoyage",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S14_SCHEMA_3",
-      "title": "Méthodes de nettoyage — protocole-operatoire",
+      "title": "Méthodes de nettoyage — chaîne-opérationnelle",
       "src": "assets/img/sequences/s14-schema-3.svg",
-      "alt": "Schéma 3 de Méthodes de nettoyage illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Méthodes de nettoyage",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S14",
         "Méthodes de nettoyage",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     },
     {
       "id": "S15_SCHEMA_1",
-      "title": "Évaluations (préparation EP3) — analyse-situation",
+      "title": "Évaluations (préparation EP3) — mécanisme-causal",
       "src": "assets/img/sequences/s15-schema-1.svg",
-      "alt": "Schéma 1 de Évaluations (préparation EP3) illustrant analyse-situation",
+      "alt": "Schéma 1 mécanisme-causal pour la séquence Évaluations (préparation EP3)",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S15",
         "Évaluations (préparation EP3)",
-        "analyse-situation"
+        "mécanisme-causal"
       ]
     },
     {
       "id": "S15_SCHEMA_2",
-      "title": "Évaluations (préparation EP3) — decision-arbitrage",
+      "title": "Évaluations (préparation EP3) — matrice-décisionnelle",
       "src": "assets/img/sequences/s15-schema-2.svg",
-      "alt": "Schéma 2 de Évaluations (préparation EP3) illustrant decision-arbitrage",
+      "alt": "Schéma 2 matrice-décisionnelle pour la séquence Évaluations (préparation EP3)",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S15",
         "Évaluations (préparation EP3)",
-        "decision-arbitrage"
+        "matrice-décisionnelle"
       ]
     },
     {
       "id": "S15_SCHEMA_3",
-      "title": "Évaluations (préparation EP3) — protocole-operatoire",
+      "title": "Évaluations (préparation EP3) — chaîne-opérationnelle",
       "src": "assets/img/sequences/s15-schema-3.svg",
-      "alt": "Schéma 3 de Évaluations (préparation EP3) illustrant protocole-operatoire",
+      "alt": "Schéma 3 chaîne-opérationnelle pour la séquence Évaluations (préparation EP3)",
       "credit": "Création pédagogique interne CAP AEPE 2026",
       "tags": [
         "S15",
         "Évaluations (préparation EP3)",
-        "protocole-operatoire"
+        "chaîne-opérationnelle"
       ]
     }
   ]

@@ -1,48 +1,37 @@
-# QA_REPORT — Refonte canonique des 15 séquences (Phase 1)
+# QA_REPORT — Refonte expert GRETA (Phase 1)
 
-## Vérification présence des 9 blocs par séquence
-- [x] Bloc 1 : Situation professionnelle concrète
-- [x] Bloc 2 : Problème métier à résoudre
-- [x] Bloc 3 : Analyse terrain
-- [x] Bloc 4 : Apport théorique ciblé
-- [x] Bloc 5 : Micro-protocole opérationnel
-- [x] Bloc 6 : Tableau pédagogique erreur→risque→conséquence→prévention
-- [x] Bloc 7 : Cas groupe / arbitrage
-- [x] Bloc 8 : Lien explicite EP3
-- [x] Bloc 9 : Mémo imprimable synthétique
+## Validation canonique séquences (15/15)
+- [x] 9 blocs obligatoires présents par séquence
+- [x] Fond scientifique spécifique par séquence (mécanisme, variables, erreurs, limites)
+- [x] 2 situations professionnelles distinctes (EAJE + école maternelle)
+- [x] Erreur métier détaillée (causes terrain + impacts sanitaires/réglementaires/EP3)
+- [x] Analyse décisionnelle structurée en 3 options
+- [x] Micro-protocole opérationnel numéroté avec vigilance + EPI
+- [x] Encadré « Erreur fréquente candidat CAP »
+- [x] Arbitrage formateur (débat, question piège EP3, mise en situation, cas groupe)
 
-## Nombre de mots par séquence
-- S01: 1741
-- S02: 1715
-- S03: 1719
-- S04: 1702
-- S05: 1708
-- S06: 1700
-- S07: 1702
-- S08: 1698
-- S09: 1701
-- S10: 1705
-- S11: 1704
-- S12: 1699
-- S13: 1706
-- S14: 1703
-- S15: 1707
+## Indicateurs quantitatifs
+- Nombre de mots utiles par séquence : min 1477 (script de contrôle)
+- Situations professionnelles par séquence : 2
+- Tableaux pédagogiques par séquence : 2 (erreurs+options)
+- Schémas pédagogiques par séquence : 3
+- Total schémas séquences : 45
 
-## Nombre de situations professionnelles par séquence
-- Toutes les séquences : 2 situations professionnelles (EAJE + école maternelle)
-
-## Nombre de tableaux générés
-- 1 tableau pédagogique par séquence (15/15)
-
-## Nombre de schémas par séquence
-- 3 schémas par séquence (45 schémas au total)
+## Capsules — refonte qualitative
+- [x] Capsule = micro-thème précis
+- [x] Erreur fréquente contextualisée
+- [x] Explication scientifique dense
+- [x] Schéma explicatif utile référencé
+- [x] Mini QCU + corrigé argumenté
+- [x] Lien explicite vers séquence approfondie
 
 ## Contrôles techniques
 - [x] `data/sequences.json` valide
 - [x] `data/media.json` valide
+- [x] `data/capsules.json` valide
 - [x] `assets/img/sequences/*.svg` = 45 fichiers
-- [x] Affichage clair des 9 blocs dans `sequences.js`
-- [x] Zéro référence statique manquante dans pages HTML
+- [x] Zéro référence statique manquante en HTML
+- [x] Rendu overlay séquences opérationnel
 
 ## Hors périmètre (inchangé)
 - Banque QCM massive : non développée
