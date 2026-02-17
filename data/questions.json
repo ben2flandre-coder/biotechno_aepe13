@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "q": "Q1. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q2. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q3. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q4. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q5. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q6. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q7. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q8. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q9. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q10. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q11. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q12. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q13. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q14. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q15. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q16. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q17. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q18. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q19. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q20. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q21. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q22. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q23. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q24. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q25. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q26. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q27. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q28. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q29. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q30. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q31. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q32. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q33. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q34. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q35. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q36. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q37. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q38. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q39. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q40. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q41. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q42. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q43. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q44. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q45. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q46. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q47. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q48. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q49. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q50. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q51. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q52. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q53. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q54. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q55. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q56. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    },
+    {
+      "q": "Q57. En situation hygiène, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Q58. En situation microbiologie, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Q59. En situation protocole, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Protocole"
+    },
+    {
+      "q": "Q60. En situation qualité, quel choix est le plus conforme en CAP AEPE ?",
+      "options": [
+        "Ignorer le protocole écrit",
+        "Appliquer le geste barrière adapté",
+        "Reporter l'action sans justification",
+        "Utiliser un matériel non désinfecté"
+      ],
+      "answer": 1,
+      "explain": "Le référentiel impose l'application d'un geste barrière/protocole adapté et tracé.",
+      "domain": "Qualité"
+    }
+  ]
+}

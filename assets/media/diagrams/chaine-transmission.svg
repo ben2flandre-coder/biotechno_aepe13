@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8fafc"/>
+  <text x="24" y="36" font-size="24" font-family="Arial" fill="#0f172a">Chaîne de transmission</text>
+  <g font-family="Arial" font-size="14" fill="#0f172a">
+    <circle cx="90" cy="180" r="40" fill="#bfdbfe"/><text x="66" y="184">Agent</text>
+    <circle cx="210" cy="180" r="40" fill="#bbf7d0"/><text x="190" y="184">Réservoir</text>
+    <circle cx="330" cy="180" r="40" fill="#fde68a"/><text x="316" y="184">Sortie</text>
+    <circle cx="450" cy="180" r="40" fill="#fecaca"/><text x="425" y="184">Entrée</text>
+    <circle cx="570" cy="180" r="40" fill="#ddd6fe"/><text x="548" y="184">Hôte</text>
+  </g>
+  <path d="M130 180h40M250 180h40M370 180h40M490 180h40" stroke="#334155" stroke-width="3" marker-end="url(#ar)"/>
+  <defs><marker id="ar" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><polygon points="0,0 8,4 0,8" fill="#334155"/></marker></defs>
+</svg>

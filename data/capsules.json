@@ -1,0 +1,125 @@
+[
+  {
+    "id": "CAP-01",
+    "title": "Hygiène des mains en accueil petite enfance",
+    "macro": "Hygiène",
+    "summary": "Technique FHA et lavage simple selon situation.",
+    "objectif": "Réaliser un geste d'hygiène conforme en moins de 40 secondes.",
+    "level": "Fondamental",
+    "content": "Avant et après chaque soin, la friction hydroalcoolique est privilégiée si les mains ne sont pas souillées.\n\nLe lavage simple est réservé aux mains visiblement sales.",
+    "redflags": [
+      "Bijoux au poignet",
+      "Oubli des pouces",
+      "Temps de friction trop court"
+    ],
+    "tags": [
+      "FHA",
+      "barrière",
+      "AEPE"
+    ],
+    "media": [
+      "assets/media/diagrams/schema-contamination.svg",
+      "assets/media/bank/picto-hygiene.svg"
+    ]
+  },
+  {
+    "id": "CAP-02",
+    "title": "Bionettoyage des surfaces de change",
+    "macro": "Protocole",
+    "summary": "Séquence nettoyage-rinçage-désinfection",
+    "objectif": "Sécuriser un plan de change entre deux enfants.",
+    "level": "Intermédiaire",
+    "content": "Nettoyer du plus propre vers le plus sale. Respecter le temps de contact produit indiqué par le fabricant.",
+    "redflags": [
+      "Produit mal dilué",
+      "Chiffon multi-usages"
+    ],
+    "tags": [
+      "surface",
+      "désinfection"
+    ],
+    "media": [
+      "assets/media/bank/picto-protocole.svg"
+    ]
+  },
+  {
+    "id": "CAP-03",
+    "title": "Transmission manuportée",
+    "macro": "Microbiologie",
+    "summary": "Identifier les maillons de contamination croisée.",
+    "objectif": "Repérer les ruptures de chaîne possibles.",
+    "level": "Fondamental",
+    "content": "La main est le vecteur principal de la transmission croisée en structure collective.",
+    "redflags": [
+      "Absence de SHA à portée",
+      "Port des gants continu"
+    ],
+    "tags": [
+      "chaîne",
+      "prévention"
+    ],
+    "media": [
+      "assets/media/diagrams/chaine-transmission.svg"
+    ]
+  },
+  {
+    "id": "CAP-04",
+    "title": "Flore microbienne cutanée",
+    "macro": "Microbiologie",
+    "summary": "Flore résidente, transitoire et facteurs de déséquilibre.",
+    "objectif": "Adapter les gestes pour préserver la barrière cutanée.",
+    "level": "Intermédiaire",
+    "content": "Une peau lésée augmente le risque d'implantation d'une flore opportuniste.",
+    "redflags": [
+      "Dermite non signalée",
+      "Lavages agressifs répétés"
+    ],
+    "tags": [
+      "flore",
+      "peau"
+    ],
+    "media": [
+      "assets/media/diagrams/flore-microbienne.svg"
+    ]
+  },
+  {
+    "id": "CAP-05",
+    "title": "Gestion du linge professionnel",
+    "macro": "Hygiène",
+    "summary": "Circuit propre/sale et stockage sécurisé.",
+    "objectif": "Éviter toute recontamination du linge propre.",
+    "level": "Fondamental",
+    "content": "Le linge souillé est collecté en sac fermé, jamais posé au sol.",
+    "redflags": [
+      "Sacs ouverts",
+      "Mélange propre/sale"
+    ],
+    "tags": [
+      "linge",
+      "circuit"
+    ],
+    "media": [
+      "assets/media/bank/picto-hygiene.svg"
+    ]
+  },
+  {
+    "id": "CAP-06",
+    "title": "Traçabilité d'une action d'hygiène",
+    "macro": "Qualité",
+    "summary": "Preuve de réalisation et amélioration continue.",
+    "objectif": "Compléter une fiche avec date, action, produit, signature.",
+    "level": "Avancé",
+    "content": "La traçabilité protège l'usager, le professionnel et l'établissement.",
+    "redflags": [
+      "Heure manquante",
+      "Produit non précisé"
+    ],
+    "tags": [
+      "qualité",
+      "preuve"
+    ],
+    "media": [
+      "assets/media/bank/picto-evaluation.svg"
+    ]
+  }
+]

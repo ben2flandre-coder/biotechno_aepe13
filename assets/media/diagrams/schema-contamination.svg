@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8fafc"/>
+  <text x="24" y="36" font-size="24" font-family="Arial" fill="#0f172a">Schéma de contamination croisée</text>
+  <rect x="40" y="80" width="160" height="80" rx="12" fill="#dbeafe"/>
+  <text x="58" y="124" font-size="16" font-family="Arial">Mains</text>
+  <rect x="240" y="80" width="160" height="80" rx="12" fill="#fde68a"/>
+  <text x="258" y="124" font-size="16" font-family="Arial">Surface</text>
+  <rect x="440" y="80" width="160" height="80" rx="12" fill="#fecaca"/>
+  <text x="458" y="124" font-size="16" font-family="Arial">Aliment</text>
+  <path d="M200 120h40M400 120h40" stroke="#334155" stroke-width="3" marker-end="url(#a)"/>
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><polygon points="0,0 8,4 0,8" fill="#334155"/></marker></defs>
+</svg>

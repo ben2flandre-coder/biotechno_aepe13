@@ -1,0 +1,68 @@
+{
+  "notions": [
+    {
+      "id": "N-01",
+      "title": "Risque infectieux en EAJE",
+      "domain": "Hygiène",
+      "summary": "Comprendre les facteurs favorisants.",
+      "content": "Le risque infectieux dépend de l'agent, de l'hôte et de l'environnement.",
+      "tags": [
+        "risque",
+        "prévention"
+      ]
+    },
+    {
+      "id": "N-02",
+      "title": "Nettoyage vs Désinfection",
+      "domain": "Protocole",
+      "summary": "Deux objectifs distincts et complémentaires.",
+      "content": "Le nettoyage retire les salissures ; la désinfection réduit la charge microbienne.",
+      "tags": [
+        "bionettoyage"
+      ]
+    },
+    {
+      "id": "N-03",
+      "title": "Biofilm",
+      "domain": "Microbiologie",
+      "summary": "Pourquoi certaines surfaces restent contaminées.",
+      "content": "Le biofilm protège les micro-organismes et diminue l'efficacité des biocides.",
+      "tags": [
+        "surface",
+        "résistance"
+      ]
+    },
+    {
+      "id": "N-04",
+      "title": "Précautions standard",
+      "domain": "Hygiène",
+      "summary": "Mesures applicables à tous les usagers.",
+      "content": "Hygiène des mains, EPI adapté, gestion des déchets et des AES.",
+      "tags": [
+        "EPI",
+        "universel"
+      ]
+    },
+    {
+      "id": "N-05",
+      "title": "Temps de contact produit",
+      "domain": "Protocole",
+      "summary": "Condition d'efficacité chimique.",
+      "content": "Une désinfection écourtée est considérée non conforme.",
+      "tags": [
+        "conformité"
+      ]
+    },
+    {
+      "id": "N-06",
+      "title": "Flore résidente et transitoire",
+      "domain": "Microbiologie",
+      "summary": "Rôles et risques associés.",
+      "content": "La flore transitoire est acquise par contact et plus facilement éliminée.",
+      "tags": [
+        "mains",
+        "cutané"
+      ]
+    }
+  ]
+}

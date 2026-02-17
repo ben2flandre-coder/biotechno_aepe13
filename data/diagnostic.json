@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "q": "Item 1. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 2. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 3. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 4. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    },
+    {
+      "q": "Item 5. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 6. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 7. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 8. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    },
+    {
+      "q": "Item 9. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 10. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 11. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 12. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    },
+    {
+      "q": "Item 13. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 14. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 15. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 16. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    },
+    {
+      "q": "Item 17. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 18. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 19. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 20. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    },
+    {
+      "q": "Item 21. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 22. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 23. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 24. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    },
+    {
+      "q": "Item 25. Je sais appliquer une procédure hygiène sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Hygiène"
+    },
+    {
+      "q": "Item 26. Je sais appliquer une procédure microbiologie sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Microbiologie"
+    },
+    {
+      "q": "Item 27. Je sais appliquer une procédure protocole sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Protocole"
+    },
+    {
+      "q": "Item 28. Je sais appliquer une procédure qualité sans assistance.",
+      "options": [
+        "Jamais",
+        "Rarement",
+        "Souvent",
+        "Toujours"
+      ],
+      "answer": 3,
+      "domain": "Qualité"
+    }
+  ]
+}
