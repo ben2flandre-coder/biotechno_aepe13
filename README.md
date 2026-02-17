@@ -23,3 +23,31 @@ Plateforme statique GRETA orientée animation adulte/pro — CAP AEPE Bloc 1 / E
 - `docs/credits.html` — crédits & sources
 
 - `docs/bibliographie.html` — Références institutionnelles mobilisées
+
+
+## Lancer en local
+```bash
+python -m http.server 8000
+```
+Puis ouvrir :
+- `http://127.0.0.1:8000/index.html`
+- `http://127.0.0.1:8000/sequences.html`
+- `http://127.0.0.1:8000/parcours.html`
+
+## QA locale (garde-fous automatiques)
+```bash
+python scripts/qa_local.py
+```
+Le script vérifie :
+- HTML sanity (pas de markdown à la place d’une page HTML)
+- chemins relatifs compatibles GitHub Pages
+- absence de ressources manquantes (anti-404)
+- validité/non-vacuité des JSON `data/`
+- anti-répétitions séquences (n-grams + alertes)
+- qualité QCM minimale + garde-fou anti-répétition en session
+
+## Déploiement GitHub Pages
+1. Pousser la branche sur GitHub.
+2. Dans **Settings → Pages**, choisir la source (branche `main`/`work`, dossier `/root`).
+3. Vérifier que tous les liens utilisent des chemins relatifs.
+4. Rejouer `python scripts/qa_local.py` avant publication.

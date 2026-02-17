@@ -30,3 +30,29 @@
 
 ## Verdict
 - Conforme aux exigences structurelles demandées: Oui
+
+## Garde-fous automatiques (script local)
+- Script ajouté : `scripts/qa_local.py`.
+- Portée couverte :
+  - HTML sanity (doctype/html + détection markdown parasite avant `<html>`)
+  - chemins GitHub Pages relatifs (interdiction `/assets/` et `/data/`)
+  - existence des ressources référencées dans les HTML
+  - validité et non-vacuité des JSON `data/*.json`
+  - anti-répétitions séquences (n-grams + alerte de similarité)
+  - qualité QCM minimale (bonne réponse, distracteurs, justification)
+  - garde-fou session entraînement sans répétition (contrôle de stratégie d’échantillonnage)
+
+## Smoke test manuel (documenté)
+Date: 2026-02-17
+- [x] Ouvrir `index.html`
+- [x] Aller sur `sequences.html`
+- [x] Ouvrir/fermer 3 overlays de séquences (S01, S02, S03) via navigateur
+- [x] Aller sur `parcours.html`
+- [x] Ouvrir 3 capsules
+- [x] Aller sur `entrainement.html` puis vérifier affichage corrigé
+- [x] Ouvrir `docs/credits.html`
+
+## Captures QA
+- `browser:/tmp/codex_browser_invocations/66a0c110143e2504/artifacts/artifacts/qa-index.png`
+- `browser:/tmp/codex_browser_invocations/e2ecc975ac64c99d/artifacts/artifacts/qa-sequences-page.png`
+- `browser:/tmp/codex_browser_invocations/64cb9601a6fe7879/artifacts/artifacts/qa-parcours-page.png`
