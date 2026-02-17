@@ -122,6 +122,13 @@ ent_js = (ROOT/'assets/js/entrainement.js').read_text(encoding='utf-8', errors='
 if 'localStorage' not in ent_js or 'splice(' not in ent_js:
     fails.append('[QCM session] no evidence of anti-repeat logic in entrainement.js')
 
+adv_q = [q for q in questions if str(q.get('id','')).startswith('Q') and '[ADV-' in q.get('question','')]
+hier_q = [q for q in questions if '[HIER-' in q.get('question','')]
+if len(adv_q) < 30:
+    fails.append(f"[QCM] advanced questions <30 ({len(adv_q)})")
+if len(hier_q) < 15:
+    fails.append(f"[QCM] hierarchisation questions <15 ({len(hier_q)})")
+
 # Diagnostic min
 diag = json_payloads.get('diagnostic.json', {}).get('items', [])
 if len(diag) < 45:
@@ -142,14 +149,21 @@ if len(gloss) < 30: fails.append(f"[Glossaire] <30 ({len(gloss)})")
 if len(micro) < 8: fails.append(f"[Microprotocoles] <8 ({len(micro)})")
 if len(pieges) < 10: fails.append(f"[Pieges] <10 ({len(pieges)})")
 
-# learning media <=20
+# media richness V3
 media = json_payloads.get('media.json', {}).get('media', [])
 learning = [m for m in media if (m.get('type') or '').startswith('schema-learning')]
-if len(learning) > 20:
-    fails.append(f"[Media] learning media >20 ({len(learning)})")
-for m in learning:
+theme_media = [m for m in media if (m.get('type') or '').startswith('schema-theme')]
+if len(learning) < 20:
+    fails.append(f"[Media] learning media <20 ({len(learning)})")
+if len(theme_media) < 18:
+    fails.append(f"[Media] theme media <18 ({len(theme_media)})")
+for m in learning + theme_media:
     if not (ROOT / m.get('src','')).exists():
         fails.append(f"[Media] missing file {m.get('src')}")
+# require +2 visuals per sequence (>=6 per seq)
+for s in seqs:
+    if len(s.get('media', [])) < 6:
+        fails.append(f"[Sequences media] {s.get('id')} has <6 visuals")
 
 print('QA local guardrails summary')
 print(f'- HTML files scanned: {len(HTML_FILES)}')

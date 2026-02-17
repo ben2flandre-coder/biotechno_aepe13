@@ -24,7 +24,38 @@
         "Q002",
         "Q003"
       ],
-      "media_id": "learn-schema-01"
+      "media_id": "learn-schema-01",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-hygiene-a",
+        "theme-hygiene-b"
+      ],
+      "microprotocole_visuel": "theme-hygiene-a"
     },
     {
       "id": "N02",
@@ -50,7 +81,38 @@
         "Q017",
         "Q018"
       ],
-      "media_id": "learn-schema-02"
+      "media_id": "learn-schema-02",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-securite-a",
+        "theme-securite-b"
+      ],
+      "microprotocole_visuel": "theme-securite-a"
     },
     {
       "id": "N03",
@@ -76,7 +138,38 @@
         "Q032",
         "Q033"
       ],
-      "media_id": "learn-schema-03"
+      "media_id": "learn-schema-03",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-sante-a",
+        "theme-sante-b"
+      ],
+      "microprotocole_visuel": "theme-sante-a"
     },
     {
       "id": "N04",
@@ -102,7 +195,38 @@
         "Q047",
         "Q048"
       ],
-      "media_id": "learn-schema-04"
+      "media_id": "learn-schema-04",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-microbio-a",
+        "theme-microbio-b"
+      ],
+      "microprotocole_visuel": "theme-microbio-a"
     },
     {
       "id": "N05",
@@ -128,7 +252,38 @@
         "Q062",
         "Q063"
       ],
-      "media_id": "learn-schema-05"
+      "media_id": "learn-schema-05",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-produits-a",
+        "theme-produits-b"
+      ],
+      "microprotocole_visuel": "theme-produits-a"
     },
     {
       "id": "N06",
@@ -154,7 +309,38 @@
         "Q077",
         "Q078"
       ],
-      "media_id": "learn-schema-06"
+      "media_id": "learn-schema-06",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-linge-a",
+        "theme-linge-b"
+      ],
+      "microprotocole_visuel": "theme-linge-a"
     },
     {
       "id": "N07",
@@ -180,7 +366,38 @@
         "Q092",
         "Q093"
       ],
-      "media_id": "learn-schema-07"
+      "media_id": "learn-schema-07",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-locaux-a",
+        "theme-locaux-b"
+      ],
+      "microprotocole_visuel": "theme-locaux-a"
     },
     {
       "id": "N08",
@@ -206,7 +423,38 @@
         "Q107",
         "Q108"
       ],
-      "media_id": "learn-schema-08"
+      "media_id": "learn-schema-08",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-risques-a",
+        "theme-risques-b"
+      ],
+      "microprotocole_visuel": "theme-risques-a"
     },
     {
       "id": "N09",
@@ -232,7 +480,38 @@
         "Q122",
         "Q123"
       ],
-      "media_id": "learn-schema-09"
+      "media_id": "learn-schema-09",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-qualite-a",
+        "theme-qualite-b"
+      ],
+      "microprotocole_visuel": "theme-qualite-a"
     },
     {
       "id": "N10",
@@ -258,7 +537,38 @@
         "Q137",
         "Q138"
       ],
-      "media_id": "learn-schema-10"
+      "media_id": "learn-schema-10",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-hygiene-a",
+        "theme-hygiene-b"
+      ],
+      "microprotocole_visuel": "theme-hygiene-a"
     },
     {
       "id": "N11",
@@ -284,7 +594,38 @@
         "Q152",
         "Q153"
       ],
-      "media_id": "learn-schema-11"
+      "media_id": "learn-schema-11",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-securite-a",
+        "theme-securite-b"
+      ],
+      "microprotocole_visuel": "theme-securite-a"
     },
     {
       "id": "N12",
@@ -310,7 +651,38 @@
         "Q167",
         "Q168"
       ],
-      "media_id": "learn-schema-12"
+      "media_id": "learn-schema-12",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Sécurité",
+          "Conformité",
+          "Quand l’utiliser"
+        ],
+        [
+          "Option conservatrice",
+          "Élevée",
+          "Élevée",
+          "Contexte incertain"
+        ],
+        [
+          "Option équilibrée",
+          "Moyenne à élevée",
+          "Élevée",
+          "Contexte maîtrisé"
+        ],
+        [
+          "Option risquée",
+          "Faible à moyenne",
+          "Faible",
+          "À éviter sauf contrainte majeure justifiée"
+        ]
+      ],
+      "schemas_theme": [
+        "theme-sante-a",
+        "theme-sante-b"
+      ],
+      "microprotocole_visuel": "theme-sante-a"
     }
   ],
   "glossaire": [
@@ -448,7 +820,8 @@
       "vigilance": [
         "Retirer bijoux",
         "Ne pas rincer après SHA"
-      ]
+      ],
+      "schema_visuel": "theme-hygiene-b"
     },
     {
       "id": "P02",
@@ -462,7 +835,8 @@
       "vigilance": [
         "Respect dilution",
         "Tracer lot traité"
-      ]
+      ],
+      "schema_visuel": "theme-securite-b"
     },
     {
       "id": "P03",
@@ -477,7 +851,8 @@
       "vigilance": [
         "Ne jamais quitter enfant",
         "Désinfecter plan"
-      ]
+      ],
+      "schema_visuel": "theme-sante-b"
     },
     {
       "id": "P04",
@@ -492,7 +867,8 @@
       "vigilance": [
         "Temps contact biocide",
         "Informer référent"
-      ]
+      ],
+      "schema_visuel": "theme-microbio-b"
     },
     {
       "id": "P05",
@@ -507,7 +883,8 @@
       "vigilance": [
         "Pas de croisement flux",
         "Étiquetage nominal"
-      ]
+      ],
+      "schema_visuel": "theme-produits-b"
     },
     {
       "id": "P06",
@@ -522,7 +899,8 @@
       "vigilance": [
         "Ne pas retarder l’alerte",
         "Respect protocole local"
-      ]
+      ],
+      "schema_visuel": "theme-linge-b"
     },
     {
       "id": "P07",
@@ -537,7 +915,8 @@
       "vigilance": [
         "Ne pas surdoser",
         "Date/heure préparation"
-      ]
+      ],
+      "schema_visuel": "theme-locaux-b"
     },
     {
       "id": "P08",
@@ -552,7 +931,8 @@
       "vigilance": [
         "EPI adaptés",
         "Validation croisée"
-      ]
+      ],
+      "schema_visuel": "theme-risques-b"
     }
   ],
   "pieges_ep3": [

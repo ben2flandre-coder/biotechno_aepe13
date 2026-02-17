@@ -699,6 +699,438 @@
       "src": "assets/img/learning/learn-schema-20.svg",
       "alt": "Schéma pédagogique 20 pour entraînement/diagnostic/connaissances",
       "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+    },
+    {
+      "id": "s01-schema-5",
+      "type": "schema",
+      "seq": "S01",
+      "title": "S01 — flux-decision-complet",
+      "src": "assets/img/sequences/s01-schema-5.svg",
+      "alt": "S01 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s01-schema-6",
+      "type": "schema",
+      "seq": "S01",
+      "title": "S01 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s01-schema-6.svg",
+      "alt": "S01 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s02-schema-5",
+      "type": "schema",
+      "seq": "S02",
+      "title": "S02 — flux-decision-complet",
+      "src": "assets/img/sequences/s02-schema-5.svg",
+      "alt": "S02 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s02-schema-6",
+      "type": "schema",
+      "seq": "S02",
+      "title": "S02 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s02-schema-6.svg",
+      "alt": "S02 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s03-schema-5",
+      "type": "schema",
+      "seq": "S03",
+      "title": "S03 — flux-decision-complet",
+      "src": "assets/img/sequences/s03-schema-5.svg",
+      "alt": "S03 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s03-schema-6",
+      "type": "schema",
+      "seq": "S03",
+      "title": "S03 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s03-schema-6.svg",
+      "alt": "S03 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s04-schema-5",
+      "type": "schema",
+      "seq": "S04",
+      "title": "S04 — flux-decision-complet",
+      "src": "assets/img/sequences/s04-schema-5.svg",
+      "alt": "S04 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s04-schema-6",
+      "type": "schema",
+      "seq": "S04",
+      "title": "S04 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s04-schema-6.svg",
+      "alt": "S04 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s05-schema-5",
+      "type": "schema",
+      "seq": "S05",
+      "title": "S05 — flux-decision-complet",
+      "src": "assets/img/sequences/s05-schema-5.svg",
+      "alt": "S05 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s05-schema-6",
+      "type": "schema",
+      "seq": "S05",
+      "title": "S05 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s05-schema-6.svg",
+      "alt": "S05 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s06-schema-5",
+      "type": "schema",
+      "seq": "S06",
+      "title": "S06 — flux-decision-complet",
+      "src": "assets/img/sequences/s06-schema-5.svg",
+      "alt": "S06 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s06-schema-6",
+      "type": "schema",
+      "seq": "S06",
+      "title": "S06 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s06-schema-6.svg",
+      "alt": "S06 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s07-schema-5",
+      "type": "schema",
+      "seq": "S07",
+      "title": "S07 — flux-decision-complet",
+      "src": "assets/img/sequences/s07-schema-5.svg",
+      "alt": "S07 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s07-schema-6",
+      "type": "schema",
+      "seq": "S07",
+      "title": "S07 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s07-schema-6.svg",
+      "alt": "S07 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s08-schema-5",
+      "type": "schema",
+      "seq": "S08",
+      "title": "S08 — flux-decision-complet",
+      "src": "assets/img/sequences/s08-schema-5.svg",
+      "alt": "S08 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s08-schema-6",
+      "type": "schema",
+      "seq": "S08",
+      "title": "S08 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s08-schema-6.svg",
+      "alt": "S08 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s09-schema-5",
+      "type": "schema",
+      "seq": "S09",
+      "title": "S09 — flux-decision-complet",
+      "src": "assets/img/sequences/s09-schema-5.svg",
+      "alt": "S09 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s09-schema-6",
+      "type": "schema",
+      "seq": "S09",
+      "title": "S09 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s09-schema-6.svg",
+      "alt": "S09 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s10-schema-5",
+      "type": "schema",
+      "seq": "S10",
+      "title": "S10 — flux-decision-complet",
+      "src": "assets/img/sequences/s10-schema-5.svg",
+      "alt": "S10 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s10-schema-6",
+      "type": "schema",
+      "seq": "S10",
+      "title": "S10 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s10-schema-6.svg",
+      "alt": "S10 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s11-schema-5",
+      "type": "schema",
+      "seq": "S11",
+      "title": "S11 — flux-decision-complet",
+      "src": "assets/img/sequences/s11-schema-5.svg",
+      "alt": "S11 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s11-schema-6",
+      "type": "schema",
+      "seq": "S11",
+      "title": "S11 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s11-schema-6.svg",
+      "alt": "S11 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s12-schema-5",
+      "type": "schema",
+      "seq": "S12",
+      "title": "S12 — flux-decision-complet",
+      "src": "assets/img/sequences/s12-schema-5.svg",
+      "alt": "S12 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s12-schema-6",
+      "type": "schema",
+      "seq": "S12",
+      "title": "S12 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s12-schema-6.svg",
+      "alt": "S12 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s13-schema-5",
+      "type": "schema",
+      "seq": "S13",
+      "title": "S13 — flux-decision-complet",
+      "src": "assets/img/sequences/s13-schema-5.svg",
+      "alt": "S13 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s13-schema-6",
+      "type": "schema",
+      "seq": "S13",
+      "title": "S13 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s13-schema-6.svg",
+      "alt": "S13 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s14-schema-5",
+      "type": "schema",
+      "seq": "S14",
+      "title": "S14 — flux-decision-complet",
+      "src": "assets/img/sequences/s14-schema-5.svg",
+      "alt": "S14 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s14-schema-6",
+      "type": "schema",
+      "seq": "S14",
+      "title": "S14 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s14-schema-6.svg",
+      "alt": "S14 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s15-schema-5",
+      "type": "schema",
+      "seq": "S15",
+      "title": "S15 — flux-decision-complet",
+      "src": "assets/img/sequences/s15-schema-5.svg",
+      "alt": "S15 flux-decision-complet",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "s15-schema-6",
+      "type": "schema",
+      "seq": "S15",
+      "title": "S15 — analyse-erreurs-interpretation",
+      "src": "assets/img/sequences/s15-schema-6.svg",
+      "alt": "S15 analyse-erreurs-interpretation",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-hygiene-a",
+      "type": "schema-theme",
+      "theme": "hygiene",
+      "title": "hygiene schema a",
+      "src": "assets/img/learning/theme-hygiene-a.svg",
+      "alt": "Schéma thème hygiene a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-hygiene-b",
+      "type": "schema-theme",
+      "theme": "hygiene",
+      "title": "hygiene schema b",
+      "src": "assets/img/learning/theme-hygiene-b.svg",
+      "alt": "Schéma thème hygiene b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-securite-a",
+      "type": "schema-theme",
+      "theme": "securite",
+      "title": "securite schema a",
+      "src": "assets/img/learning/theme-securite-a.svg",
+      "alt": "Schéma thème securite a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-securite-b",
+      "type": "schema-theme",
+      "theme": "securite",
+      "title": "securite schema b",
+      "src": "assets/img/learning/theme-securite-b.svg",
+      "alt": "Schéma thème securite b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-sante-a",
+      "type": "schema-theme",
+      "theme": "sante",
+      "title": "sante schema a",
+      "src": "assets/img/learning/theme-sante-a.svg",
+      "alt": "Schéma thème sante a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-sante-b",
+      "type": "schema-theme",
+      "theme": "sante",
+      "title": "sante schema b",
+      "src": "assets/img/learning/theme-sante-b.svg",
+      "alt": "Schéma thème sante b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-microbio-a",
+      "type": "schema-theme",
+      "theme": "microbio",
+      "title": "microbio schema a",
+      "src": "assets/img/learning/theme-microbio-a.svg",
+      "alt": "Schéma thème microbio a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-microbio-b",
+      "type": "schema-theme",
+      "theme": "microbio",
+      "title": "microbio schema b",
+      "src": "assets/img/learning/theme-microbio-b.svg",
+      "alt": "Schéma thème microbio b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-produits-a",
+      "type": "schema-theme",
+      "theme": "produits",
+      "title": "produits schema a",
+      "src": "assets/img/learning/theme-produits-a.svg",
+      "alt": "Schéma thème produits a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-produits-b",
+      "type": "schema-theme",
+      "theme": "produits",
+      "title": "produits schema b",
+      "src": "assets/img/learning/theme-produits-b.svg",
+      "alt": "Schéma thème produits b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-linge-a",
+      "type": "schema-theme",
+      "theme": "linge",
+      "title": "linge schema a",
+      "src": "assets/img/learning/theme-linge-a.svg",
+      "alt": "Schéma thème linge a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-linge-b",
+      "type": "schema-theme",
+      "theme": "linge",
+      "title": "linge schema b",
+      "src": "assets/img/learning/theme-linge-b.svg",
+      "alt": "Schéma thème linge b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-locaux-a",
+      "type": "schema-theme",
+      "theme": "locaux",
+      "title": "locaux schema a",
+      "src": "assets/img/learning/theme-locaux-a.svg",
+      "alt": "Schéma thème locaux a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-locaux-b",
+      "type": "schema-theme",
+      "theme": "locaux",
+      "title": "locaux schema b",
+      "src": "assets/img/learning/theme-locaux-b.svg",
+      "alt": "Schéma thème locaux b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-risques-a",
+      "type": "schema-theme",
+      "theme": "risques",
+      "title": "risques schema a",
+      "src": "assets/img/learning/theme-risques-a.svg",
+      "alt": "Schéma thème risques a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-risques-b",
+      "type": "schema-theme",
+      "theme": "risques",
+      "title": "risques schema b",
+      "src": "assets/img/learning/theme-risques-b.svg",
+      "alt": "Schéma thème risques b",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-qualite-a",
+      "type": "schema-theme",
+      "theme": "qualite",
+      "title": "qualite schema a",
+      "src": "assets/img/learning/theme-qualite-a.svg",
+      "alt": "Schéma thème qualite a",
+      "credit": "Production interne pédagogique CAP AEPE"
+    },
+    {
+      "id": "theme-qualite-b",
+      "type": "schema-theme",
+      "theme": "qualite",
+      "title": "qualite schema b",
+      "src": "assets/img/learning/theme-qualite-b.svg",
+      "alt": "Schéma thème qualite b",
+      "credit": "Production interne pédagogique CAP AEPE"
     }
   ]
 }

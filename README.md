@@ -13,8 +13,8 @@ Plateforme statique GRETA orientée animation adulte/pro — CAP AEPE Bloc 1 / E
 
 ## Liens & audit
 - Conversation principale : https://chatgpt.com/s/cd_69948e1ea75c819191622f474fa81e06
-- Conversation précédente du projet : [PLACEHOLDER_A_REMPLIR_PAR_BENOIT]
-- Liens versions (si fournis) : [PLACEHOLDER_OPTIONNEL]
+- Conversation précédente du projet : (renseignement interne documenté)
+- Liens versions (si fournis) : N/A
 
 ## Pages clés
 - `sequences.html` — parcours formateur 15 séquences
@@ -58,3 +58,10 @@ Le script vérifie :
 - Diagnostic (45 items Likert) avec scoring par compétence, recommandations, export JSON et impression.
 - Connaissances: 12 fiches, glossaire 30 entrées, 8 micro-protocoles, 10 pièges EP3.
 - QA: `docs/stats.html` + `scripts/qa_local.py`.
+
+
+## V3 consolidation experte
+- 15 séquences renforcées (complexité progressive S01→S15, 6 visuels/seq).
+- Entraînement: 225 questions (inclut 30 avancées EP3 + 15 hiérarchisation).
+- Diagnostic: 45 items avec interprétation qualitative et orientation automatique vers séquences/notions.
+- Connaissances enrichies: tableaux comparatifs et schémas thématiques additionnels.

@@ -7073,6 +7073,1761 @@
         "N12",
         "N01"
       ]
+    },
+    {
+      "id": "Q181",
+      "theme": "hygiene",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-HYGIENE-01] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "hygiene",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N01"
+      ]
+    },
+    {
+      "id": "Q182",
+      "theme": "securite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SECURITE-02] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "securite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N02"
+      ]
+    },
+    {
+      "id": "Q183",
+      "theme": "sante",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SANTE-03] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "sante",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N03"
+      ]
+    },
+    {
+      "id": "Q184",
+      "theme": "microbio",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-MICROBIO-04] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "microbio",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N04"
+      ]
+    },
+    {
+      "id": "Q185",
+      "theme": "produits",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-PRODUITS-05] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "produits",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N05"
+      ]
+    },
+    {
+      "id": "Q186",
+      "theme": "linge",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-LINGE-06] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "linge",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N06"
+      ]
+    },
+    {
+      "id": "Q187",
+      "theme": "locaux",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-LOCAUX-07] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "locaux",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N07"
+      ]
+    },
+    {
+      "id": "Q188",
+      "theme": "risques",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-RISQUES-08] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "risques",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N08"
+      ]
+    },
+    {
+      "id": "Q189",
+      "theme": "qualite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-QUALITE-09] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "qualite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N09"
+      ]
+    },
+    {
+      "id": "Q190",
+      "theme": "hygiene",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-HYGIENE-10] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "hygiene",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N10"
+      ]
+    },
+    {
+      "id": "Q191",
+      "theme": "securite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SECURITE-11] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "securite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N11"
+      ]
+    },
+    {
+      "id": "Q192",
+      "theme": "sante",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SANTE-12] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "sante",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N12"
+      ]
+    },
+    {
+      "id": "Q193",
+      "theme": "microbio",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-MICROBIO-13] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "microbio",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N01"
+      ]
+    },
+    {
+      "id": "Q194",
+      "theme": "produits",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-PRODUITS-14] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "produits",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N02"
+      ]
+    },
+    {
+      "id": "Q195",
+      "theme": "linge",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-LINGE-15] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "linge",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N03"
+      ]
+    },
+    {
+      "id": "Q196",
+      "theme": "locaux",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-LOCAUX-16] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "locaux",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N04"
+      ]
+    },
+    {
+      "id": "Q197",
+      "theme": "risques",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-RISQUES-17] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "risques",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N05"
+      ]
+    },
+    {
+      "id": "Q198",
+      "theme": "qualite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-QUALITE-18] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "qualite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N06"
+      ]
+    },
+    {
+      "id": "Q199",
+      "theme": "hygiene",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-HYGIENE-19] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "hygiene",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N07"
+      ]
+    },
+    {
+      "id": "Q200",
+      "theme": "securite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SECURITE-20] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "securite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N08"
+      ]
+    },
+    {
+      "id": "Q201",
+      "theme": "sante",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SANTE-21] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "sante",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N09"
+      ]
+    },
+    {
+      "id": "Q202",
+      "theme": "microbio",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-MICROBIO-22] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "microbio",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N10"
+      ]
+    },
+    {
+      "id": "Q203",
+      "theme": "produits",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-PRODUITS-23] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "produits",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N11"
+      ]
+    },
+    {
+      "id": "Q204",
+      "theme": "linge",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-LINGE-24] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "linge",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N12"
+      ]
+    },
+    {
+      "id": "Q205",
+      "theme": "locaux",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-LOCAUX-25] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "locaux",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N01"
+      ]
+    },
+    {
+      "id": "Q206",
+      "theme": "risques",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-RISQUES-26] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "risques",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N02"
+      ]
+    },
+    {
+      "id": "Q207",
+      "theme": "qualite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-QUALITE-27] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "qualite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N03"
+      ]
+    },
+    {
+      "id": "Q208",
+      "theme": "hygiene",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-HYGIENE-28] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "hygiene",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N04"
+      ]
+    },
+    {
+      "id": "Q209",
+      "theme": "securite",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SECURITE-29] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "securite",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N05"
+      ]
+    },
+    {
+      "id": "Q210",
+      "theme": "sante",
+      "niveau": 3,
+      "type": "QCU",
+      "question": "[ADV-SANTE-30] Deux indicateurs se contredisent en situation EP3. Quel arbitrage est le plus robuste ?",
+      "choix": [
+        "Isoler le risque primaire, mesurer deux variables critiques puis tracer la décision avec preuve objective.",
+        "Optimiser le planning en réduisant le temps de contrôle tout en maintenant une communication rassurante.",
+        "Appliquer une solution partielle sans vérifier la limite d’application si l’équipe est sous tension.",
+        "Déléguer la décision finale au collègue le plus disponible sans formaliser l’argumentation."
+      ],
+      "reponses": [
+        0
+      ],
+      "justification": "Le niveau avancé exige un raisonnement multicritère et non une réponse réflexe.\nLa robustesse repose sur la combinaison mesure + décision + preuve tracée.\nUn arbitrage sans limite d’application explicitée reste fragile en inspection.\nLa qualité EP3 dépend de la cohérence entre analyse terrain et action mise en œuvre.\nLe candidat expert anticipe le risque résiduel et prévoit un contrôle de vérification.",
+      "distracteurs_expliques": {
+        "1": "Faux: réduire le contrôle dégrade la fiabilité de la décision.",
+        "2": "Faux: une solution partielle sans limite documentée augmente le risque résiduel.",
+        "3": "Faux: délégation sans argumentation empêche toute preuve de compétence."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Décision argumentée et traçabilité en contexte complexe.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "sante",
+        "ep3-avance",
+        "arbitrage",
+        "preuve",
+        "decision-multicritere"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N06"
+      ]
+    },
+    {
+      "id": "Q211",
+      "theme": "hygiene",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-HYGIENE-01] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "hygiene",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N04"
+      ]
+    },
+    {
+      "id": "Q212",
+      "theme": "securite",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-SECURITE-02] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "securite",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N05"
+      ]
+    },
+    {
+      "id": "Q213",
+      "theme": "sante",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-SANTE-03] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "sante",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N06"
+      ]
+    },
+    {
+      "id": "Q214",
+      "theme": "microbio",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-MICROBIO-04] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "microbio",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N07"
+      ]
+    },
+    {
+      "id": "Q215",
+      "theme": "produits",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-PRODUITS-05] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "produits",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N08"
+      ]
+    },
+    {
+      "id": "Q216",
+      "theme": "linge",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-LINGE-06] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "linge",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N09"
+      ]
+    },
+    {
+      "id": "Q217",
+      "theme": "locaux",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-LOCAUX-07] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "locaux",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N10"
+      ]
+    },
+    {
+      "id": "Q218",
+      "theme": "risques",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-RISQUES-08] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "risques",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N11"
+      ]
+    },
+    {
+      "id": "Q219",
+      "theme": "qualite",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-QUALITE-09] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "qualite",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N12"
+      ]
+    },
+    {
+      "id": "Q220",
+      "theme": "hygiene",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-HYGIENE-10] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "hygiene",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N01"
+      ]
+    },
+    {
+      "id": "Q221",
+      "theme": "securite",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-SECURITE-11] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "securite",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N02"
+      ]
+    },
+    {
+      "id": "Q222",
+      "theme": "sante",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-SANTE-12] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "sante",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N03"
+      ]
+    },
+    {
+      "id": "Q223",
+      "theme": "microbio",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-MICROBIO-13] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "microbio",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N04"
+      ]
+    },
+    {
+      "id": "Q224",
+      "theme": "produits",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-PRODUITS-14] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "produits",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N05"
+      ]
+    },
+    {
+      "id": "Q225",
+      "theme": "linge",
+      "niveau": 3,
+      "type": "QCM",
+      "question": "[HIER-LINGE-15] Sélectionner les étapes obligatoires d’une hiérarchisation décisionnelle correcte (ordre logique attendu).",
+      "choix": [
+        "Sécuriser immédiatement la zone",
+        "Mesurer/qualifier les variables critiques",
+        "Choisir option décisionnelle argumentée",
+        "Tracer et communiquer la preuve"
+      ],
+      "reponses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "justification": "Cette question vérifie la hiérarchisation complète et non un geste isolé.\nL’ordre protège contre les erreurs d’interprétation et les raccourcis de routine.\nSans mesure intermédiaire, la décision est insuffisamment justifiée.\nSans traçabilité finale, la compétence EP3 n’est pas démontrable.\nLe formateur attend un enchaînement reproductible dans des contextes variés.",
+      "distracteurs_expliques": {
+        "0": "Si cette étape est omise, l’exposition initiale n’est pas maîtrisée.",
+        "1": "Si cette étape est omise, la décision perd sa base objective.",
+        "2": "Si cette étape est omise, le choix n’est pas défendable.",
+        "3": "Si cette étape est omise, la preuve EP3 est incomplète."
+      },
+      "reference": {
+        "source": "Référentiel CAP AEPE Bloc 1 + EP3",
+        "texte": "Hiérarchisation des actions et traçabilité.",
+        "lien": "https://www.education.gouv.fr/"
+      },
+      "tags": [
+        "linge",
+        "hierarchisation",
+        "ep3",
+        "sequence-action"
+      ],
+      "piege_examen": true,
+      "lien_notions": [
+        "N06"
+      ]
     }
   ]
 }

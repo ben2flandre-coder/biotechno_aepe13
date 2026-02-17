@@ -9,7 +9,12 @@
       "lien_notions": [
         "N01",
         "N04"
-      ]
+      ],
+      "orientation_sequences": [
+        "S02",
+        "S07"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D002",
@@ -20,7 +25,12 @@
       "lien_notions": [
         "N02",
         "N05"
-      ]
+      ],
+      "orientation_sequences": [
+        "S03",
+        "S08"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D003",
@@ -31,7 +41,12 @@
       "lien_notions": [
         "N03",
         "N06"
-      ]
+      ],
+      "orientation_sequences": [
+        "S04",
+        "S09"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D004",
@@ -42,7 +57,12 @@
       "lien_notions": [
         "N04",
         "N07"
-      ]
+      ],
+      "orientation_sequences": [
+        "S05",
+        "S10"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D005",
@@ -53,7 +73,12 @@
       "lien_notions": [
         "N05",
         "N08"
-      ]
+      ],
+      "orientation_sequences": [
+        "S06",
+        "S11"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D006",
@@ -64,7 +89,12 @@
       "lien_notions": [
         "N06",
         "N09"
-      ]
+      ],
+      "orientation_sequences": [
+        "S07",
+        "S12"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D007",
@@ -75,7 +105,12 @@
       "lien_notions": [
         "N07",
         "N10"
-      ]
+      ],
+      "orientation_sequences": [
+        "S08",
+        "S13"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D008",
@@ -86,7 +121,12 @@
       "lien_notions": [
         "N08",
         "N11"
-      ]
+      ],
+      "orientation_sequences": [
+        "S09",
+        "S14"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D009",
@@ -97,7 +137,12 @@
       "lien_notions": [
         "N09",
         "N12"
-      ]
+      ],
+      "orientation_sequences": [
+        "S10",
+        "S15"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D010",
@@ -108,7 +153,12 @@
       "lien_notions": [
         "N10",
         "N01"
-      ]
+      ],
+      "orientation_sequences": [
+        "S11",
+        "S01"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D011",
@@ -119,7 +169,12 @@
       "lien_notions": [
         "N11",
         "N02"
-      ]
+      ],
+      "orientation_sequences": [
+        "S12",
+        "S02"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D012",
@@ -130,7 +185,12 @@
       "lien_notions": [
         "N12",
         "N03"
-      ]
+      ],
+      "orientation_sequences": [
+        "S13",
+        "S03"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D013",
@@ -141,7 +201,12 @@
       "lien_notions": [
         "N01",
         "N04"
-      ]
+      ],
+      "orientation_sequences": [
+        "S14",
+        "S04"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D014",
@@ -152,7 +217,12 @@
       "lien_notions": [
         "N02",
         "N05"
-      ]
+      ],
+      "orientation_sequences": [
+        "S15",
+        "S05"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D015",
@@ -163,7 +233,12 @@
       "lien_notions": [
         "N03",
         "N06"
-      ]
+      ],
+      "orientation_sequences": [
+        "S01",
+        "S06"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D016",
@@ -174,7 +249,12 @@
       "lien_notions": [
         "N04",
         "N07"
-      ]
+      ],
+      "orientation_sequences": [
+        "S02",
+        "S07"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D017",
@@ -185,7 +265,12 @@
       "lien_notions": [
         "N05",
         "N08"
-      ]
+      ],
+      "orientation_sequences": [
+        "S03",
+        "S08"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D018",
@@ -196,7 +281,12 @@
       "lien_notions": [
         "N06",
         "N09"
-      ]
+      ],
+      "orientation_sequences": [
+        "S04",
+        "S09"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D019",
@@ -207,7 +297,12 @@
       "lien_notions": [
         "N07",
         "N10"
-      ]
+      ],
+      "orientation_sequences": [
+        "S05",
+        "S10"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D020",
@@ -218,7 +313,12 @@
       "lien_notions": [
         "N08",
         "N11"
-      ]
+      ],
+      "orientation_sequences": [
+        "S06",
+        "S11"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D021",
@@ -229,7 +329,12 @@
       "lien_notions": [
         "N09",
         "N12"
-      ]
+      ],
+      "orientation_sequences": [
+        "S07",
+        "S12"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D022",
@@ -240,7 +345,12 @@
       "lien_notions": [
         "N10",
         "N01"
-      ]
+      ],
+      "orientation_sequences": [
+        "S08",
+        "S13"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D023",
@@ -251,7 +361,12 @@
       "lien_notions": [
         "N11",
         "N02"
-      ]
+      ],
+      "orientation_sequences": [
+        "S09",
+        "S14"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D024",
@@ -262,7 +377,12 @@
       "lien_notions": [
         "N12",
         "N03"
-      ]
+      ],
+      "orientation_sequences": [
+        "S10",
+        "S15"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D025",
@@ -273,7 +393,12 @@
       "lien_notions": [
         "N01",
         "N04"
-      ]
+      ],
+      "orientation_sequences": [
+        "S11",
+        "S01"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D026",
@@ -284,7 +409,12 @@
       "lien_notions": [
         "N02",
         "N05"
-      ]
+      ],
+      "orientation_sequences": [
+        "S12",
+        "S02"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D027",
@@ -295,7 +425,12 @@
       "lien_notions": [
         "N03",
         "N06"
-      ]
+      ],
+      "orientation_sequences": [
+        "S13",
+        "S03"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D028",
@@ -306,7 +441,12 @@
       "lien_notions": [
         "N04",
         "N07"
-      ]
+      ],
+      "orientation_sequences": [
+        "S14",
+        "S04"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D029",
@@ -317,7 +457,12 @@
       "lien_notions": [
         "N05",
         "N08"
-      ]
+      ],
+      "orientation_sequences": [
+        "S15",
+        "S05"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D030",
@@ -328,7 +473,12 @@
       "lien_notions": [
         "N06",
         "N09"
-      ]
+      ],
+      "orientation_sequences": [
+        "S01",
+        "S06"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D031",
@@ -339,7 +489,12 @@
       "lien_notions": [
         "N07",
         "N10"
-      ]
+      ],
+      "orientation_sequences": [
+        "S02",
+        "S07"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D032",
@@ -350,7 +505,12 @@
       "lien_notions": [
         "N08",
         "N11"
-      ]
+      ],
+      "orientation_sequences": [
+        "S03",
+        "S08"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D033",
@@ -361,7 +521,12 @@
       "lien_notions": [
         "N09",
         "N12"
-      ]
+      ],
+      "orientation_sequences": [
+        "S04",
+        "S09"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D034",
@@ -372,7 +537,12 @@
       "lien_notions": [
         "N10",
         "N01"
-      ]
+      ],
+      "orientation_sequences": [
+        "S05",
+        "S10"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D035",
@@ -383,7 +553,12 @@
       "lien_notions": [
         "N11",
         "N02"
-      ]
+      ],
+      "orientation_sequences": [
+        "S06",
+        "S11"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D036",
@@ -394,7 +569,12 @@
       "lien_notions": [
         "N12",
         "N03"
-      ]
+      ],
+      "orientation_sequences": [
+        "S07",
+        "S12"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D037",
@@ -405,7 +585,12 @@
       "lien_notions": [
         "N01",
         "N04"
-      ]
+      ],
+      "orientation_sequences": [
+        "S08",
+        "S13"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D038",
@@ -416,7 +601,12 @@
       "lien_notions": [
         "N02",
         "N05"
-      ]
+      ],
+      "orientation_sequences": [
+        "S09",
+        "S14"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D039",
@@ -427,7 +617,12 @@
       "lien_notions": [
         "N03",
         "N06"
-      ]
+      ],
+      "orientation_sequences": [
+        "S10",
+        "S15"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D040",
@@ -438,7 +633,12 @@
       "lien_notions": [
         "N04",
         "N07"
-      ]
+      ],
+      "orientation_sequences": [
+        "S11",
+        "S01"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D041",
@@ -449,7 +649,12 @@
       "lien_notions": [
         "N05",
         "N08"
-      ]
+      ],
+      "orientation_sequences": [
+        "S12",
+        "S02"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D042",
@@ -460,7 +665,12 @@
       "lien_notions": [
         "N06",
         "N09"
-      ]
+      ],
+      "orientation_sequences": [
+        "S13",
+        "S03"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D043",
@@ -471,7 +681,12 @@
       "lien_notions": [
         "N07",
         "N10"
-      ]
+      ],
+      "orientation_sequences": [
+        "S14",
+        "S04"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D044",
@@ -482,7 +697,12 @@
       "lien_notions": [
         "N08",
         "N11"
-      ]
+      ],
+      "orientation_sequences": [
+        "S15",
+        "S05"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     },
     {
       "id": "D045",
@@ -493,7 +713,12 @@
       "lien_notions": [
         "N09",
         "N12"
-      ]
+      ],
+      "orientation_sequences": [
+        "S01",
+        "S06"
+      ],
+      "interpretation_hint": "Un score faible indique une priorité de remédiation immédiate; un score intermédiaire nécessite consolidation; un score élevé autorise mise en situation complexe."
     }
   ],
   "scale": [

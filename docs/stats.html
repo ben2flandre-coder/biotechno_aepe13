@@ -24,7 +24,9 @@
   const gloss = notionsWrap.glossaire || [];
   const prot = notionsWrap.microprotocoles || [];
   const pieges = notionsWrap.pieges_ep3 || [];
-  const media = (mediaWrap.media || []).filter(m => (m.type||'').includes('learning'));
+  const mediaLearning = (mediaWrap.media || []).filter(m => (m.type||'').includes('schema-learning'));
+  const mediaTheme = (mediaWrap.media || []).filter(m => (m.type||'').includes('schema-theme'));
+  const mediaSeq = (mediaWrap.media || []).filter(m => (m.seq||'').startsWith('S'));
 
   const badLinks = [];
   document.querySelectorAll('a[href]').forEach(()=>{});
@@ -36,7 +38,9 @@
     {name:'nb_glossaire >= 30', ok: gloss.length >= 30, val: gloss.length},
     {name:'nb_microprotocoles >= 8', ok: prot.length >= 8, val: prot.length},
     {name:'nb_pieges_ep3 >= 10', ok: pieges.length >= 10, val: pieges.length},
-    {name:'nb_medias_learning <= 20', ok: media.length <= 20, val: media.length},
+    {name:'nb_medias_learning >= 20', ok: mediaLearning.length >= 20, val: mediaLearning.length},
+    {name:'nb_medias_theme >= 18', ok: mediaTheme.length >= 18, val: mediaTheme.length},
+    {name:'visuels/séquence >= 6', ok: seqs.every(s=>(s.media||[]).length>=6), val: 'check'},
     {name:'0 JSON vide', ok: [qs,diag,notions,gloss,prot,pieges].every(x=>x.length>0), val:'OK'},
     {name:'0 page vide (menu principal)', ok: true, val:'vérifié manuellement'},
   ];
@@ -55,7 +59,9 @@
     <tr><td>nb_glossaire</td><td>${gloss.length}</td></tr>
     <tr><td>nb_microprotocoles</td><td>${prot.length}</td></tr>
     <tr><td>nb_pieges_ep3</td><td>${pieges.length}</td></tr>
-    <tr><td>nb_medias_learning</td><td>${media.length}</td></tr>
+    <tr><td>nb_medias_learning</td><td>${mediaLearning.length}</td></tr>
+    <tr><td>nb_medias_theme</td><td>${mediaTheme.length}</td></tr>
+    <tr><td>nb_medias_sequences</td><td>${mediaSeq.length}</td></tr>
     <tr><td>nb_sequences</td><td>${seqs.length}</td></tr>
     </table>`;
 })();

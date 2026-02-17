@@ -5,6 +5,11 @@
   const protocoles = raw.microprotocoles || [];
   const pieges = raw.pieges_ep3 || [];
 
+  const mediaWrap = await fetch(dataPath('data/media.json')).then(r=>r.json()).catch(()=>({media:[]}));
+  const media = mediaWrap.media || [];
+  const mediaById = (id) => media.find((m)=>m.id===id);
+
+
   const list = document.getElementById('notionsList');
   const search = document.getElementById('searchNotions');
   const overlay = document.getElementById('notionOverlay');
@@ -31,6 +36,10 @@
       <h3>Erreurs fréquentes CAP</h3><ul>${(n.erreurs_frequentes_cap||[]).map((e)=>`<li>${e}</li>`).join('')}</ul>
       <h3>Points de contrôle / check-list</h3><ul>${(n.checklist_controle||[]).map((e)=>`<li>${e}</li>`).join('')}</ul>
       <h3>Mini-cas terrain</h3><p>${n.mini_cas_terrain}</p>
+      <h3>Tableau comparatif décisionnel</h3>
+      <table class='table'><tbody>${(n.tableau_comparatif||[]).map((r)=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table>
+      <h3>Schémas du thème</h3>
+      ${(n.schemas_theme||[]).map((id)=>{ const m=mediaById(id); return m?`<figure><img src='${m.src}' alt='${m.alt}' style='max-width:320px'><figcaption>${m.title}</figcaption></figure>`:''; }).join('')}
       <p><strong>Questions liées :</strong> ${(n.questions_liees||[]).map((q)=>`<a href='entrainement.html#${q}'>${q}</a>`).join(', ')}</p>`;
       overlay.classList.add('open');
     });
@@ -40,7 +49,7 @@
     glossList.innerHTML = items.map((g)=>`<article class='card item'><h4>${g.terme}</h4><p>${g.definition}</p></article>`).join('');
   }
 
-  protList.innerHTML = protocoles.map((p)=>`<article class='card item'><h4>${p.titre}</h4><ol>${(p.etapes||[]).map((e)=>`<li>${e}</li>`).join('')}</ol><p><strong>Vigilance:</strong> ${(p.vigilance||[]).join(' ; ')}</p></article>`).join('');
+  protList.innerHTML = protocoles.map((p)=>{ const m=mediaById(p.schema_visuel); return `<article class='card item'><h4>${p.titre}</h4><ol>${(p.etapes||[]).map((e)=>`<li>${e}</li>`).join('')}</ol><p><strong>Vigilance:</strong> ${(p.vigilance||[]).join(' ; ')}</p>${m?`<figure><img src='${m.src}' alt='${m.alt}' style='max-width:320px'><figcaption>Support visuel protocole</figcaption></figure>`:''}</article>`; }).join('');
   piegesList.innerHTML = pieges.map((x)=>`<li>${x}</li>`).join('');
 
   search.oninput = () => {

@@ -84,3 +84,15 @@ Captures:
 - `browser:/tmp/codex_browser_invocations/6078218a8b7425e5/artifacts/artifacts/v3-entrainement.png`
 - `browser:/tmp/codex_browser_invocations/950d4d05718957ec/artifacts/artifacts/v3-diagnostic.png`
 - `browser:/tmp/codex_browser_invocations/576eb638c716eedf/artifacts/artifacts/v3-connaissances.png`
+
+
+## V3 consolidation experte
+- nb_questions total: 225
+- questions avancées EP3 ajoutées: 30
+- questions hiérarchisation ajoutées: 15
+- nb_diagnostic_items: 45
+- orientation automatique diagnostic: active (liens séquences + notions)
+- interprétation qualitative dynamique: active (fragile/intermédiaire/solide)
+- médias ajoutés V3: learning=20, thème=18
+- visuels par séquence: >= 6 (vérifié par QA script)
+- placeholders supprimés: docs/index.html + README.md
