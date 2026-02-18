@@ -7,7 +7,10 @@
       "title": "S01 — Schéma mecanisme",
       "src": "assets/img/sequences/s01-schema-1.svg",
       "alt": "S01 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s01-schema-2",
@@ -16,7 +19,10 @@
       "title": "S01 — Schéma decision",
       "src": "assets/img/sequences/s01-schema-2.svg",
       "alt": "S01 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s01-schema-3",
@@ -25,7 +31,10 @@
       "title": "S01 — Schéma protocole",
       "src": "assets/img/sequences/s01-schema-3.svg",
       "alt": "S01 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s01-schema-4",
@@ -34,7 +43,10 @@
       "title": "S01 — Schéma erreur",
       "src": "assets/img/sequences/s01-schema-4.svg",
       "alt": "S01 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s02-schema-1",
@@ -43,7 +55,10 @@
       "title": "S02 — Schéma mecanisme",
       "src": "assets/img/sequences/s02-schema-1.svg",
       "alt": "S02 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s02-schema-2",
@@ -52,7 +67,10 @@
       "title": "S02 — Schéma decision",
       "src": "assets/img/sequences/s02-schema-2.svg",
       "alt": "S02 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s02-schema-3",
@@ -61,7 +79,10 @@
       "title": "S02 — Schéma protocole",
       "src": "assets/img/sequences/s02-schema-3.svg",
       "alt": "S02 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s02-schema-4",
@@ -70,7 +91,10 @@
       "title": "S02 — Schéma erreur",
       "src": "assets/img/sequences/s02-schema-4.svg",
       "alt": "S02 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s03-schema-1",
@@ -79,7 +103,10 @@
       "title": "S03 — Schéma mecanisme",
       "src": "assets/img/sequences/s03-schema-1.svg",
       "alt": "S03 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s03-schema-2",
@@ -88,7 +115,10 @@
       "title": "S03 — Schéma decision",
       "src": "assets/img/sequences/s03-schema-2.svg",
       "alt": "S03 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s03-schema-3",
@@ -97,7 +127,10 @@
       "title": "S03 — Schéma protocole",
       "src": "assets/img/sequences/s03-schema-3.svg",
       "alt": "S03 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s03-schema-4",
@@ -106,7 +139,10 @@
       "title": "S03 — Schéma erreur",
       "src": "assets/img/sequences/s03-schema-4.svg",
       "alt": "S03 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s04-schema-1",
@@ -115,7 +151,10 @@
       "title": "S04 — Schéma mecanisme",
       "src": "assets/img/sequences/s04-schema-1.svg",
       "alt": "S04 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s04-schema-2",
@@ -124,7 +163,10 @@
       "title": "S04 — Schéma decision",
       "src": "assets/img/sequences/s04-schema-2.svg",
       "alt": "S04 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s04-schema-3",
@@ -133,7 +175,10 @@
       "title": "S04 — Schéma protocole",
       "src": "assets/img/sequences/s04-schema-3.svg",
       "alt": "S04 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s04-schema-4",
@@ -142,7 +187,10 @@
       "title": "S04 — Schéma erreur",
       "src": "assets/img/sequences/s04-schema-4.svg",
       "alt": "S04 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s05-schema-1",
@@ -151,7 +199,10 @@
       "title": "S05 — Schéma mecanisme",
       "src": "assets/img/sequences/s05-schema-1.svg",
       "alt": "S05 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s05-schema-2",
@@ -160,7 +211,10 @@
       "title": "S05 — Schéma decision",
       "src": "assets/img/sequences/s05-schema-2.svg",
       "alt": "S05 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s05-schema-3",
@@ -169,7 +223,10 @@
       "title": "S05 — Schéma protocole",
       "src": "assets/img/sequences/s05-schema-3.svg",
       "alt": "S05 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s05-schema-4",
@@ -178,7 +235,10 @@
       "title": "S05 — Schéma erreur",
       "src": "assets/img/sequences/s05-schema-4.svg",
       "alt": "S05 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s06-schema-1",
@@ -187,7 +247,10 @@
       "title": "S06 — Schéma mecanisme",
       "src": "assets/img/sequences/s06-schema-1.svg",
       "alt": "S06 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s06-schema-2",
@@ -196,7 +259,10 @@
       "title": "S06 — Schéma decision",
       "src": "assets/img/sequences/s06-schema-2.svg",
       "alt": "S06 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s06-schema-3",
@@ -205,7 +271,10 @@
       "title": "S06 — Schéma protocole",
       "src": "assets/img/sequences/s06-schema-3.svg",
       "alt": "S06 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s06-schema-4",
@@ -214,7 +283,10 @@
       "title": "S06 — Schéma erreur",
       "src": "assets/img/sequences/s06-schema-4.svg",
       "alt": "S06 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s07-schema-1",
@@ -223,7 +295,10 @@
       "title": "S07 — Schéma mecanisme",
       "src": "assets/img/sequences/s07-schema-1.svg",
       "alt": "S07 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s07-schema-2",
@@ -232,7 +307,10 @@
       "title": "S07 — Schéma decision",
       "src": "assets/img/sequences/s07-schema-2.svg",
       "alt": "S07 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s07-schema-3",
@@ -241,7 +319,10 @@
       "title": "S07 — Schéma protocole",
       "src": "assets/img/sequences/s07-schema-3.svg",
       "alt": "S07 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s07-schema-4",
@@ -250,7 +331,10 @@
       "title": "S07 — Schéma erreur",
       "src": "assets/img/sequences/s07-schema-4.svg",
       "alt": "S07 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s08-schema-1",
@@ -259,7 +343,10 @@
       "title": "S08 — Schéma mecanisme",
       "src": "assets/img/sequences/s08-schema-1.svg",
       "alt": "S08 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s08-schema-2",
@@ -268,7 +355,10 @@
       "title": "S08 — Schéma decision",
       "src": "assets/img/sequences/s08-schema-2.svg",
       "alt": "S08 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s08-schema-3",
@@ -277,7 +367,10 @@
       "title": "S08 — Schéma protocole",
       "src": "assets/img/sequences/s08-schema-3.svg",
       "alt": "S08 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s08-schema-4",
@@ -286,7 +379,10 @@
       "title": "S08 — Schéma erreur",
       "src": "assets/img/sequences/s08-schema-4.svg",
       "alt": "S08 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s09-schema-1",
@@ -295,7 +391,10 @@
       "title": "S09 — Schéma mecanisme",
       "src": "assets/img/sequences/s09-schema-1.svg",
       "alt": "S09 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s09-schema-2",
@@ -304,7 +403,10 @@
       "title": "S09 — Schéma decision",
       "src": "assets/img/sequences/s09-schema-2.svg",
       "alt": "S09 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s09-schema-3",
@@ -313,7 +415,10 @@
       "title": "S09 — Schéma protocole",
       "src": "assets/img/sequences/s09-schema-3.svg",
       "alt": "S09 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s09-schema-4",
@@ -322,7 +427,10 @@
       "title": "S09 — Schéma erreur",
       "src": "assets/img/sequences/s09-schema-4.svg",
       "alt": "S09 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s10-schema-1",
@@ -331,7 +439,10 @@
       "title": "S10 — Schéma mecanisme",
       "src": "assets/img/sequences/s10-schema-1.svg",
       "alt": "S10 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s10-schema-2",
@@ -340,7 +451,10 @@
       "title": "S10 — Schéma decision",
       "src": "assets/img/sequences/s10-schema-2.svg",
       "alt": "S10 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s10-schema-3",
@@ -349,7 +463,10 @@
       "title": "S10 — Schéma protocole",
       "src": "assets/img/sequences/s10-schema-3.svg",
       "alt": "S10 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s10-schema-4",
@@ -358,7 +475,10 @@
       "title": "S10 — Schéma erreur",
       "src": "assets/img/sequences/s10-schema-4.svg",
       "alt": "S10 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s11-schema-1",
@@ -367,7 +487,10 @@
       "title": "S11 — Schéma mecanisme",
       "src": "assets/img/sequences/s11-schema-1.svg",
       "alt": "S11 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s11-schema-2",
@@ -376,7 +499,10 @@
       "title": "S11 — Schéma decision",
       "src": "assets/img/sequences/s11-schema-2.svg",
       "alt": "S11 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s11-schema-3",
@@ -385,7 +511,10 @@
       "title": "S11 — Schéma protocole",
       "src": "assets/img/sequences/s11-schema-3.svg",
       "alt": "S11 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s11-schema-4",
@@ -394,7 +523,10 @@
       "title": "S11 — Schéma erreur",
       "src": "assets/img/sequences/s11-schema-4.svg",
       "alt": "S11 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s12-schema-1",
@@ -403,7 +535,10 @@
       "title": "S12 — Schéma mecanisme",
       "src": "assets/img/sequences/s12-schema-1.svg",
       "alt": "S12 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s12-schema-2",
@@ -412,7 +547,10 @@
       "title": "S12 — Schéma decision",
       "src": "assets/img/sequences/s12-schema-2.svg",
       "alt": "S12 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s12-schema-3",
@@ -421,7 +559,10 @@
       "title": "S12 — Schéma protocole",
       "src": "assets/img/sequences/s12-schema-3.svg",
       "alt": "S12 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s12-schema-4",
@@ -430,7 +571,10 @@
       "title": "S12 — Schéma erreur",
       "src": "assets/img/sequences/s12-schema-4.svg",
       "alt": "S12 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s13-schema-1",
@@ -439,7 +583,10 @@
       "title": "S13 — Schéma mecanisme",
       "src": "assets/img/sequences/s13-schema-1.svg",
       "alt": "S13 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s13-schema-2",
@@ -448,7 +595,10 @@
       "title": "S13 — Schéma decision",
       "src": "assets/img/sequences/s13-schema-2.svg",
       "alt": "S13 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s13-schema-3",
@@ -457,7 +607,10 @@
       "title": "S13 — Schéma protocole",
       "src": "assets/img/sequences/s13-schema-3.svg",
       "alt": "S13 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s13-schema-4",
@@ -466,7 +619,10 @@
       "title": "S13 — Schéma erreur",
       "src": "assets/img/sequences/s13-schema-4.svg",
       "alt": "S13 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s14-schema-1",
@@ -475,7 +631,10 @@
       "title": "S14 — Schéma mecanisme",
       "src": "assets/img/sequences/s14-schema-1.svg",
       "alt": "S14 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s14-schema-2",
@@ -484,7 +643,10 @@
       "title": "S14 — Schéma decision",
       "src": "assets/img/sequences/s14-schema-2.svg",
       "alt": "S14 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s14-schema-3",
@@ -493,7 +655,10 @@
       "title": "S14 — Schéma protocole",
       "src": "assets/img/sequences/s14-schema-3.svg",
       "alt": "S14 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s14-schema-4",
@@ -502,7 +667,10 @@
       "title": "S14 — Schéma erreur",
       "src": "assets/img/sequences/s14-schema-4.svg",
       "alt": "S14 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s15-schema-1",
@@ -511,7 +679,10 @@
       "title": "S15 — Schéma mecanisme",
       "src": "assets/img/sequences/s15-schema-1.svg",
       "alt": "S15 schéma mecanisme",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s15-schema-2",
@@ -520,7 +691,10 @@
       "title": "S15 — Schéma decision",
       "src": "assets/img/sequences/s15-schema-2.svg",
       "alt": "S15 schéma decision",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s15-schema-3",
@@ -529,7 +703,10 @@
       "title": "S15 — Schéma protocole",
       "src": "assets/img/sequences/s15-schema-3.svg",
       "alt": "S15 schéma protocole",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s15-schema-4",
@@ -538,7 +715,10 @@
       "title": "S15 — Schéma erreur",
       "src": "assets/img/sequences/s15-schema-4.svg",
       "alt": "S15 schéma erreur",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-01",
@@ -546,7 +726,10 @@
       "title": "Schéma pédagogique 01",
       "src": "assets/img/learning/learn-schema-01.svg",
       "alt": "Schéma pédagogique 01 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-02",
@@ -554,7 +737,10 @@
       "title": "Schéma pédagogique 02",
       "src": "assets/img/learning/learn-schema-02.svg",
       "alt": "Schéma pédagogique 02 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-03",
@@ -562,7 +748,10 @@
       "title": "Schéma pédagogique 03",
       "src": "assets/img/learning/learn-schema-03.svg",
       "alt": "Schéma pédagogique 03 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-04",
@@ -570,7 +759,10 @@
       "title": "Schéma pédagogique 04",
       "src": "assets/img/learning/learn-schema-04.svg",
       "alt": "Schéma pédagogique 04 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-05",
@@ -578,7 +770,10 @@
       "title": "Schéma pédagogique 05",
       "src": "assets/img/learning/learn-schema-05.svg",
       "alt": "Schéma pédagogique 05 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-06",
@@ -586,7 +781,10 @@
       "title": "Schéma pédagogique 06",
       "src": "assets/img/learning/learn-schema-06.svg",
       "alt": "Schéma pédagogique 06 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-07",
@@ -594,7 +792,10 @@
       "title": "Schéma pédagogique 07",
       "src": "assets/img/learning/learn-schema-07.svg",
       "alt": "Schéma pédagogique 07 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-08",
@@ -602,7 +803,10 @@
       "title": "Schéma pédagogique 08",
       "src": "assets/img/learning/learn-schema-08.svg",
       "alt": "Schéma pédagogique 08 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-09",
@@ -610,7 +814,10 @@
       "title": "Schéma pédagogique 09",
       "src": "assets/img/learning/learn-schema-09.svg",
       "alt": "Schéma pédagogique 09 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-10",
@@ -618,7 +825,10 @@
       "title": "Schéma pédagogique 10",
       "src": "assets/img/learning/learn-schema-10.svg",
       "alt": "Schéma pédagogique 10 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-11",
@@ -626,7 +836,10 @@
       "title": "Schéma pédagogique 11",
       "src": "assets/img/learning/learn-schema-11.svg",
       "alt": "Schéma pédagogique 11 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-12",
@@ -634,7 +847,10 @@
       "title": "Schéma pédagogique 12",
       "src": "assets/img/learning/learn-schema-12.svg",
       "alt": "Schéma pédagogique 12 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-13",
@@ -642,7 +858,10 @@
       "title": "Schéma pédagogique 13",
       "src": "assets/img/learning/learn-schema-13.svg",
       "alt": "Schéma pédagogique 13 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-14",
@@ -650,7 +869,10 @@
       "title": "Schéma pédagogique 14",
       "src": "assets/img/learning/learn-schema-14.svg",
       "alt": "Schéma pédagogique 14 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-15",
@@ -658,7 +880,10 @@
       "title": "Schéma pédagogique 15",
       "src": "assets/img/learning/learn-schema-15.svg",
       "alt": "Schéma pédagogique 15 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-16",
@@ -666,7 +891,10 @@
       "title": "Schéma pédagogique 16",
       "src": "assets/img/learning/learn-schema-16.svg",
       "alt": "Schéma pédagogique 16 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-17",
@@ -674,7 +902,10 @@
       "title": "Schéma pédagogique 17",
       "src": "assets/img/learning/learn-schema-17.svg",
       "alt": "Schéma pédagogique 17 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-18",
@@ -682,7 +913,10 @@
       "title": "Schéma pédagogique 18",
       "src": "assets/img/learning/learn-schema-18.svg",
       "alt": "Schéma pédagogique 18 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-19",
@@ -690,7 +924,10 @@
       "title": "Schéma pédagogique 19",
       "src": "assets/img/learning/learn-schema-19.svg",
       "alt": "Schéma pédagogique 19 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "learn-schema-20",
@@ -698,7 +935,10 @@
       "title": "Schéma pédagogique 20",
       "src": "assets/img/learning/learn-schema-20.svg",
       "alt": "Schéma pédagogique 20 pour entraînement/diagnostic/connaissances",
-      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)"
+      "credit": "Schéma pédagogique maison — CAP AEPE (usage local)",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s01-schema-5",
@@ -707,7 +947,10 @@
       "title": "S01 — flux-decision-complet",
       "src": "assets/img/sequences/s01-schema-5.svg",
       "alt": "S01 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s01-schema-6",
@@ -716,7 +959,10 @@
       "title": "S01 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s01-schema-6.svg",
       "alt": "S01 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s02-schema-5",
@@ -725,7 +971,10 @@
       "title": "S02 — flux-decision-complet",
       "src": "assets/img/sequences/s02-schema-5.svg",
       "alt": "S02 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s02-schema-6",
@@ -734,7 +983,10 @@
       "title": "S02 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s02-schema-6.svg",
       "alt": "S02 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s03-schema-5",
@@ -743,7 +995,10 @@
       "title": "S03 — flux-decision-complet",
       "src": "assets/img/sequences/s03-schema-5.svg",
       "alt": "S03 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s03-schema-6",
@@ -752,7 +1007,10 @@
       "title": "S03 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s03-schema-6.svg",
       "alt": "S03 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s04-schema-5",
@@ -761,7 +1019,10 @@
       "title": "S04 — flux-decision-complet",
       "src": "assets/img/sequences/s04-schema-5.svg",
       "alt": "S04 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s04-schema-6",
@@ -770,7 +1031,10 @@
       "title": "S04 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s04-schema-6.svg",
       "alt": "S04 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s05-schema-5",
@@ -779,7 +1043,10 @@
       "title": "S05 — flux-decision-complet",
       "src": "assets/img/sequences/s05-schema-5.svg",
       "alt": "S05 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s05-schema-6",
@@ -788,7 +1055,10 @@
       "title": "S05 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s05-schema-6.svg",
       "alt": "S05 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s06-schema-5",
@@ -797,7 +1067,10 @@
       "title": "S06 — flux-decision-complet",
       "src": "assets/img/sequences/s06-schema-5.svg",
       "alt": "S06 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s06-schema-6",
@@ -806,7 +1079,10 @@
       "title": "S06 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s06-schema-6.svg",
       "alt": "S06 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s07-schema-5",
@@ -815,7 +1091,10 @@
       "title": "S07 — flux-decision-complet",
       "src": "assets/img/sequences/s07-schema-5.svg",
       "alt": "S07 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s07-schema-6",
@@ -824,7 +1103,10 @@
       "title": "S07 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s07-schema-6.svg",
       "alt": "S07 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s08-schema-5",
@@ -833,7 +1115,10 @@
       "title": "S08 — flux-decision-complet",
       "src": "assets/img/sequences/s08-schema-5.svg",
       "alt": "S08 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s08-schema-6",
@@ -842,7 +1127,10 @@
       "title": "S08 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s08-schema-6.svg",
       "alt": "S08 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s09-schema-5",
@@ -851,7 +1139,10 @@
       "title": "S09 — flux-decision-complet",
       "src": "assets/img/sequences/s09-schema-5.svg",
       "alt": "S09 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s09-schema-6",
@@ -860,7 +1151,10 @@
       "title": "S09 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s09-schema-6.svg",
       "alt": "S09 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s10-schema-5",
@@ -869,7 +1163,10 @@
       "title": "S10 — flux-decision-complet",
       "src": "assets/img/sequences/s10-schema-5.svg",
       "alt": "S10 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s10-schema-6",
@@ -878,7 +1175,10 @@
       "title": "S10 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s10-schema-6.svg",
       "alt": "S10 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s11-schema-5",
@@ -887,7 +1187,10 @@
       "title": "S11 — flux-decision-complet",
       "src": "assets/img/sequences/s11-schema-5.svg",
       "alt": "S11 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s11-schema-6",
@@ -896,7 +1199,10 @@
       "title": "S11 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s11-schema-6.svg",
       "alt": "S11 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s12-schema-5",
@@ -905,7 +1211,10 @@
       "title": "S12 — flux-decision-complet",
       "src": "assets/img/sequences/s12-schema-5.svg",
       "alt": "S12 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s12-schema-6",
@@ -914,7 +1223,10 @@
       "title": "S12 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s12-schema-6.svg",
       "alt": "S12 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s13-schema-5",
@@ -923,7 +1235,10 @@
       "title": "S13 — flux-decision-complet",
       "src": "assets/img/sequences/s13-schema-5.svg",
       "alt": "S13 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s13-schema-6",
@@ -932,7 +1247,10 @@
       "title": "S13 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s13-schema-6.svg",
       "alt": "S13 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s14-schema-5",
@@ -941,7 +1259,10 @@
       "title": "S14 — flux-decision-complet",
       "src": "assets/img/sequences/s14-schema-5.svg",
       "alt": "S14 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s14-schema-6",
@@ -950,7 +1271,10 @@
       "title": "S14 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s14-schema-6.svg",
       "alt": "S14 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s15-schema-5",
@@ -959,7 +1283,10 @@
       "title": "S15 — flux-decision-complet",
       "src": "assets/img/sequences/s15-schema-5.svg",
       "alt": "S15 flux-decision-complet",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "s15-schema-6",
@@ -968,7 +1295,10 @@
       "title": "S15 — analyse-erreurs-interpretation",
       "src": "assets/img/sequences/s15-schema-6.svg",
       "alt": "S15 analyse-erreurs-interpretation",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-hygiene-a",
@@ -977,7 +1307,10 @@
       "title": "hygiene schema a",
       "src": "assets/img/learning/theme-hygiene-a.svg",
       "alt": "Schéma thème hygiene a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-hygiene-b",
@@ -986,7 +1319,10 @@
       "title": "hygiene schema b",
       "src": "assets/img/learning/theme-hygiene-b.svg",
       "alt": "Schéma thème hygiene b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-securite-a",
@@ -995,7 +1331,10 @@
       "title": "securite schema a",
       "src": "assets/img/learning/theme-securite-a.svg",
       "alt": "Schéma thème securite a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-securite-b",
@@ -1004,7 +1343,10 @@
       "title": "securite schema b",
       "src": "assets/img/learning/theme-securite-b.svg",
       "alt": "Schéma thème securite b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-sante-a",
@@ -1013,7 +1355,10 @@
       "title": "sante schema a",
       "src": "assets/img/learning/theme-sante-a.svg",
       "alt": "Schéma thème sante a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-sante-b",
@@ -1022,7 +1367,10 @@
       "title": "sante schema b",
       "src": "assets/img/learning/theme-sante-b.svg",
       "alt": "Schéma thème sante b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-microbio-a",
@@ -1031,7 +1379,10 @@
       "title": "microbio schema a",
       "src": "assets/img/learning/theme-microbio-a.svg",
       "alt": "Schéma thème microbio a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-microbio-b",
@@ -1040,7 +1391,10 @@
       "title": "microbio schema b",
       "src": "assets/img/learning/theme-microbio-b.svg",
       "alt": "Schéma thème microbio b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-produits-a",
@@ -1049,7 +1403,10 @@
       "title": "produits schema a",
       "src": "assets/img/learning/theme-produits-a.svg",
       "alt": "Schéma thème produits a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-produits-b",
@@ -1058,7 +1415,10 @@
       "title": "produits schema b",
       "src": "assets/img/learning/theme-produits-b.svg",
       "alt": "Schéma thème produits b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-linge-a",
@@ -1067,7 +1427,10 @@
       "title": "linge schema a",
       "src": "assets/img/learning/theme-linge-a.svg",
       "alt": "Schéma thème linge a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-linge-b",
@@ -1076,7 +1439,10 @@
       "title": "linge schema b",
       "src": "assets/img/learning/theme-linge-b.svg",
       "alt": "Schéma thème linge b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-locaux-a",
@@ -1085,7 +1451,10 @@
       "title": "locaux schema a",
       "src": "assets/img/learning/theme-locaux-a.svg",
       "alt": "Schéma thème locaux a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-locaux-b",
@@ -1094,7 +1463,10 @@
       "title": "locaux schema b",
       "src": "assets/img/learning/theme-locaux-b.svg",
       "alt": "Schéma thème locaux b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-risques-a",
@@ -1103,7 +1475,10 @@
       "title": "risques schema a",
       "src": "assets/img/learning/theme-risques-a.svg",
       "alt": "Schéma thème risques a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-risques-b",
@@ -1112,7 +1487,10 @@
       "title": "risques schema b",
       "src": "assets/img/learning/theme-risques-b.svg",
       "alt": "Schéma thème risques b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-qualite-a",
@@ -1121,7 +1499,10 @@
       "title": "qualite schema a",
       "src": "assets/img/learning/theme-qualite-a.svg",
       "alt": "Schéma thème qualite a",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     },
     {
       "id": "theme-qualite-b",
@@ -1130,7 +1511,10 @@
       "title": "qualite schema b",
       "src": "assets/img/learning/theme-qualite-b.svg",
       "alt": "Schéma thème qualite b",
-      "credit": "Production interne pédagogique CAP AEPE"
+      "credit": "Production interne pédagogique CAP AEPE",
+      "source": "Production pédagogique interne CAP AEPE",
+      "licence": "Usage pédagogique local (GitHub Pages)",
+      "source_url": "https://www.education.gouv.fr/"
     }
   ]
 }

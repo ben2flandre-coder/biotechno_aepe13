@@ -26,7 +26,7 @@
       <h3>Explication scientifique courte et dense</h3>
       ${softParagraphs(c.scienceDense)}
       <h3>Schéma explicatif</h3>
-      ${m ? `<figure class="schema-figure"><img class="zoomable-img" src="${m.src}" alt="${m.alt}"><figcaption>${m.credit}</figcaption><button class="btn secondary zoom-btn" data-zoom-src="${m.src}" data-zoom-alt="${m.alt}">🔍 Agrandir</button></figure>` : '<p>Schéma indisponible</p>'}
+      ${m ? `<figure class="schema-figure"><img loading="lazy" class="zoomable-img" src="${m.src}" alt="${m.alt}"><figcaption>${m.credit}</figcaption><button class="btn secondary zoom-btn" data-zoom-src="${m.src}" data-zoom-alt="${m.alt}">🔍 Agrandir</button></figure>` : '<p>Schéma indisponible</p>'}
       <h3>Mini QCU intelligent</h3>
       <p><strong>${c.miniQCU?.q || ''}</strong></p>
       <ul>${(c.miniQCU?.options||[]).map((o,i)=>`<li>${String.fromCharCode(65+i)}. ${o}</li>`).join('')}</ul>

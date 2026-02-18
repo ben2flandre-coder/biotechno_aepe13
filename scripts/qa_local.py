@@ -216,6 +216,22 @@ for s in seqs:
 if len(models) < 8:
     fails.append(f"[Schemas] model diversity too low ({len(models)})")
 
+
+# credits checks
+credits_file = ROOT / 'docs' / 'credits.html'
+if credits_file.exists():
+    ctxt = credits_file.read_text(encoding='utf-8', errors='ignore')
+    if 'Benoît Deflandre' not in ctxt:
+        fails.append('[Credits] missing "Benoît Deflandre" mention')
+
+# media metadata checks
+if len(media) < 40:
+    fails.append(f'[Media] total media entries < 40 ({len(media)})')
+for m in media:
+    for key in ['source','licence']:
+        if key not in m or not str(m.get(key)).strip():
+            fails.append(f"[Media] missing {key} for {m.get('id')}")
+
 print('QA local guardrails summary')
 print(f'- HTML files scanned: {len(HTML_FILES)}')
 print(f'- JSON files scanned: {len(JSON_FILES)}')

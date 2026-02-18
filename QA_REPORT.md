@@ -123,3 +123,21 @@ Date: 2026-02-17
 - Docs nettoyées: suppression section “Liens & audit” + références conversationnelles.
 - Validation: `python scripts/qa_local.py` => GREEN.
 - Capture mise à jour: `browser:/tmp/codex_browser_invocations/37fd62554fa2deab/artifacts/artifacts/v311-sequences.png`.
+
+
+## Audit inspection V3.1 — Top 15 anomalies + correctifs appliqués
+1. QCM génériques multi-thèmes (énoncés clonés) → régénération contextualisée par thème.
+2. Distracteurs interdits répétitifs (habitude/reporter/ressenti) → supprimés et remplacés par erreurs métier plausibles.
+3. ADV insuffisamment contraints → arbitrages multicritères temps/effectif/ressources renforcés.
+4. Similarité sémantique QCM trop forte → variations de templates + audit trigrammes intégré.
+5. Schémas `schema-5/6` trop homogènes → diversification en 10 familles didactiques.
+6. Schémas sans marque de modèle → annotation `model:*` injectée dans SVG pour audit.
+7. Docs contenant contenu interne non utilisateur → section “Liens & audit” supprimée.
+8. Crédits auteur incomplets → ajout explicite “Benoît Deflandre — 2026”.
+9. Métadonnées médias incomplètes → `source`, `licence`, `source_url` ajoutés.
+10. Manque de lien direct notion depuis QCM → bouton “Ouvrir dans Connaissances”.
+11. Ancre notion non fiable → identifiants `#notion-XX` standardisés.
+12. Ouverture notion depuis hash absente → auto-ouverture si hash présent.
+13. Images non lazyloadées dans overlays → `loading=lazy` ajouté.
+14. QA ne vérifiait pas auteur crédits → contrôle dédié ajouté.
+15. QA ne vérifiait pas champs media source/licence → contrôles obligatoires ajoutés.

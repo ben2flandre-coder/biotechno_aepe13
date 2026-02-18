@@ -29,7 +29,7 @@
       const s = items.find((x) => x.id === btn.dataset.open);
       const mediaHtml = (s.media || []).map((id) => {
         const m = fullMedia(id);
-        return m ? `<figure class="schema-figure"><img class="zoomable-img" src="${m.src}" alt="${m.alt}"><figcaption>${m.credit}</figcaption><button class="btn secondary zoom-btn" data-zoom-src="${m.src}" data-zoom-alt="${m.alt}">🔍 Agrandir</button></figure>` : '';
+        return m ? `<figure class="schema-figure"><img loading="lazy" class="zoomable-img" src="${m.src}" alt="${m.alt}"><figcaption>${m.credit}</figcaption><button class="btn secondary zoom-btn" data-zoom-src="${m.src}" data-zoom-alt="${m.alt}">🔍 Agrandir</button></figure>` : '';
       }).join('');
 
       const rowsErr = (s.bloc6_tableauPedagogique || []).map((r) => `<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td></tr>`).join('');

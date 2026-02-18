@@ -26,16 +26,17 @@
   }
 
   function renderNotions(items){
-    list.innerHTML = items.map(n => `<article class="card item" id="${n.id}">
+    list.innerHTML = items.map(n => `<article class="card item" id="notion-${n.id}">
       <div class="meta">${n.id} · ${n.domain}</div>
       <h3>${n.title}</h3>
       <p>${n.definition_operationnelle}</p>
       <p><strong>Questions associées dans la banque:</strong> ${relatedQuestions(n.id,5).join(', ') || 'N/A'}</p>
-      <button class="btn" data-id="${n.id}">Ouvrir la fiche</button>
+      <button class="btn" data-id="notion-${n.id}">Ouvrir la fiche</button>
     </article>`).join('');
 
     list.querySelectorAll('[data-id]').forEach((b)=>b.onclick = ()=>{
-      const n = items.find((x)=>x.id===b.dataset.id);
+      const notionKey = b.dataset.id.replace('notion-','').toLowerCase();
+      const n = items.find((x)=>String(x.id).toLowerCase()===notionKey);
       body.innerHTML = `<h2>${n.title}</h2>
       <p><strong>Définition opérationnelle :</strong> ${n.definition_operationnelle}</p>
       <p><strong>Pourquoi c’est critique en EAJE :</strong> ${n.criticite_eaje}</p>
@@ -45,7 +46,7 @@
       <h3>Tableau comparatif décisionnel</h3>
       <table class='table'><tbody>${(n.tableau_comparatif||[]).map((r)=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table>
       <h3>Schémas du thème</h3>
-      ${(n.schemas_theme||[]).map((id)=>{ const m=mediaById(id); return m?`<figure class='schema-figure'><img class='zoomable-img' src='${m.src}' alt='${m.alt}'><figcaption>${m.title}</figcaption><button class='btn secondary zoom-btn' data-zoom-src='${m.src}' data-zoom-alt='${m.alt}'>🔍 Agrandir</button></figure>`:''; }).join('')}
+      ${(n.schemas_theme||[]).map((id)=>{ const m=mediaById(id); return m?`<figure class='schema-figure'><img loading='lazy' class='zoomable-img' src='${m.src}' alt='${m.alt}'><figcaption>${m.title}</figcaption><button class='btn secondary zoom-btn' data-zoom-src='${m.src}' data-zoom-alt='${m.alt}'>🔍 Agrandir</button></figure>`:''; }).join('')}
       <p><strong>Questions associées dans la banque :</strong> ${relatedQuestions(n.id,5).map((q)=>`<a href='entrainement.html#${q}'>${q}</a>`).join(', ')}</p>`;
       overlay.classList.add('open');
     });
@@ -55,7 +56,7 @@
     glossList.innerHTML = items.map((g)=>`<article class='card item'><h4>${g.terme}</h4><p>${g.definition}</p></article>`).join('');
   }
 
-  protList.innerHTML = protocoles.map((p)=>{ const m=mediaById(p.schema_visuel); return `<article class='card item'><h4>${p.titre}</h4><ol>${(p.etapes||[]).map((e)=>`<li>${e}</li>`).join('')}</ol><p><strong>Vigilance:</strong> ${(p.vigilance||[]).join(' ; ')}</p>${m?`<figure class='schema-figure'><img class='zoomable-img' src='${m.src}' alt='${m.alt}'><figcaption>Support visuel protocole</figcaption><button class='btn secondary zoom-btn' data-zoom-src='${m.src}' data-zoom-alt='${m.alt}'>🔍 Agrandir</button></figure>`:''}</article>`; }).join('');
+  protList.innerHTML = protocoles.map((p)=>{ const m=mediaById(p.schema_visuel); return `<article class='card item'><h4>${p.titre}</h4><ol>${(p.etapes||[]).map((e)=>`<li>${e}</li>`).join('')}</ol><p><strong>Vigilance:</strong> ${(p.vigilance||[]).join(' ; ')}</p>${m?`<figure class='schema-figure'><img loading='lazy' class='zoomable-img' src='${m.src}' alt='${m.alt}'><figcaption>Support visuel protocole</figcaption><button class='btn secondary zoom-btn' data-zoom-src='${m.src}' data-zoom-alt='${m.alt}'>🔍 Agrandir</button></figure>`:''}</article>`; }).join('');
   piegesList.innerHTML = pieges.map((x)=>`<li>${x}</li>`).join('');
 
   search.oninput = () => {
@@ -69,4 +70,10 @@
 
   renderNotions(notions);
   renderGloss(glossaire);
+
+  if (location.hash.startsWith('#notion-')) {
+    const targetId = location.hash.replace('#','').toLowerCase();
+    const btn = Array.from(document.querySelectorAll('[data-id]')).find((el)=>el.dataset.id.toLowerCase()===targetId);
+    if (btn) btn.click();
+  }
 })();
