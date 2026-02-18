@@ -118,6 +118,7 @@ const HISTORY_KEY = 'aepe_qcm_history_v1';
           <h4>Bloc 2 — Pourquoi c’est correct</h4>
           ${softParagraphs(q.justification)}
           <p><strong>Lien EP3:</strong> cohérence analyse → action → preuve en situation EAJE.</p>
+          <p><strong>🎯 Compétence mobilisée :</strong> ${q.competence_mobilisee || 'Décider une action conforme, argumentée et traçable en contexte EAJE.'}</p>
         </div>
         <div class="feedback-block">
           <h4>Bloc 3 — Pourquoi les autres réponses sont incorrectes</h4>

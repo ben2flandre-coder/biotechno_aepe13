@@ -105,7 +105,7 @@ if len(questions) < 180:
 qseen = set()
 for q in questions:
     qid = q.get('id')
-    for k in ['theme','niveau','type','question','choix','reponses','justification','distracteurs_expliques','reference','tags','piege_examen','lien_notions','lien_sequence']:
+    for k in ['theme','niveau','type','question','choix','reponses','justification','distracteurs_expliques','reference','tags','piege_examen','lien_notions','lien_sequence','competence_mobilisee']:
         if k not in q:
             fails.append(f"[QCM] {qid} missing key {k}")
     if not isinstance(q.get('choix'), list) or len(q['choix']) < 4:

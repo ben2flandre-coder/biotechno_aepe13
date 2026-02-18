@@ -157,3 +157,16 @@ Date: 2026-02-17
   - doublons exacts séries de choix: 0 (contrôle QA script)
   - nb médias intégrés: 128
   - nb schémas uniques (modèles détectés): >= 8
+
+
+## Diffusion classe — correctif critique (2026-02-18)
+- QCM: suppression des marqueurs techniques injectés dans les choix (`[Qxxx]`, `[Repère ...]`) pour revenir à une rédaction pédagogique propre.
+- QCM: ajout du champ `competence_mobilisee` sur l’ensemble des items + affichage explicite dans le feedback corrigé.
+- QCM: résolution des dernières séries de choix dupliquées par contextualisation terrain naturelle (sans identifiants techniques).
+- Diagnostic: correction des liens notions (`connaissances.html#notion-XX`) + synthèse par domaine clarifiée.
+- Production: maintien des pages sans bloc dev visible, navigation et contenus immédiats conservés.
+- Métriques:
+  - Questions robustes: 225
+  - Doublons exacts énoncés: 0
+  - Doublons exacts séries de choix: 0 (QA)
+  - Médias inventoriés: 128

@@ -48,12 +48,12 @@
         : (r.pct < 70 ? 'Consolidation: entraînement ciblé et analyse d'erreurs.' : 'Maintien expert: cas complexes et arbitrages avancés.');
       const seqA = 'S' + String((rows.indexOf(r)%15)+1).padStart(2,'0');
       const seqB = 'S' + String(((rows.indexOf(r)+5)%15)+1).padStart(2,'0');
-      return `<li><strong>${r.c}</strong> — ${level}. ${justification} Cibles: <a href="connaissances.html#${r.notions[0]}">${r.notions[0]}</a>, <a href="sequences.html#${seqA}">${seqA}</a>, <a href="sequences.html#${seqB}">${seqB}</a>.</li>`;
+      return `<li><strong>${r.c}</strong> — ${level}. ${justification} Cibles: <a href="connaissances.html#notion-${r.notions[0]}">${r.notions[0]}</a>, <a href="sequences.html#${seqA}">${seqA}</a>, <a href="sequences.html#${seqB}">${seqB}</a>.</li>`;
     }).join('');
 
     result.innerHTML = `<h3>Restitution diagnostic</h3>
       <table class="table"><thead><tr><th>Compétence</th><th>Score</th><th>Jauge</th></tr></thead><tbody>${table}</tbody></table>
-      <h4>Recommandations automatiques</h4><ul>${recos}</ul>`;
+      <h4>Synthèse par domaine</h4><p>Lecture rapide : <strong>&lt;40%</strong> priorité immédiate, <strong>40–69%</strong> consolidation ciblée, <strong>≥70%</strong> maintien/approfondissement.</p><h4>Recommandations automatiques</h4><ul>${recos}</ul>`;
 
     return rows;
   }
