@@ -170,3 +170,11 @@ Date: 2026-02-17
   - Doublons exacts énoncés: 0
   - Doublons exacts séries de choix: 0 (QA)
   - Médias inventoriés: 128
+
+
+## Stabilisation diffusion classe — itération finale (2026-02-18)
+- QCM: amélioration de la correction affichée sous chaque question avec analyse explicite des distracteurs réellement choisis (alignement index réponses/distracteurs).
+- QCM: libellés pédagogiques clarifiés dans le feedback (`✅ Justification`, `❌ Pourquoi les autres réponses sont incorrectes`, `📚 Voir la notion associée`).
+- Capsules: ajout de 3 blocs opérationnels sur chaque fiche ouverte (`Application terrain EAJE`, `Erreur fréquente`, `Point inspection / conformité`) sans refonte structurelle.
+- Logos & crédits: mention footer renforcée `Conception pédagogique et intégration : Benoît Deflandre`.
+- Stabilité: vérification absence 404 front (smoke local), absence doublons JSON QCM, et QA script GREEN.

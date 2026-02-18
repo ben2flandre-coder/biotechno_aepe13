@@ -106,8 +106,14 @@ const HISTORY_KEY = 'aepe_qcm_history_v1';
       el.classList.toggle('wrong', !good);
       if (good) ok++;
 
-      const distracteurs = Object.entries(q.distracteurs_expliques || {}).map(([k,v]) => `<li><strong>Choix ${Number(k)+1}:</strong> ${v}</li>`).join('');
       const notionId = (q.lien_notions || [])[0];
+      const wrongIdx = (q.choix || []).map((_, i) => i).filter((i) => !(q.reponses || []).includes(i));
+      const distracteurs = wrongIdx.map((i) => {
+        const d = q.distracteurs_expliques || {};
+        const explanation = d[String(i)] || d[String(i + 1)] ||
+          `Cette option paraît plausible, mais elle n’assure pas simultanément sécurité, conformité EP3 et traçabilité professionnelle.`;
+        return `<li><strong>❌ ${i + 1}. ${(q.choix || [])[i] || ''}</strong><br>${explanation}</li>`;
+      }).join('');
 
       exp.innerHTML = `<div class="feedback-block">
           <h4>Bloc 1 — Réponse correcte</h4>
@@ -115,19 +121,19 @@ const HISTORY_KEY = 'aepe_qcm_history_v1';
           <p>Principe réglementaire: action sécurisée, protocole validé et traçabilité obligatoire en contexte CAP AEPE.</p>
         </div>
         <div class="feedback-block">
-          <h4>Bloc 2 — Pourquoi c’est correct</h4>
+          <h4>✅ Justification — pourquoi c’est correct</h4>
           ${softParagraphs(q.justification)}
           <p><strong>Lien EP3:</strong> cohérence analyse → action → preuve en situation EAJE.</p>
           <p><strong>🎯 Compétence mobilisée :</strong> ${q.competence_mobilisee || 'Décider une action conforme, argumentée et traçable en contexte EAJE.'}</p>
         </div>
         <div class="feedback-block">
-          <h4>Bloc 3 — Pourquoi les autres réponses sont incorrectes</h4>
+          <h4>❌ Pourquoi les autres réponses sont incorrectes</h4>
           <ul>${distracteurs}</ul>
           <p>Erreur fréquente candidat CAP: choisir une réponse "rapide" au lieu d’une décision justifiable.</p>
         </div>
         <div class="feedback-block">
           <h4>Bloc 4 — Aller plus loin</h4>
-          <button class="btn secondary open-notion" data-notion="${notionId}" data-idx="${idx}">Voir la notion associée</button> <a class="btn" href="connaissances.html#notion-${notionId}">Ouvrir dans Connaissances</a> <a class="btn secondary" href="sequences.html#${q.lien_sequence || ''}">Voir la séquence associée</a>
+          <button class="btn secondary open-notion" data-notion="${notionId}" data-idx="${idx}">📚 Voir la notion associée</button> <a class="btn" href="connaissances.html#notion-${notionId}">Ouvrir dans Connaissances</a> <a class="btn secondary" href="sequences.html#${q.lien_sequence || ''}">Voir la séquence associée</a>
         </div>`;
     });
 

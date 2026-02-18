@@ -41,6 +41,7 @@
       <img src="${pathTo(`${logoBase}/logo-academie-nice.svg`)}" alt="Logo Académie de Nice">
     </div>
     <p><strong>Biotechnologie CAP AEPE</strong> — Formation professionnelle (Bloc 1 / EP3).</p>
+    <p><strong>Conception pédagogique et intégration : Benoît Deflandre.</strong></p>
     <p>Technique : site statique GitHub Pages, sans tracking.</p>
     <p><strong>Zéro donnée personnelle collectée.</strong></p>
     <p><a href="${pathTo('docs/credits.html')}">Crédits & sources</a> · <a href="${pathTo('docs/banque-medias.html')}">Banque médias</a></p>`;
