@@ -111,3 +111,15 @@ Date: 2026-02-17
 - Capture UI entraînement: `browser:/tmp/codex_browser_invocations/7874f51e98bc36af/artifacts/artifacts/v31-entrainement-page.png`
 - Capture UI séquences: `browser:/tmp/codex_browser_invocations/ba0d8decafa4b013/artifacts/artifacts/v31-sequences-page.png`
 - Capture UI connaissances: `browser:/tmp/codex_browser_invocations/5f2167e0b328136e/artifacts/artifacts/v31-connaissances-page.png`
+
+
+## V3.1 stabilisation experte (itération)
+Date: 2026-02-17
+- Schémas thématiques renforcés: modèles diversifiés (flux, matrice gravité/probabilité, cause→mécanisme→conséquence, protocole séquentiel, boucle qualité, hiérarchisation, chaîne contamination, cartographie zones, barrière EPI, biais décisionnel).
+- Contrôle anti-clonage ajouté dans `scripts/qa_local.py` (diversité de modèles >= 8 vérifiée).
+- QCM: distracteurs génériques supprimés; distracteurs contextualisés par thème.
+- QCM ADV: scénarios multi-critères réellement contraints (temps/effectif/ressources) avec arbitrage professionnel.
+- Audit unicité QCM: contrôle automatique similarité + détection patterns interdits.
+- Docs nettoyées: suppression section “Liens & audit” + références conversationnelles.
+- Validation: `python scripts/qa_local.py` => GREEN.
+- Capture mise à jour: `browser:/tmp/codex_browser_invocations/37fd62554fa2deab/artifacts/artifacts/v311-sequences.png`.

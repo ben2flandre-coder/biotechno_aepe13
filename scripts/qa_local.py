@@ -118,6 +118,45 @@ for q in questions:
         fails.append(f"[QCM] duplicate question text {qid}")
     qseen.add(q.get('question','').strip().lower())
 
+
+# semantic diversity + banned distractor patterns
+banned_patterns = [
+    "improviser selon l'habitude",
+    'reporter la décision',
+    'ressenti visuel',
+]
+for q in questions:
+    low_choices = ' || '.join(c.lower() for c in q.get('choix', []))
+    for pat in banned_patterns:
+        if pat in low_choices:
+            fails.append(f"[QCM] banned generic distractor pattern in {q.get('id')}: {pat}")
+
+# semantic near-duplicate question audit
+def norm_text(s):
+    import re
+    s = s.lower()
+    s = re.sub(r"[^a-zàâçéèêëîïôûùüÿñæœ0-9\s]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+def trigrams(s):
+    toks = norm_text(s).split()
+    return set(tuple(toks[i:i+3]) for i in range(max(0,len(toks)-2)))
+
+dups = 0
+for i in range(len(questions)):
+    for j in range(i+1, len(questions)):
+        a,b=questions[i],questions[j]
+        if a.get('theme') != b.get('theme'):
+            continue
+        ta,tb=trigrams(a.get('question','')),trigrams(b.get('question',''))
+        if not ta or not tb:
+            continue
+        overlap = len(ta & tb) / max(1, min(len(ta),len(tb)))
+        if overlap > 0.92:
+            dups += 1
+if dups > 30:
+    fails.append(f"[QCM] semantic near-duplicates too high: {dups}")
+
 ent_js = (ROOT/'assets/js/entrainement.js').read_text(encoding='utf-8', errors='ignore')
 if 'localStorage' not in ent_js or 'splice(' not in ent_js:
     fails.append('[QCM session] no evidence of anti-repeat logic in entrainement.js')
@@ -164,6 +203,18 @@ for m in learning + theme_media:
 for s in seqs:
     if len(s.get('media', [])) < 6:
         fails.append(f"[Sequences media] {s.get('id')} has <6 visuals")
+
+# schema model diversity
+models=set()
+for s in seqs:
+    sid=s.get('id','').lower()
+    f=ROOT / f'assets/img/sequences/{sid}-schema-5.svg'
+    if f.exists():
+        txt=f.read_text(encoding='utf-8', errors='ignore')
+        m=re.search(r'model:([a-z_]+)', txt)
+        if m: models.add(m.group(1))
+if len(models) < 8:
+    fails.append(f"[Schemas] model diversity too low ({len(models)})")
 
 print('QA local guardrails summary')
 print(f'- HTML files scanned: {len(HTML_FILES)}')
