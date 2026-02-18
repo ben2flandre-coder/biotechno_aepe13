@@ -141,3 +141,19 @@ Date: 2026-02-17
 13. Images non lazyloadées dans overlays → `loading=lazy` ajouté.
 14. QA ne vérifiait pas auteur crédits → contrôle dédié ajouté.
 15. QA ne vérifiait pas champs media source/licence → contrôles obligatoires ajoutés.
+
+
+## Audit inspection + correction profonde (2026-02-18)
+- Anomalies détectées: accueil orienté roadmap chantier, sections `Diagnostic technique (dev)` exposées, options QCM encore partiellement répétitives, absence de lien séquence direct dans les items.
+- Corrections appliquées:
+  - Accueil refondu en tableau de bord pédagogique (sommaire 15 séquences + accès directs QCM/Diagnostic/Connaissances).
+  - Sections dev supprimées sur pages utilisateur (séquences, connaissances, entraînement, diagnostic, docs médias/stats).
+  - Banque QCM durcie: ajout `lien_sequence`, distracteurs contextualisés par thème, suppression des patterns interdits, variation renforcée des choix.
+  - Feedback enrichi: bouton vers la séquence associée en plus du lien notion.
+  - QA script renforcé: clé `lien_sequence` obligatoire + détection de séries de choix identiques.
+- Métriques mises à jour:
+  - nb questions: 225
+  - doublons exacts questions: 0
+  - doublons exacts séries de choix: 0 (contrôle QA script)
+  - nb médias intégrés: 128
+  - nb schémas uniques (modèles détectés): >= 8

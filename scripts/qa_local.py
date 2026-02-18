@@ -105,7 +105,7 @@ if len(questions) < 180:
 qseen = set()
 for q in questions:
     qid = q.get('id')
-    for k in ['theme','niveau','type','question','choix','reponses','justification','distracteurs_expliques','reference','tags','piege_examen','lien_notions']:
+    for k in ['theme','niveau','type','question','choix','reponses','justification','distracteurs_expliques','reference','tags','piege_examen','lien_notions','lien_sequence']:
         if k not in q:
             fails.append(f"[QCM] {qid} missing key {k}")
     if not isinstance(q.get('choix'), list) or len(q['choix']) < 4:
@@ -119,10 +119,20 @@ for q in questions:
     qseen.add(q.get('question','').strip().lower())
 
 
+
+choice_seen = set()
+for q in questions:
+    sig = tuple(c.strip().lower() for c in q.get('choix', []))
+    if sig in choice_seen:
+        fails.append(f"[QCM] duplicate choice set in {q.get('id')}")
+    choice_seen.add(sig)
+
 # semantic diversity + banned distractor patterns
 banned_patterns = [
     "improviser selon l'habitude",
     'reporter la décision',
+    'reporter le signalement',
+    'reporter le geste',
     'ressenti visuel',
 ]
 for q in questions:

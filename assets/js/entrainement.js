@@ -126,7 +126,7 @@ const HISTORY_KEY = 'aepe_qcm_history_v1';
         </div>
         <div class="feedback-block">
           <h4>Bloc 4 — Aller plus loin</h4>
-          <button class="btn secondary open-notion" data-notion="${notionId}" data-idx="${idx}">Voir la notion associée</button> <a class="btn" href="connaissances.html#notion-${notionId}">Ouvrir dans Connaissances</a>
+          <button class="btn secondary open-notion" data-notion="${notionId}" data-idx="${idx}">Voir la notion associée</button> <a class="btn" href="connaissances.html#notion-${notionId}">Ouvrir dans Connaissances</a> <a class="btn secondary" href="sequences.html#${q.lien_sequence || ''}">Voir la séquence associée</a>
         </div>`;
     });
 
