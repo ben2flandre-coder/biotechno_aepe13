@@ -2,10 +2,24 @@
 <html lang="fr">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Banque médias</title><link rel="stylesheet" href="../assets/css/app.css"></head>
 <body data-base="../" data-page="docs/index.html">
+
+<header class="site-header static-header">
+  <div class="topbar">
+    <div class="brand">
+      <h1>Biotechnologie — CAP AEPE</h1>
+      <p>Bloc 1 / EP3 · Plateforme de formation adulte/pro</p>
+    </div>
+    <div class="logos">
+      <img src="../assets/img/logos/logo-republique.svg" alt="Logo République Française">
+      <img src="../assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+      <img src="../assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+    </div>
+  </div>
+</header>
 <main>
 <section class="card"><h2>Banque médias inspectable</h2><p>Inventaire des médias locaux utilisés par les séquences/capsules.</p></section>
 <section id="mediaList" class="list">
-  <article class="card"><h3>Fallback médias (chargement JS requis pour inventaire complet)</h3>
+  <article class="card"><h3>Fallback médias (inventaire HTML immédiat)</h3>
   <table class="table"><thead><tr><th>Titre</th><th>Thème</th><th>Source</th><th>Licence</th></tr></thead><tbody id="mediaFallbackRows">
 <tr><td>Chaîne contamination</td><td>microbiologie</td><td>Santé publique France</td><td>Usage pédagogique local</td></tr>
 <tr><td>Flore microbienne</td><td>microbiologie</td><td>INRS</td><td>Usage pédagogique local</td></tr>
@@ -68,5 +82,16 @@ const fallbackMedia = [
   root.innerHTML = data.map(m => `<article class="card"><h3>${m.title}</h3><img src="../${m.src}" alt="${m.alt}" style="max-width:260px"><p><strong>Thème:</strong> ${(m.tags||[])[0] || (m.seq || m.type || 'général')}</p><p><strong>Source:</strong> ${m.source || m.credit || 'N/A'}</p><p><strong>Licence:</strong> ${m.licence || 'N/A'}</p></article>`).join('');
 })();
 </script>
+
+<footer class="static-footer">
+  <div class="logos">
+    <img src="../assets/img/logos/logo-republique.svg" alt="Logo République Française">
+    <img src="../assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+    <img src="../assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+  </div>
+  <p><strong>Conception pédagogique & intégration : Benoît Deflandre — 2026</strong></p>
+  <p>Site statique — zéro collecte de données personnelles — compatible GitHub Pages</p>
+</footer>
+
 </body>
 </html>

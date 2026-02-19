@@ -67,3 +67,8 @@ Le script vérifie :
 - QCM avec feedback expert en 4 blocs et boucle pédagogique sans rechargement (retour session inclus).
 - Connaissances: questions associées dynamiques par notion (3–5 IDs).
 - Lisibilité projection renforcée (espacement, taille boutons/textes, contrastes).
+
+
+## Diffusion pro (fallback)
+- Fallback HTML non vide sur pages clés (séquences, connaissances, entraînement, diagnostic, banque médias).
+- Footer hardcodé + logos + crédits visibles sans JS.

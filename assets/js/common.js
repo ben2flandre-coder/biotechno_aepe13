@@ -14,6 +14,8 @@
   const pathTo = (rel) => `${base}${rel}`;
   const logoBase = 'assets/img/logos';
 
+  const hasStaticShell = Boolean(document.querySelector('.static-header') && document.querySelector('.static-footer'));
+
   const header = document.createElement('header');
   header.className = 'site-header';
   header.innerHTML = `<div class="topbar">
@@ -32,7 +34,7 @@
       </div>
     </div>
     <nav class="nav-pills" aria-label="Navigation principale">${links.map(([href, label]) => `<a href="${pathTo(href)}" class="${page === href ? 'active' : ''}">${label}</a>`).join('')}</nav>`;
-  document.body.prepend(header);
+  if (!hasStaticShell) document.body.prepend(header);
 
   const footer = document.createElement('footer');
   footer.innerHTML = `<div class="logos">
@@ -44,7 +46,7 @@
     <p><strong>Conception pédagogique / intégration : Benoît Deflandre — 2026</strong></p>
     <p>Site statique, zéro collecte de données personnelles.</p>
     <p><a href="${pathTo('docs/credits.html')}">Crédits & sources</a> · <a href="${pathTo('docs/banque-medias.html')}">Banque médias</a></p>`;
-  document.body.append(footer);
+  if (!hasStaticShell) document.body.append(footer);
 
   document.getElementById('themeToggle')?.addEventListener('click', () => {
     const dark = document.documentElement.getAttribute('data-theme') === 'dark';

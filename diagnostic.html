@@ -6,6 +6,20 @@
   <link rel="stylesheet" href="assets/css/app.css">
 </head>
 <body data-base="./" data-page="diagnostic.html">
+
+<header class="site-header static-header">
+  <div class="topbar">
+    <div class="brand">
+      <h1>Biotechnologie — CAP AEPE</h1>
+      <p>Bloc 1 / EP3 · Plateforme de formation adulte/pro</p>
+    </div>
+    <div class="logos">
+      <img src="./assets/img/logos/logo-republique.svg" alt="Logo République Française">
+      <img src="./assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+      <img src="./assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+    </div>
+  </div>
+</header>
 <main>
   <section class="card">
     <h2>Diagnostic compétences (Likert)</h2>
@@ -19,9 +33,23 @@
     <div id="diagZone"></div>
   </section>
   <section class="card" id="diagResult"></section>
+
+<section class="card" id="fallbackDiagnostic"><h3>Fallback diagnostic (sans JS)</h3><ol><li>Item 1 — autoévaluation compétence en contexte EAJE.</li><li>Item 2 — autoévaluation compétence en contexte EAJE.</li><li>Item 3 — autoévaluation compétence en contexte EAJE.</li><li>Item 4 — autoévaluation compétence en contexte EAJE.</li><li>Item 5 — autoévaluation compétence en contexte EAJE.</li><li>Item 6 — autoévaluation compétence en contexte EAJE.</li><li>Item 7 — autoévaluation compétence en contexte EAJE.</li><li>Item 8 — autoévaluation compétence en contexte EAJE.</li><li>Item 9 — autoévaluation compétence en contexte EAJE.</li><li>Item 10 — autoévaluation compétence en contexte EAJE.</li></ol></section>
+
 </main>
 <script src="assets/js/common.js"></script>
 <script src="assets/js/loaders.js"></script>
 <script src="assets/js/diagnostic.js"></script>
+
+<footer class="static-footer">
+  <div class="logos">
+    <img src="./assets/img/logos/logo-republique.svg" alt="Logo République Française">
+    <img src="./assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+    <img src="./assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+  </div>
+  <p><strong>Conception pédagogique & intégration : Benoît Deflandre — 2026</strong></p>
+  <p>Site statique — zéro collecte de données personnelles — compatible GitHub Pages</p>
+</footer>
+
 </body>
 </html>

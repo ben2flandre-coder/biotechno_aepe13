@@ -190,3 +190,9 @@ Date: 2026-02-17
 - Accueil validé en mode dashboard sans aucun marqueur phase/roadmap/non-active ; CTA et blocs classe/conformité présents.
 - Banque médias: fallback HTML pré-rempli (20 lignes visibles sans JS: Titre/Thème/Source/Licence).
 - Footer global vérifié (logos + mention Benoît Deflandre 2026 + zéro collecte) sur plusieurs pages clés.
+
+
+## Poncage diffusion GitHub Pages (2026-02-19)
+- Audit: pages rendues utiles sans JS (fallbacks ajoutés sur séquences/connaissances/QCM/diagnostic + banque médias non vide).
+- Root cause: dépendance forte à l’injection JS et footer non garanti en HTML brut.
+- Prévention: check-list systématique avant diffusion (fallback non vide, logos/crédits visibles, fetch relatifs, QA local GREEN).

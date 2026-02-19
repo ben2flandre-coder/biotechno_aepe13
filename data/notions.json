@@ -55,7 +55,24 @@
         "theme-hygiene-a",
         "theme-hygiene-b"
       ],
-      "microprotocole_visuel": "theme-hygiene-a"
+      "microprotocole_visuel": "theme-hygiene-a",
+      "summary": "Définition opérationnelle de Hygiène des mains: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Hygiène des mains: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Hygiène des mains est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Hygiène des mains survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-hygiene-a",
+        "theme-hygiene-b"
+      ]
     },
     {
       "id": "N02",
@@ -112,7 +129,24 @@
         "theme-securite-a",
         "theme-securite-b"
       ],
-      "microprotocole_visuel": "theme-securite-a"
+      "microprotocole_visuel": "theme-securite-a",
+      "summary": "Définition opérationnelle de Bionettoyage: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Bionettoyage: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Bionettoyage est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Bionettoyage survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-securite-a",
+        "theme-securite-b"
+      ]
     },
     {
       "id": "N03",
@@ -169,7 +203,24 @@
         "theme-sante-a",
         "theme-sante-b"
       ],
-      "microprotocole_visuel": "theme-sante-a"
+      "microprotocole_visuel": "theme-sante-a",
+      "summary": "Définition opérationnelle de Gestion du change: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Gestion du change: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Gestion du change est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Gestion du change survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-sante-a",
+        "theme-sante-b"
+      ]
     },
     {
       "id": "N04",
@@ -226,7 +277,24 @@
         "theme-microbio-a",
         "theme-microbio-b"
       ],
-      "microprotocole_visuel": "theme-microbio-a"
+      "microprotocole_visuel": "theme-microbio-a",
+      "summary": "Définition opérationnelle de Chaîne de contamination: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Chaîne de contamination: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Chaîne de contamination est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Chaîne de contamination survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-microbio-a",
+        "theme-microbio-b"
+      ]
     },
     {
       "id": "N05",
@@ -283,7 +351,24 @@
         "theme-produits-a",
         "theme-produits-b"
       ],
-      "microprotocole_visuel": "theme-produits-a"
+      "microprotocole_visuel": "theme-produits-a",
+      "summary": "Définition opérationnelle de EPI/EPC: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de EPI/EPC: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, EPI/EPC est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à EPI/EPC survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-produits-a",
+        "theme-produits-b"
+      ]
     },
     {
       "id": "N06",
@@ -340,7 +425,24 @@
         "theme-linge-a",
         "theme-linge-b"
       ],
-      "microprotocole_visuel": "theme-linge-a"
+      "microprotocole_visuel": "theme-linge-a",
+      "summary": "Définition opérationnelle de Produits et dilution: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Produits et dilution: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Produits et dilution est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Produits et dilution survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-linge-a",
+        "theme-linge-b"
+      ]
     },
     {
       "id": "N07",
@@ -397,7 +499,24 @@
         "theme-locaux-a",
         "theme-locaux-b"
       ],
-      "microprotocole_visuel": "theme-locaux-a"
+      "microprotocole_visuel": "theme-locaux-a",
+      "summary": "Définition opérationnelle de Circuit linge propre/sale: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Circuit linge propre/sale: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Circuit linge propre/sale est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Circuit linge propre/sale survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-locaux-a",
+        "theme-locaux-b"
+      ]
     },
     {
       "id": "N08",
@@ -454,7 +573,24 @@
         "theme-risques-a",
         "theme-risques-b"
       ],
-      "microprotocole_visuel": "theme-risques-a"
+      "microprotocole_visuel": "theme-risques-a",
+      "summary": "Définition opérationnelle de Gestion AES: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Gestion AES: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Gestion AES est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Gestion AES survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-risques-a",
+        "theme-risques-b"
+      ]
     },
     {
       "id": "N09",
@@ -511,7 +647,24 @@
         "theme-qualite-a",
         "theme-qualite-b"
       ],
-      "microprotocole_visuel": "theme-qualite-a"
+      "microprotocole_visuel": "theme-qualite-a",
+      "summary": "Définition opérationnelle de Gestion vomissements/diarrhée: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Gestion vomissements/diarrhée: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Gestion vomissements/diarrhée est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Gestion vomissements/diarrhée survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-qualite-a",
+        "theme-qualite-b"
+      ]
     },
     {
       "id": "N10",
@@ -568,7 +721,24 @@
         "theme-hygiene-a",
         "theme-hygiene-b"
       ],
-      "microprotocole_visuel": "theme-hygiene-a"
+      "microprotocole_visuel": "theme-hygiene-a",
+      "summary": "Définition opérationnelle de Traçabilité qualité: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Traçabilité qualité: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Traçabilité qualité est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Traçabilité qualité survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-hygiene-a",
+        "theme-hygiene-b"
+      ]
     },
     {
       "id": "N11",
@@ -625,7 +795,24 @@
         "theme-securite-a",
         "theme-securite-b"
       ],
-      "microprotocole_visuel": "theme-securite-a"
+      "microprotocole_visuel": "theme-securite-a",
+      "summary": "Définition opérationnelle de Prévention risque chimique: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Prévention risque chimique: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Prévention risque chimique est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Prévention risque chimique survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-securite-a",
+        "theme-securite-b"
+      ]
     },
     {
       "id": "N12",
@@ -682,7 +869,687 @@
         "theme-sante-a",
         "theme-sante-b"
       ],
-      "microprotocole_visuel": "theme-sante-a"
+      "microprotocole_visuel": "theme-sante-a",
+      "summary": "Définition opérationnelle de Prévention risque biologique: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE.",
+      "content": "Définition opérationnelle de Prévention risque biologique: ensemble de décisions et gestes contrôlables applicables immédiatement en EAJE. En EAJE, Prévention risque biologique est critique car une erreur peut exposer simultanément plusieurs enfants et professionnels.",
+      "pitfalls": [
+        "Confondre rapidité et efficacité.",
+        "Appliquer un geste sans vérifier les conditions de validité.",
+        "Oublier la traçabilité et la preuve attendue en EP3."
+      ],
+      "examplesEAJE": [
+        "Mini-cas: pendant une activité, un incident lié à Prévention risque biologique survient. Le groupe doit proposer 2 options et justifier la plus sûre."
+      ],
+      "refs": [
+        "Référentiel CAP AEPE Bloc 1 / EP3"
+      ],
+      "mediaIds": [
+        "theme-sante-a",
+        "theme-sante-b"
+      ]
+    },
+    {
+      "id": "N13",
+      "title": "Notion professionnelle N13",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N13 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N13 pour révision rapide.",
+      "content": "Contenu détaillé N13 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N14",
+      "title": "Notion professionnelle N14",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N14 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N14 pour révision rapide.",
+      "content": "Contenu détaillé N14 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N15",
+      "title": "Notion professionnelle N15",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N15 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N15 pour révision rapide.",
+      "content": "Contenu détaillé N15 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N16",
+      "title": "Notion professionnelle N16",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N16 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N16 pour révision rapide.",
+      "content": "Contenu détaillé N16 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N17",
+      "title": "Notion professionnelle N17",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N17 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N17 pour révision rapide.",
+      "content": "Contenu détaillé N17 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N18",
+      "title": "Notion professionnelle N18",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N18 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N18 pour révision rapide.",
+      "content": "Contenu détaillé N18 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N19",
+      "title": "Notion professionnelle N19",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N19 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N19 pour révision rapide.",
+      "content": "Contenu détaillé N19 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N20",
+      "title": "Notion professionnelle N20",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N20 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N20 pour révision rapide.",
+      "content": "Contenu détaillé N20 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N21",
+      "title": "Notion professionnelle N21",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N21 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N21 pour révision rapide.",
+      "content": "Contenu détaillé N21 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N22",
+      "title": "Notion professionnelle N22",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N22 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N22 pour révision rapide.",
+      "content": "Contenu détaillé N22 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N23",
+      "title": "Notion professionnelle N23",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N23 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N23 pour révision rapide.",
+      "content": "Contenu détaillé N23 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N24",
+      "title": "Notion professionnelle N24",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N24 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N24 pour révision rapide.",
+      "content": "Contenu détaillé N24 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
+    },
+    {
+      "id": "N25",
+      "title": "Notion professionnelle N25",
+      "domain": "pratiques-professionnelles",
+      "definition_operationnelle": "Définition opérationnelle N25 appliquée en EAJE.",
+      "criticite_eaje": "Impact direct sur la sécurité, la conformité et la qualité de prise en charge.",
+      "erreurs_frequentes_cap": [
+        "Sous-estimer la traçabilité",
+        "Confondre rapidité et conformité"
+      ],
+      "checklist_controle": [
+        "Préparer",
+        "Appliquer",
+        "Contrôler",
+        "Tracer"
+      ],
+      "mini_cas_terrain": "Situation type en section avec contrainte de temps et effectif réduit.",
+      "tableau_comparatif": [
+        [
+          "Option",
+          "Avantage",
+          "Risque"
+        ],
+        [
+          "A",
+          "Rapide",
+          "Risque résiduel élevé"
+        ],
+        [
+          "B",
+          "Conforme",
+          "Traçabilité solide"
+        ]
+      ],
+      "schemas_theme": [],
+      "summary": "Résumé N25 pour révision rapide.",
+      "content": "Contenu détaillé N25 pour animation formateur (2–3h).",
+      "pitfalls": [
+        "Erreur de priorisation",
+        "Contrôle final oublié"
+      ],
+      "examplesEAJE": [
+        "Exemple change",
+        "Exemple collation"
+      ],
+      "refs": [
+        "Référentiel CAP AEPE",
+        "INRS"
+      ],
+      "mediaIds": []
     }
   ],
   "glossaire": [

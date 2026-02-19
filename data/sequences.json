@@ -276,7 +276,28 @@
         "sourcesCount": 6,
         "format": "déconstruction d’erreur",
         "complexityLevel": "initiation"
-      }
+      },
+      "objectifs": [
+        "Comprendre Maîtriser le risque de chute et la logique de signalement",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La chute survient quand la force de cisaillement demandée par la foulée dépasse la force de friction disponible. La présence d’un film aqueux abaisse brutalement la friction, surtout sur revêtement lisse.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte salle motricité."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en salle motricité pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S02",
@@ -554,7 +575,28 @@
         "sourcesCount": 6,
         "format": "démonstration mécaniste",
         "complexityLevel": "consolidation"
-      }
+      },
+      "objectifs": [
+        "Comprendre Prévenir les incompatibilités chimiques au poste de change",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "Le mélange crème grasse + désinfectant peut neutraliser l’activité biocide, modifier le pH et laisser un film occlusif qui retient la charge microbienne.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte espace change."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en espace change pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S03",
@@ -832,7 +874,28 @@
         "sourcesCount": 6,
         "format": "simulation décisionnelle",
         "complexityLevel": "application guidée"
-      }
+      },
+      "objectifs": [
+        "Comprendre Sécuriser l’usage des EPI lors d’un atelier peinture",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La hiérarchie des protections impose d’abord suppression/substitution du danger, puis protection collective, puis individuelle. Un EPI mal choisi déplace le risque au lieu de le réduire.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte atelier peinture."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en atelier peinture pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S04",
@@ -1110,7 +1173,28 @@
         "sourcesCount": 6,
         "format": "étude de cas approfondie",
         "complexityLevel": "application autonome"
-      }
+      },
+      "objectifs": [
+        "Comprendre Garantir la chaîne chaud/froid au coin repas",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La croissance bactérienne suit une cinétique exponentielle dans la zone de danger thermique ; chaque minute hors plage sûre augmente la charge viable.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte coin repas."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en coin repas pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S05",
@@ -1388,7 +1472,28 @@
         "sourcesCount": 6,
         "format": "analyse comparative",
         "complexityLevel": "arbitrage avancé"
-      }
+      },
+      "objectifs": [
+        "Comprendre Organiser un circuit linge propre/sale robuste",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "L’inversion propre/sale crée des recontaminations croisées ; le lavage ne corrige pas totalement une contamination massive initiale.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte lingerie."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en lingerie pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S06",
@@ -1666,7 +1771,28 @@
         "sourcesCount": 6,
         "format": "matrice multicritère",
         "complexityLevel": "analyse multicritère"
-      }
+      },
+      "objectifs": [
+        "Comprendre Assainir un bac à sable contaminé sans fermer l’accueil",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La contamination fécale du sable persiste en profondeur ; l’humidité protège les micro-organismes et favorise leur survie.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte extérieur."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en extérieur pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S07",
@@ -1944,7 +2070,28 @@
         "sourcesCount": 6,
         "format": "déconstruction d’erreur",
         "complexityLevel": "priorisation sous contrainte"
-      }
+      },
+      "objectifs": [
+        "Comprendre Tracer et isoler le linge mal identifié en période sieste",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "Le linge mal identifié augmente les manipulations et favorise la contamination croisée via transferts mains-textile-surfaces.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte espace sieste."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en espace sieste pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S08",
@@ -2222,7 +2369,28 @@
         "sourcesCount": 6,
         "format": "analyse comparative",
         "complexityLevel": "gestion d’incident complexe"
-      }
+      },
+      "objectifs": [
+        "Comprendre Mettre en conformité le stockage produits au bureau direction",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "Le risque chimique combine exposition, incompatibilité et erreur humaine ; l’organisation spatiale est un levier majeur de réduction du danger.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte bureau direction."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en bureau direction pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S09",
@@ -2500,7 +2668,28 @@
         "sourcesCount": 6,
         "format": "démonstration mécaniste",
         "complexityLevel": "traçabilité experte"
-      }
+      },
+      "objectifs": [
+        "Comprendre Corriger une dilution incorrecte en réserve",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "Selon la loi d’action de masse, l’efficacité varie avec la concentration active ; la relation n’est pas linéaire et peut décroître si surdosage génère résidus.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte réserve entretien."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en réserve entretien pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S10",
@@ -2778,7 +2967,28 @@
         "sourcesCount": 6,
         "format": "simulation décisionnelle",
         "complexityLevel": "coordination inter-métiers"
-      }
+      },
+      "objectifs": [
+        "Comprendre Arbitrer sous pression parentale en micro-crèche privée",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La pression sociale modifie la décision professionnelle via biais de conformité ; sans garde-fou protocolaire, le risque sanitaire augmente.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte micro-crèche privée."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en micro-crèche privée pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S11",
@@ -3056,7 +3266,28 @@
         "sourcesCount": 6,
         "format": "matrice multicritère",
         "complexityLevel": "décision en incertitude"
-      }
+      },
+      "objectifs": [
+        "Comprendre Gérer la cohabitation des risques en accueil multi-âge",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La cohabitation multiplie les interfaces de transmission ; la maîtrise dépend de la segmentation des flux et de l’homogénéité des gestes d’équipe.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte accueil multi-âge."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en accueil multi-âge pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S12",
@@ -3334,7 +3565,28 @@
         "sourcesCount": 6,
         "format": "étude de cas approfondie",
         "complexityLevel": "gestion d’évènement combiné"
-      }
+      },
+      "objectifs": [
+        "Comprendre Réduire les ruptures de protocole en halte-garderie",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "La rotation rapide augmente le risque d’omissions ; la fiabilité dépend d’une standardisation courte mais stricte des étapes.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte halte-garderie."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en halte-garderie pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S13",
@@ -3612,7 +3864,28 @@
         "sourcesCount": 6,
         "format": "analyse comparative",
         "complexityLevel": "pilotage qualité"
-      }
+      },
+      "objectifs": [
+        "Comprendre Formaliser un protocole écrit au domicile d’assistante maternelle",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "L’absence d’écrit augmente la variabilité intra-opérateur et diminue la reproductibilité des gestes critiques.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte domicile assistante maternelle."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en domicile assistante maternelle pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S14",
@@ -3890,7 +4163,28 @@
         "sourcesCount": 6,
         "format": "simulation décisionnelle",
         "complexityLevel": "anticipation des écarts"
-      }
+      },
+      "objectifs": [
+        "Comprendre Compléter la trousse hygiène en sortie extérieure",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "En mobilité, le risque augmente avec la distance aux ressources ; la préparation matérielle conditionne la capacité de réponse immédiate.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte sortie extérieure."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en sortie extérieure pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     },
     {
       "id": "S15",
@@ -4168,7 +4462,28 @@
         "sourcesCount": 6,
         "format": "démonstration mécaniste",
         "complexityLevel": "niveau expert formateur"
-      }
+      },
+      "objectifs": [
+        "Comprendre Désinfecter le matériel d’atelier psychomoteur",
+        "Appliquer un protocole terrain",
+        "Tracer et justifier la décision"
+      ],
+      "essentielScientifique": "Le biofilm et les microfissures protègent les micro-organismes ; l’efficacité dépend de la séquence nettoyage puis désinfection puis séchage.",
+      "protocoleTerrain": "Préparer → agir → contrôler → tracer.",
+      "erreursFrequentes": [
+        "Erreur fréquente candidat CAP : décrire le geste sans relier variables scientifiques et preuve observable dans le contexte atelier psychomoteur."
+      ],
+      "pointInspection": "Piège EP3 + preuve attendue : l’examinateur cherche la cohérence entre analyse du risque, choix d’option, protocole appliqué et trace écrite contrôlable.",
+      "casPro": "Cas groupe : second incident en atelier psychomoteur pendant que l’équipe est incomplète. Les stagiaires doivent choisir entre A/B/C et défendre la décision.",
+      "miniQuizIds": [],
+      "refs": [
+        "Référentiel CAP AEPE — Bloc 1 (accompagnement du développement de l’enfant)",
+        "Guide EP3 CAP AEPE — critères d’observation en situation professionnelle",
+        "INRS ED 6347 — Produits chimiques : lecture étiquette et FDS",
+        "INRS ED 105 — Hygiène des mains et prévention du risque biologique",
+        "Santé publique France — Prévention des infections en collectivités de jeunes enfants",
+        "HCSP — Recommandations d’hygiène en établissements accueillant des mineurs"
+      ]
     }
   ]
 }
