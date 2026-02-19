@@ -43,8 +43,8 @@
       <img src="${pathTo(`${logoBase}/logo-academie-nice.svg`)}" alt="Logo Académie de Nice">
     </div>
     <p><strong>Biotechnologie CAP AEPE</strong> — Formation professionnelle (Bloc 1 / EP3).</p>
-    <p><strong>Conception pédagogique / intégration : Benoît Deflandre — 2026</strong></p>
-    <p>Site statique, zéro collecte de données personnelles.</p>
+    <p><strong>Conception pédagogique & intégration : Benoît Deflandre — 2026</strong></p>
+    <p>Zéro collecte de données personnelles — GitHub Pages</p>
     <p><a href="${pathTo('docs/credits.html')}">Crédits & sources</a> · <a href="${pathTo('docs/banque-medias.html')}">Banque médias</a></p>`;
   if (!hasStaticShell) document.body.append(footer);
 

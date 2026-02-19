@@ -202,3 +202,14 @@ Date: 2026-02-17
 - Métriques: notions=25, QCM=225, médias=128, séquences=15, champs QCM enrichis (`domain/sequenceId/notionIds/q/options/answerIndex/explain/whyNot/refs`).
 - Doublons supprimés: 0 doublon exact question + 0 doublon exact set options (contrôle QA script).
 - Validation: 0 page vide en fallback HTML, 0 404 assets/data sur smoke local, debug masqué hors `?dev=1`.
+
+
+## Correctif wording diffusion (2026-02-19)
+- Texte accueil ajusté pour supprimer toute ambiguïté de libellé “bouton )”.
+- Mentions footer uniformisées partout: “Conception pédagogique & intégration : Benoît Deflandre — 2026” et “Zéro collecte de données personnelles — GitHub Pages”.
+- Vérification: pages cœur non vides sans JS + QA GREEN.
+
+## Correctif HTML crédits (2026-02-19)
+- Correction d’un bloc `<ul>` mal fermé dans `docs/credits.html` (structure HTML valide en inspection statique).
+- Impact: amélioration de la robustesse no-JS et suppression d’un risque d’affichage incohérent selon navigateur.
+- Vérification: QA local GREEN + page `docs/credits.html` servie en HTTP 200.
