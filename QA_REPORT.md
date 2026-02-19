@@ -184,3 +184,9 @@ Date: 2026-02-17
 - Fixes appliqués: dashboard accueil finalisé, fallback HTML séquences (15 entrées), fallback banque médias (20 entrées min) et footer harmonisé.
 - Stabilité: debug masqué en prod (mode `?dev=1` uniquement), aucun marqueur phase/roadmap/dev visible.
 - Validation OK: pages clés non vides + QA GREEN + smoke local sans erreurs bloquantes.
+
+
+## Correctif ciblé diffusion pro (2026-02-19)
+- Accueil validé en mode dashboard sans aucun marqueur phase/roadmap/non-active ; CTA et blocs classe/conformité présents.
+- Banque médias: fallback HTML pré-rempli (20 lignes visibles sans JS: Titre/Thème/Source/Licence).
+- Footer global vérifié (logos + mention Benoît Deflandre 2026 + zéro collecte) sur plusieurs pages clés.
