@@ -48,7 +48,7 @@ const HISTORY_KEY = 'aepe_qcm_history_v1';
     zone.innerHTML = current.map((q, idx) => {
       const multiple = q.type === 'QCM';
       return `<div class="card q-item" data-idx="${idx}" id="q-${idx}">
-        <p><strong>${idx + 1}. ${q.question}</strong></p>
+        <p><strong>${idx + 1}. ${q.q || q.question}</strong></p>
         <p><span class="badge">${q.theme}</span><span class="badge">Niveau ${q.niveau}</span><span class="badge">${q.type}</span></p>
         ${(q.choix || []).map((o, oi) => `<label><input type="${multiple ? 'checkbox' : 'radio'}" name="q${idx}" value="${oi}"> ${o}</label><br>`).join('')}
         <div class="explain"></div>
@@ -107,22 +107,25 @@ const HISTORY_KEY = 'aepe_qcm_history_v1';
       if (good) ok++;
 
       const notionId = (q.lien_notions || [])[0];
-      const wrongIdx = (q.choix || []).map((_, i) => i).filter((i) => !(q.reponses || []).includes(i));
+      const options = q.options || q.choix || [];
+      const answers = (q.reponses && q.reponses.length) ? q.reponses : [q.answerIndex || 0];
+      const wrongIdx = options.map((_, i) => i).filter((i) => !answers.includes(i));
       const distracteurs = wrongIdx.map((i) => {
         const d = q.distracteurs_expliques || {};
-        const explanation = d[String(i)] || d[String(i + 1)] ||
+        const why = q.whyNot || [];
+        const explanation = why[i] || d[String(i)] || d[String(i + 1)] ||
           `Cette option paraît plausible, mais elle n’assure pas simultanément sécurité, conformité EP3 et traçabilité professionnelle.`;
-        return `<li><strong>❌ ${i + 1}. ${(q.choix || [])[i] || ''}</strong><br>${explanation}</li>`;
+        return `<li><strong>❌ ${i + 1}. ${options[i] || ''}</strong><br>${explanation}</li>`;
       }).join('');
 
       exp.innerHTML = `<div class="feedback-block">
           <h4>Bloc 1 — Réponse correcte</h4>
-          <p><strong>${good ? '✅ Correct' : '❌ Incorrect'}</strong> · Bonne(s) réponse(s): ${(q.reponses || []).map((x) => x + 1).join(', ')}</p>
+          <p><strong>${good ? '✅ Correct' : '❌ Incorrect'}</strong> · Bonne(s) réponse(s): ${((q.reponses && q.reponses.length ? q.reponses : [q.answerIndex || 0]).map((x) => x + 1).join(', '))}</p>
           <p>Principe réglementaire: action sécurisée, protocole validé et traçabilité obligatoire en contexte CAP AEPE.</p>
         </div>
         <div class="feedback-block">
           <h4>✅ Justification — pourquoi c’est correct</h4>
-          ${softParagraphs(q.justification)}
+          ${softParagraphs(q.explain || q.justification)}
           <p><strong>Lien EP3:</strong> cohérence analyse → action → preuve en situation EAJE.</p>
           <p><strong>🎯 Compétence mobilisée :</strong> ${q.competence_mobilisee || 'Décider une action conforme, argumentée et traçable en contexte EAJE.'}</p>
         </div>

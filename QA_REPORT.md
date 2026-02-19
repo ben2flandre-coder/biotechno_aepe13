@@ -196,3 +196,9 @@ Date: 2026-02-17
 - Audit: pages rendues utiles sans JS (fallbacks ajoutés sur séquences/connaissances/QCM/diagnostic + banque médias non vide).
 - Root cause: dépendance forte à l’injection JS et footer non garanti en HTML brut.
 - Prévention: check-list systématique avant diffusion (fallback non vide, logos/crédits visibles, fetch relatifs, QA local GREEN).
+
+
+## QA blocant final (2026-02-19)
+- Métriques: notions=25, QCM=225, médias=128, séquences=15, champs QCM enrichis (`domain/sequenceId/notionIds/q/options/answerIndex/explain/whyNot/refs`).
+- Doublons supprimés: 0 doublon exact question + 0 doublon exact set options (contrôle QA script).
+- Validation: 0 page vide en fallback HTML, 0 404 assets/data sur smoke local, debug masqué hors `?dev=1`.
