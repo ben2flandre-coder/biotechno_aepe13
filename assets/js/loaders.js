@@ -6,6 +6,8 @@ function dataPath(path) {
 
 async function loadData(path, key, fallback) {
   const diagnostics = document.getElementById('techDiagnostics');
+  const devMode = new URLSearchParams(location.search).get('dev') === '1';
+  if (diagnostics && !devMode) diagnostics.closest('section')?.remove();
   const url = dataPath(path);
   try {
     const res = await fetch(url);
@@ -16,11 +18,11 @@ async function loadData(path, key, fallback) {
       : (Array.isArray(data?.[key]) ? data[key] : (Array.isArray(data?.items) ? data.items : null));
 
     if (!extracted || extracted.length === 0) throw new Error('JSON vide ou structure invalide');
-    diagnostics?.insertAdjacentHTML('beforeend', `<li>✅ ${path} chargé (${extracted.length} entrées)</li>`);
+    if (devMode) diagnostics?.insertAdjacentHTML('beforeend', `<li>✅ ${path} chargé (${extracted.length} entrées)</li>`);
     return extracted;
   } catch (err) {
     console.error(`Erreur chargement ${path} (${url}):`, err);
-    diagnostics?.insertAdjacentHTML('beforeend', `<li>⚠️ Échec fetch URL: <code>${url}</code> (${err.message})</li>`);
+    if (devMode) diagnostics?.insertAdjacentHTML('beforeend', `<li>⚠️ Échec fetch URL: <code>${url}</code> (${err.message})</li>`);
     return fallback;
   }
 }

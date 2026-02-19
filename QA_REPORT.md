@@ -178,3 +178,9 @@ Date: 2026-02-17
 - Capsules: ajout de 3 blocs opérationnels sur chaque fiche ouverte (`Application terrain EAJE`, `Erreur fréquente`, `Point inspection / conformité`) sans refonte structurelle.
 - Logos & crédits: mention footer renforcée `Conception pédagogique et intégration : Benoît Deflandre`.
 - Stabilité: vérification absence 404 front (smoke local), absence doublons JSON QCM, et QA script GREEN.
+
+
+## Diffusion pro — contrôle final (2026-02-18)
+- Fixes appliqués: dashboard accueil finalisé, fallback HTML séquences (15 entrées), fallback banque médias (20 entrées min) et footer harmonisé.
+- Stabilité: debug masqué en prod (mode `?dev=1` uniquement), aucun marqueur phase/roadmap/dev visible.
+- Validation OK: pages clés non vides + QA GREEN + smoke local sans erreurs bloquantes.
