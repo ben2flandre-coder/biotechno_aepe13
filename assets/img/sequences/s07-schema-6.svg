@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:biais_decision; seq:S07 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S07 — schéma thématique (biais_decision) — Tracer et isoler le linge mal identifié en période sieste</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Espace sieste · Incident: linge mal identifié</text>
+<text x="70" y="170" font-size="16">Chaîne contamination microbio</text>
+<rect x="80" y="230" width="170" height="90" fill="#fee2e2"/><text x="95" y="280" font-size="14">Réservoir</text>
+<rect x="300" y="230" width="170" height="90" fill="#fecaca"/><text x="315" y="280" font-size="14">Porte de sortie</text>
+<rect x="520" y="230" width="170" height="90" fill="#fca5a5"/><text x="535" y="280" font-size="14">Transmission</text>
+<rect x="740" y="230" width="170" height="90" fill="#f87171"/><text x="755" y="280" font-size="14">Hôte</text>
+</svg>

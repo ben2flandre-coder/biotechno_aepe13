@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:barriere_epi; seq:S09 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S09 — schéma thématique (barriere_epi) — Corriger une dilution incorrecte en réserve</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Réserve entretien · Incident: dilution incorrecte</text>
+<text x="70" y="170" font-size="16">Barrières EPI/EPC</text>
+<rect x="100" y="230" width="220" height="110" fill="#dbeafe"/><text x="120" y="290" font-size="14">Suppression/Substitution</text>
+<rect x="370" y="230" width="220" height="110" fill="#dcfce7"/><text x="390" y="290" font-size="14">Protection collective</text>
+<rect x="640" y="230" width="220" height="110" fill="#fef3c7"/><text x="660" y="290" font-size="14">Protection individuelle</text>
+</svg>

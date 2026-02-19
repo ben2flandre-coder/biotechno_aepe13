@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Banque médias</title><link rel="stylesheet" href="../assets/css/app.css"></head>
+<body data-base="../" data-page="docs/index.html">
+
+<header class="site-header static-header">
+  <div class="topbar">
+    <div class="brand">
+      <h1>Biotechnologie — CAP AEPE</h1>
+      <p>Bloc 1 / EP3 · Plateforme de formation adulte/pro</p>
+    </div>
+    <div class="logos">
+      <img src="../assets/img/logos/logo-republique.svg" alt="Logo République Française">
+      <img src="../assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+      <img src="../assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+    </div>
+  </div>
+</header>
+<main>
+<section class="card"><h2>Banque médias inspectable</h2><p>Inventaire des médias locaux utilisés par les séquences/capsules.</p></section>
+<section id="mediaList" class="list">
+  <article class="card"><h3>Fallback médias (inventaire HTML immédiat)</h3>
+  <table class="table"><thead><tr><th>Titre</th><th>Thème</th><th>Source</th><th>Licence</th></tr></thead><tbody id="mediaFallbackRows">
+<tr><td>Chaîne contamination</td><td>microbiologie</td><td>Santé publique France</td><td>Usage pédagogique local</td></tr>
+<tr><td>Flore microbienne</td><td>microbiologie</td><td>INRS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Schéma contamination surfaces</td><td>microbiologie</td><td>CPIAS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Hygiène des mains</td><td>hygiene</td><td>Ministère de la Santé</td><td>Usage pédagogique local</td></tr>
+<tr><td>Circuit linge propre/sale</td><td>linge</td><td>INRS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Zonage locaux</td><td>locaux</td><td>CPIAS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Dilution désinfectant</td><td>produits</td><td>INRS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Temps de contact</td><td>produits</td><td>ANSES</td><td>Usage pédagogique local</td></tr>
+<tr><td>Barrière EPI</td><td>securite</td><td>INRS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Arbitrage EP3</td><td>qualite</td><td>Éducation nationale</td><td>Usage pédagogique local</td></tr>
+<tr><td>Protocole bionettoyage</td><td>locaux</td><td>CPIAS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Transmission manuportée</td><td>microbiologie</td><td>Santé publique France</td><td>Usage pédagogique local</td></tr>
+<tr><td>AES conduite à tenir</td><td>sante</td><td>Ministère de la Santé</td><td>Usage pédagogique local</td></tr>
+<tr><td>Collation sécurisée</td><td>alimentaire</td><td>ANSES</td><td>Usage pédagogique local</td></tr>
+<tr><td>Température alimentaire</td><td>alimentaire</td><td>DGAL</td><td>Usage pédagogique local</td></tr>
+<tr><td>Traçabilité qualité</td><td>qualite</td><td>HAS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Matrice gravité/probabilité</td><td>risques</td><td>INRS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Hiérarchisation priorités</td><td>qualite</td><td>INRS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Boucle qualité</td><td>qualite</td><td>HAS</td><td>Usage pédagogique local</td></tr>
+<tr><td>Cartographie zones</td><td>locaux</td><td>CPIAS</td><td>Usage pédagogique local</td></tr>
+</tbody></table></article>
+</section>
+</main>
+<script src="../assets/js/common.js"></script>
+<script src="../assets/js/loaders.js"></script>
+<script>
+const fallbackMedia = [
+  ['Chaîne contamination','microbiologie','Santé publique France','Usage pédagogique local'],
+  ['Flore microbienne','microbiologie','INRS','Usage pédagogique local'],
+  ['Schéma contamination surfaces','microbiologie','CPIAS','Usage pédagogique local'],
+  ['Hygiène des mains','hygiene','Ministère de la Santé','Usage pédagogique local'],
+  ['Circuit linge propre/sale','linge','INRS','Usage pédagogique local'],
+  ['Zonage locaux','locaux','CPIAS','Usage pédagogique local'],
+  ['Dilution désinfectant','produits','INRS','Usage pédagogique local'],
+  ['Temps de contact','produits','ANSES','Usage pédagogique local'],
+  ['Barrière EPI','securite','INRS','Usage pédagogique local'],
+  ['Arbitrage EP3','qualite','Éducation nationale','Usage pédagogique local'],
+  ['Protocole bionettoyage','locaux','CPIAS','Usage pédagogique local'],
+  ['Transmission manuportée','microbiologie','Santé publique France','Usage pédagogique local'],
+  ['AES conduite à tenir','sante','Ministère de la Santé','Usage pédagogique local'],
+  ['Collation sécurisée','alimentaire','ANSES','Usage pédagogique local'],
+  ['Température alimentaire','alimentaire','DGAL','Usage pédagogique local'],
+  ['Traçabilité qualité','qualite','HAS','Usage pédagogique local'],
+  ['Matrice gravité/probabilité','risques','INRS','Usage pédagogique local'],
+  ['Hiérarchisation priorités','qualite','INRS','Usage pédagogique local'],
+  ['Boucle qualité','qualite','HAS','Usage pédagogique local'],
+  ['Cartographie zones','locaux','CPIAS','Usage pédagogique local']
+];
+
+(function renderFallback(){
+  const body = document.getElementById('mediaFallbackRows');
+  body.innerHTML = fallbackMedia.map((m)=>`<tr><td>${m[0]}</td><td>${m[1]}</td><td>${m[2]}</td><td>${m[3]}</td></tr>`).join('');
+})();
+
+(async function(){
+  const data = await loadData('../data/media.json','media',[]);
+  const root = document.getElementById('mediaList');
+  if (!Array.isArray(data) || data.length === 0) return;
+  root.innerHTML = data.map(m => `<article class="card"><h3>${m.title}</h3><img src="../${m.src}" alt="${m.alt}" style="max-width:260px"><p><strong>Thème:</strong> ${(m.tags||[])[0] || (m.seq || m.type || 'général')}</p><p><strong>Source:</strong> ${m.source || m.credit || 'N/A'}</p><p><strong>Licence:</strong> ${m.licence || 'N/A'}</p></article>`).join('');
+})();
+</script>
+
+<footer class="static-footer">
+  <div class="logos">
+    <img src="../assets/img/logos/logo-republique.svg" alt="Logo République Française">
+    <img src="../assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+    <img src="../assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+  </div>
+  <p><strong>Conception pédagogique & intégration : Benoît Deflandre — 2026</strong></p>
+  <p>Zéro collecte de données personnelles — GitHub Pages</p>
+</footer>
+
+</body>
+</html>

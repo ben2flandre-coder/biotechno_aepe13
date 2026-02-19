@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:biais_decision; seq:S10 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S10 — schéma thématique (biais_decision) — Arbitrer sous pression parentale en micro-crèche privée</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Micro-crèche privée · Incident: pression parentale sur délais de désinfection</text>
+<text x="70" y="170" font-size="16">Biais décisionnels</text>
+<rect x="120" y="220" width="300" height="100" fill="#fee2e2"/><text x="140" y="275" font-size="14">Biais de routine</text>
+<rect x="460" y="220" width="300" height="100" fill="#fef3c7"/><text x="480" y="275" font-size="14">Biais de confirmation</text>
+<rect x="800" y="220" width="300" height="100" fill="#dbeafe"/><text x="820" y="275" font-size="14">Biais d’urgence</text>
+</svg>

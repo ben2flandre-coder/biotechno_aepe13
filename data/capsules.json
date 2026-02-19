@@ -1,0 +1,379 @@
+{
+  "capsules": [
+    {
+      "id": "C01",
+      "title": "Capsule S01 — Maîtriser le risque de chute et la logique de signalement",
+      "microTheme": "coefficient de friction sol/chaussure",
+      "frequentError": "confondre sol visuellement sec et coefficient d’adhérence suffisant",
+      "scienceDense": [
+        "La chute survient quand la force de cisaillement demandée par la foulée dépasse la force de friction disponible. La présence d’un film aqueux abaisse brutalement la friction, surtout sur revêtement lisse.",
+        "Variable critique: tension superficielle du film d’eau",
+        "Limite: Le protocole de séchage standard perd en efficacité quand hygrométrie > 75 %, car le temps de retour à un coefficient de friction acceptable s’allonge.",
+        "Contre-exemple: Un sol légèrement humide sur zone fermée peut être toléré si l’activité est déplacée et le périmètre interdit ; la non-fermeture de zone reste non conforme."
+      ],
+      "schemaId": "s01-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S01 ?",
+        "options": [
+          "coefficient de friction sol/chaussure",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « coefficient de friction sol/chaussure », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S01"
+    },
+    {
+      "id": "C02",
+      "title": "Capsule S02 — Prévenir les incompatibilités chimiques au poste de change",
+      "microTheme": "pH de la crème barrière",
+      "frequentError": "croire qu’un produit plus parfumé est plus sûr",
+      "scienceDense": [
+        "Le mélange crème grasse + désinfectant peut neutraliser l’activité biocide, modifier le pH et laisser un film occlusif qui retient la charge microbienne.",
+        "Variable critique: nature ionique du désinfectant",
+        "Limite: Chez peau lésée, la stratégie standard doit être ajustée avec avis infirmier, car le risque d’irritation dépasse le bénéfice d’une répétition biocide.",
+        "Contre-exemple: Une crème neutre compatible peut être appliquée après rinçage et séchage complet, jamais en co-application avec un biocide oxydant."
+      ],
+      "schemaId": "s02-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S02 ?",
+        "options": [
+          "pH de la crème barrière",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « pH de la crème barrière », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S02"
+    },
+    {
+      "id": "C03",
+      "title": "Capsule S03 — Sécuriser l’usage des EPI lors d’un atelier peinture",
+      "microTheme": "type de gants (nitrile/vinyle)",
+      "frequentError": "porter des gants trop longtemps sans changement",
+      "scienceDense": [
+        "La hiérarchie des protections impose d’abord suppression/substitution du danger, puis protection collective, puis individuelle. Un EPI mal choisi déplace le risque au lieu de le réduire.",
+        "Variable critique: perméabilité aux solvants des colorants",
+        "Limite: EPI ne compense jamais une ventilation défaillante durable ; la réduction du risque doit prioriser EPC (aération/captation).",
+        "Contre-exemple: Pour peinture aqueuse non irritante, lunettes et tablier peuvent suffire si contact cutané maîtrisé et lavage rigoureux."
+      ],
+      "schemaId": "s03-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S03 ?",
+        "options": [
+          "type de gants (nitrile/vinyle)",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « type de gants (nitrile/vinyle) », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S03"
+    },
+    {
+      "id": "C04",
+      "title": "Capsule S04 — Garantir la chaîne chaud/froid au coin repas",
+      "microTheme": "température cœur des plats",
+      "frequentError": "assimiler plat tiède à plat sûr",
+      "scienceDense": [
+        "La croissance bactérienne suit une cinétique exponentielle dans la zone de danger thermique ; chaque minute hors plage sûre augmente la charge viable.",
+        "Variable critique: durée d’exposition en zone tampon",
+        "Limite: Sans thermomètre étalonné, l’évaluation sensorielle est non recevable en audit EP3.",
+        "Contre-exemple: Un plat brièvement à 58°C peut rester acceptable si délai < 15 min et remise en température validée traçable."
+      ],
+      "schemaId": "s04-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S04 ?",
+        "options": [
+          "température cœur des plats",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « température cœur des plats », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S04"
+    },
+    {
+      "id": "C05",
+      "title": "Capsule S05 — Organiser un circuit linge propre/sale robuste",
+      "microTheme": "charge organique du linge",
+      "frequentError": "poser du linge sale sur chariot propre",
+      "scienceDense": [
+        "L’inversion propre/sale crée des recontaminations croisées ; le lavage ne corrige pas totalement une contamination massive initiale.",
+        "Variable critique: température de lavage effective",
+        "Limite: Si la laverie n’atteint pas la température cible, le protocole standard perd son efficacité microbiologique.",
+        "Contre-exemple: En urgence, un tri minimal peut être acceptable si sacs fermés, étiquetés et transport direct sans rupture de flux."
+      ],
+      "schemaId": "s05-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S05 ?",
+        "options": [
+          "charge organique du linge",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « charge organique du linge », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S05"
+    },
+    {
+      "id": "C06",
+      "title": "Capsule S06 — Assainir un bac à sable contaminé sans fermer l’accueil",
+      "microTheme": "humidité du sable",
+      "frequentError": "croire que soleil seul désinfecte",
+      "scienceDense": [
+        "La contamination fécale du sable persiste en profondeur ; l’humidité protège les micro-organismes et favorise leur survie.",
+        "Variable critique: densité de fréquentation animale",
+        "Limite: Après fortes pluies, les résultats visuels ne préjugent pas de la charge microbienne réelle.",
+        "Contre-exemple: Une fermeture temporaire partielle peut suffire si zone contaminée circonscrite, prélèvement rassurant et protocole de surveillance renforcé."
+      ],
+      "schemaId": "s06-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S06 ?",
+        "options": [
+          "humidité du sable",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « humidité du sable », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S06"
+    },
+    {
+      "id": "C07",
+      "title": "Capsule S07 — Tracer et isoler le linge mal identifié en période sieste",
+      "microTheme": "taux d’identification textile",
+      "frequentError": "écrire au feutre effaçable sur textile",
+      "scienceDense": [
+        "Le linge mal identifié augmente les manipulations et favorise la contamination croisée via transferts mains-textile-surfaces.",
+        "Variable critique: temps entre change et collecte",
+        "Limite: La traçabilité papier seule devient fragile en rotation élevée sans double vérification.",
+        "Contre-exemple: En absence d’étiquette, une photo horodatée + sac nominatif temporaire peut sécuriser la traçabilité en attendant marquage durable."
+      ],
+      "schemaId": "s07-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S07 ?",
+        "options": [
+          "taux d’identification textile",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « taux d’identification textile », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S07"
+    },
+    {
+      "id": "C08",
+      "title": "Capsule S08 — Mettre en conformité le stockage produits au bureau direction",
+      "microTheme": "compatibilité de stockage chimique",
+      "frequentError": "stocker désinfectant près d’archives",
+      "scienceDense": [
+        "Le risque chimique combine exposition, incompatibilité et erreur humaine ; l’organisation spatiale est un levier majeur de réduction du danger.",
+        "Variable critique: ventilation de l’armoire",
+        "Limite: Les locaux exigus rendent la conformité fragile si aucune revue mensuelle du stock n’est conduite.",
+        "Contre-exemple: Un stockage provisoire en bureau peut être toléré uniquement si armoire verrouillée ventilée et séparation stricte des dossiers."
+      ],
+      "schemaId": "s08-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S08 ?",
+        "options": [
+          "compatibilité de stockage chimique",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « compatibilité de stockage chimique », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S08"
+    },
+    {
+      "id": "C09",
+      "title": "Capsule S09 — Corriger une dilution incorrecte en réserve",
+      "microTheme": "concentration cible",
+      "frequentError": "surdoser pour aller plus vite",
+      "scienceDense": [
+        "Selon la loi d’action de masse, l’efficacité varie avec la concentration active ; la relation n’est pas linéaire et peut décroître si surdosage génère résidus.",
+        "Variable critique: volume d’eau",
+        "Limite: La formule fabricant n’est valide que pour eau dans la plage de dureté recommandée.",
+        "Contre-exemple: Un sous-dosage mineur peut être corrigé immédiatement si la surface n’a pas encore été traitée et la traçabilité rectifiée."
+      ],
+      "schemaId": "s09-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S09 ?",
+        "options": [
+          "concentration cible",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « concentration cible », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S09"
+    },
+    {
+      "id": "C10",
+      "title": "Capsule S10 — Arbitrer sous pression parentale en micro-crèche privée",
+      "microTheme": "délai de remise en service",
+      "frequentError": "céder à l’urgence relationnelle au détriment du protocole",
+      "scienceDense": [
+        "La pression sociale modifie la décision professionnelle via biais de conformité ; sans garde-fou protocolaire, le risque sanitaire augmente.",
+        "Variable critique: tolérance parentale perçue",
+        "Limite: La communication seule ne compense pas une organisation sous-dotée chronique.",
+        "Contre-exemple: Informer d’un délai réaliste + proposer activité alternative maintient la relation parentale sans abaisser le niveau sanitaire."
+      ],
+      "schemaId": "s10-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S10 ?",
+        "options": [
+          "délai de remise en service",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « délai de remise en service », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S10"
+    },
+    {
+      "id": "C11",
+      "title": "Capsule S11 — Gérer la cohabitation des risques en accueil multi-âge",
+      "microTheme": "écart d’âge des enfants",
+      "frequentError": "appliquer le même protocole à tous âges",
+      "scienceDense": [
+        "La cohabitation multiplie les interfaces de transmission ; la maîtrise dépend de la segmentation des flux et de l’homogénéité des gestes d’équipe.",
+        "Variable critique: partage du matériel",
+        "Limite: En pic d’occupation, le zonage théorique peut devenir inapplicable sans renfort personnel.",
+        "Contre-exemple: La mutualisation d’un espace peut rester sûre avec circuits temporels séparés et matériel différencié par couleur."
+      ],
+      "schemaId": "s11-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S11 ?",
+        "options": [
+          "écart d’âge des enfants",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « écart d’âge des enfants », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S11"
+    },
+    {
+      "id": "C12",
+      "title": "Capsule S12 — Réduire les ruptures de protocole en halte-garderie",
+      "microTheme": "temps d’entre-deux usagers",
+      "frequentError": "écourter nettoyage pour réduire file d’attente",
+      "scienceDense": [
+        "La rotation rapide augmente le risque d’omissions ; la fiabilité dépend d’une standardisation courte mais stricte des étapes.",
+        "Variable critique: densité d’objets manipulés",
+        "Limite: Le protocole minute devient non pertinent si la charge organique est élevée (vomissement, souillure importante).",
+        "Contre-exemple: Une file d’attente peut être absorbée par ouverture d’un atelier calme pendant le cycle de remise en état."
+      ],
+      "schemaId": "s12-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S12 ?",
+        "options": [
+          "temps d’entre-deux usagers",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « temps d’entre-deux usagers », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S12"
+    },
+    {
+      "id": "C13",
+      "title": "Capsule S13 — Formaliser un protocole écrit au domicile d’assistante maternelle",
+      "microTheme": "degré de formalisation écrite",
+      "frequentError": "fonctionner uniquement à la mémoire",
+      "scienceDense": [
+        "L’absence d’écrit augmente la variabilité intra-opérateur et diminue la reproductibilité des gestes critiques.",
+        "Variable critique: compréhension parentale des consignes",
+        "Limite: Sans accompagnement, la formalisation initiale peut dériver vers des écarts non détectés.",
+        "Contre-exemple: Un protocole bref d’une page peut suffire s’il est revu mensuellement et appliqué systématiquement."
+      ],
+      "schemaId": "s13-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S13 ?",
+        "options": [
+          "degré de formalisation écrite",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « degré de formalisation écrite », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S13"
+    },
+    {
+      "id": "C14",
+      "title": "Capsule S14 — Compléter la trousse hygiène en sortie extérieure",
+      "microTheme": "contenu de la trousse",
+      "frequentError": "partir avec une trousse non vérifiée",
+      "scienceDense": [
+        "En mobilité, le risque augmente avec la distance aux ressources ; la préparation matérielle conditionne la capacité de réponse immédiate.",
+        "Variable critique: distance au point d’hygiène",
+        "Limite: Les aléas météo peuvent invalider un protocole pensé pour conditions stables.",
+        "Contre-exemple: Une trousse allégée est possible pour sortie très courte si plan de repli proche et point d’eau garanti."
+      ],
+      "schemaId": "s14-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S14 ?",
+        "options": [
+          "contenu de la trousse",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « contenu de la trousse », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S14"
+    },
+    {
+      "id": "C15",
+      "title": "Capsule S15 — Désinfecter le matériel d’atelier psychomoteur",
+      "microTheme": "porosité des matériaux psychomoteurs",
+      "frequentError": "désinfecter sans nettoyage préalable",
+      "scienceDense": [
+        "Le biofilm et les microfissures protègent les micro-organismes ; l’efficacité dépend de la séquence nettoyage puis désinfection puis séchage.",
+        "Variable critique: temps de contact biocide",
+        "Limite: Les mousses fissurées rendent la désinfection non fiable ; remplacement nécessaire.",
+        "Contre-exemple: Le matériel non poreux peut être remis en service rapidement si cycle complet nettoyage-désinfection-séchage est respecté."
+      ],
+      "schemaId": "s15-schema-1",
+      "miniQCU": {
+        "q": "Quel indicateur doit être vérifié en priorité pour S15 ?",
+        "options": [
+          "porosité des matériaux psychomoteurs",
+          "Ressenti visuel",
+          "Habitude de l’équipe",
+          "Préférence parentale"
+        ],
+        "answer": 0,
+        "correction": "Le bon choix est l’indicateur objectif « porosité des matériaux psychomoteurs », car il relie le mécanisme au contrôle opérationnel."
+      },
+      "sequenceLink": "S15"
+    }
+  ]
+}

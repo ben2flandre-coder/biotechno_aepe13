@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="960" height="560" fill="#f8fbff"/>
+<rect x="30" y="24" width="900" height="70" rx="12" fill="#164e63"/>
+<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S01 — Erreur : Maîtriser le risque de chute et la logique de signalement</text>
+<rect x="40" y="120" width="270" height="170" rx="12" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="58" y="152" font-size="18" fill="#0f172a" font-family="Arial">Contexte</text>
+<text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Salle motricité</text>
+<text x="58" y="210" font-size="15" fill="#0f172a" font-family="Arial">Incident: chute liée à un sol humide</text>
+<rect x="345" y="120" width="270" height="170" rx="12" fill="#ecfccb" stroke="#65a30d"/>
+<text x="363" y="152" font-size="18" fill="#0f172a" font-family="Arial">Analyse</text>
+<text x="363" y="182" font-size="14" fill="#0f172a" font-family="Arial">Variables: coefficient de friction sol/</text>
+<text x="363" y="206" font-size="14" fill="#0f172a" font-family="Arial">tension superficielle du film d’ea</text>
+<rect x="650" y="120" width="270" height="170" rx="12" fill="#fee2e2" stroke="#dc2626"/>
+<text x="668" y="152" font-size="18" fill="#0f172a" font-family="Arial">Décision / preuve</text>
+<text x="668" y="182" font-size="14" fill="#0f172a" font-family="Arial">Option B prioritaire</text>
+<text x="668" y="206" font-size="14" fill="#0f172a" font-family="Arial">Trace EP3 obligatoire</text>
+<line x1="310" y1="205" x2="345" y2="205" stroke="#334155" stroke-width="3"/>
+<line x1="615" y1="205" x2="650" y2="205" stroke="#334155" stroke-width="3"/>
+<rect x="40" y="320" width="880" height="190" rx="12" fill="#ffffff" stroke="#94a3b8"/>
+<text x="58" y="352" font-size="18" fill="#0f172a" font-family="Arial">Message pédagogique clé</text>
+<text x="58" y="382" font-size="15" fill="#0f172a" font-family="Arial">La chute survient quand la force de cisaillement demandée par la foulée dépasse la force de friction disponible. La prés</text>
+<text x="58" y="412" font-size="15" fill="#0f172a" font-family="Arial">Erreur à éviter: confondre sol visuellement sec et coefficient d’adhérence suffisant</text>
+<text x="58" y="442" font-size="15" fill="#0f172a" font-family="Arial">Limite: Le protocole de séchage standard perd en efficacité quand hygrométrie > 75 %, car le temps de retour à un coef</text>
+</svg>

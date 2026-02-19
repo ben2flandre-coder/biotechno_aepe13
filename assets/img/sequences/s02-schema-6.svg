@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:boucle_qualite; seq:S02 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S02 — schéma thématique (boucle_qualite) — Prévenir les incompatibilités chimiques au poste de change</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Espace change · Incident: mélange produit désinfectant/crème</text>
+<text x="70" y="170" font-size="16">Matrice Gravité / Probabilité</text>
+<rect x="120" y="220" width="360" height="260" fill="#fff" stroke="#0f172a"/>
+<line x1="240" y1="220" x2="240" y2="480" stroke="#94a3b8"/><line x1="360" y1="220" x2="360" y2="480" stroke="#94a3b8"/>
+<line x1="120" y1="306" x2="480" y2="306" stroke="#94a3b8"/><line x1="120" y1="392" x2="480" y2="392" stroke="#94a3b8"/>
+<text x="520" y="260" font-size="15">Zone rouge: traitement immédiat</text><text x="520" y="295" font-size="15">Zone orange: stabilisation</text><text x="520" y="330" font-size="15">Zone verte: suivi</text>
+<circle cx="410" cy="250" r="14" fill="#dc2626"/><text x="430" y="255" font-size="14">{inc}</text>
+</svg>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Diagnostic compétences — CAP AEPE</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body data-base="./" data-page="diagnostic.html">
+
+<header class="site-header static-header">
+  <div class="topbar">
+    <div class="brand">
+      <h1>Biotechnologie — CAP AEPE</h1>
+      <p>Bloc 1 / EP3 · Plateforme de formation adulte/pro</p>
+    </div>
+    <div class="logos">
+      <img src="./assets/img/logos/logo-republique.svg" alt="Logo République Française">
+      <img src="./assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+      <img src="./assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+    </div>
+  </div>
+</header>
+<main>
+  <section class="card">
+    <h2>Diagnostic compétences (Likert)</h2>
+    <p>Échelle : Jamais / Rarement / Souvent / Toujours.</p>
+    <div class="toolbar">
+      <button id="reloadDiag" class="btn">Recharger items</button>
+      <button id="calcDiag" class="btn secondary">Calculer score</button>
+      <button id="exportDiag" class="btn secondary">Exporter JSON</button>
+      <button id="printDiag" class="btn secondary">Imprimer</button>
+    </div>
+    <div id="diagZone"></div>
+  </section>
+  <section class="card" id="diagResult"></section>
+
+<section class="card" id="fallbackDiagnostic"><h3>Fallback diagnostic (sans JS)</h3><p><strong>Échelle Likert :</strong> 1 Jamais · 2 Rarement · 3 Souvent · 4 Toujours</p><ol>
+<li>Je prépare le matériel avant tout soin (1-4).</li><li>Je respecte le protocole d’hygiène des mains (1-4).</li><li>Je distingue circuit propre/sale en continu (1-4).</li><li>Je vérifie la dilution et le temps de contact produit (1-4).</li><li>Je trace les actions critiques immédiatement (1-4).</li><li>Je sécurise la zone avant reprise d’activité (1-4).</li><li>Je transmets les informations utiles à l’équipe (1-4).</li><li>J’identifie un risque prioritaire et j’arbitre (1-4).</li><li>Je contrôle l’efficacité avant clôture (1-4).</li><li>Je fournis une preuve EP3 exploitable (1-4).</li></ol>
+<p><strong>Exemple de restitution attendue :</strong> Hygiène 62% (consolidation), Sécurité 48% (priorité), Qualité 71% (maintien). Recommandation : séquences S02/S06 + notions N03/N09.</p></section>
+
+</main>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/loaders.js"></script>
+<script src="assets/js/diagnostic.js"></script>
+
+<footer class="static-footer">
+  <div class="logos">
+    <img src="./assets/img/logos/logo-republique.svg" alt="Logo République Française">
+    <img src="./assets/img/logos/logo-greta-var.svg" alt="Logo GRETA du Var">
+    <img src="./assets/img/logos/logo-academie-nice.svg" alt="Logo Académie de Nice">
+  </div>
+  <p><strong>Conception pédagogique & intégration : Benoît Deflandre — 2026</strong></p>
+  <p>Zéro collecte de données personnelles — GitHub Pages</p>
+</footer>
+
+</body>
+</html>

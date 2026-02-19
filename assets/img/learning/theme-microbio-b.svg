@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="960" height="560" fill="#f8fafc"/>
+<rect x="30" y="24" width="900" height="64" rx="12" fill="#0f766e"/>
+<text x="52" y="63" fill="#fff" font-size="26" font-family="Arial">Thème microbio — schéma B</text>
+<rect x="50" y="120" width="260" height="150" rx="12" fill="#dbeafe"/>
+<rect x="350" y="120" width="260" height="150" rx="12" fill="#dcfce7"/>
+<rect x="650" y="120" width="260" height="150" rx="12" fill="#fee2e2"/>
+<text x="66" y="160" font-size="16" font-family="Arial">Analyse</text>
+<text x="366" y="160" font-size="16" font-family="Arial">Décision</text>
+<text x="666" y="160" font-size="16" font-family="Arial">Preuve</text>
+<rect x="50" y="300" width="860" height="220" rx="12" fill="#fff" stroke="#94a3b8"/>
+<text x="66" y="340" font-size="16" font-family="Arial">Comparatif décisionnel microbio: option conservatrice / option équilibrée / option risquée.</text>
+<text x="66" y="370" font-size="14" font-family="Arial">Variables à contrôler, limites d’application, erreurs d’interprétation fréquentes.</text>
+</svg>

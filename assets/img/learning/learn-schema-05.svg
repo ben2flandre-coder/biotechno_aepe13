@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="960" height="540" fill="#f8fafc"/>
+<rect x="30" y="24" width="900" height="70" rx="12" fill="#0f766e"/>
+<text x="50" y="68" fill="#fff" font-size="28" font-family="Arial">Schéma pédagogique 05 — CAP AEPE</text>
+<rect x="40" y="120" width="260" height="140" rx="12" fill="#cffafe" stroke="#0e7490"/>
+<text x="56" y="156" font-size="18" font-family="Arial">1) Risque identifié</text>
+<text x="56" y="186" font-size="14" font-family="Arial">Observation terrain</text>
+<rect x="350" y="120" width="260" height="140" rx="12" fill="#dcfce7" stroke="#16a34a"/>
+<text x="366" y="156" font-size="18" font-family="Arial">2) Décision</text>
+<text x="366" y="186" font-size="14" font-family="Arial">Option la plus sûre</text>
+<rect x="660" y="120" width="260" height="140" rx="12" fill="#fee2e2" stroke="#dc2626"/>
+<text x="676" y="156" font-size="18" font-family="Arial">3) Preuve EP3</text>
+<text x="676" y="186" font-size="14" font-family="Arial">Traçabilité + contrôle</text>
+<line x1="300" y1="190" x2="350" y2="190" stroke="#334155" stroke-width="3"/>
+<line x1="610" y1="190" x2="660" y2="190" stroke="#334155" stroke-width="3"/>
+<rect x="40" y="300" width="880" height="200" rx="12" fill="#fff" stroke="#94a3b8"/>
+<text x="58" y="340" font-size="18" font-family="Arial">Utilisation pédagogique:</text>
+<text x="58" y="370" font-size="14" font-family="Arial">- lancer un débat professionnel</text>
+<text x="58" y="398" font-size="14" font-family="Arial">- justifier un arbitrage terrain</text>
+<text x="58" y="426" font-size="14" font-family="Arial">- relier action et référentiel CAP AEPE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:protocole_seq; seq:S14 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S14 — schéma thématique (protocole_seq) — Compléter la trousse hygiène en sortie extérieure</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Sortie extérieure · Incident: trousse hygiène incomplète</text>
+<text x="70" y="170" font-size="16">Protocole séquentiel</text>
+<text x="90" y="230" font-size="14">1. Préparer</text><text x="90" y="270" font-size="14">2. Sécuriser</text><text x="90" y="310" font-size="14">3. Traiter</text><text x="90" y="350" font-size="14">4. Vérifier</text><text x="90" y="390" font-size="14">5. Tracer</text>
+<polyline points="250,225 520,225 520,385 760,385" fill="none" stroke="#0284c7" stroke-width="6"/>
+</svg>

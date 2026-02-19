@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8fafc"/>
+  <text x="24" y="36" font-size="24" font-family="Arial" fill="#0f172a">Flore microbienne : utile vs opportuniste</text>
+  <rect x="40" y="80" width="260" height="220" rx="16" fill="#dcfce7"/>
+  <text x="60" y="112" font-size="18" font-family="Arial">Flore utile</text>
+  <text x="60" y="142" font-size="14" font-family="Arial">• Compétition avec pathogènes</text>
+  <text x="60" y="166" font-size="14" font-family="Arial">• Protection de la peau</text>
+  <rect x="340" y="80" width="260" height="220" rx="16" fill="#fee2e2"/>
+  <text x="360" y="112" font-size="18" font-family="Arial">Flore opportuniste</text>
+  <text x="360" y="142" font-size="14" font-family="Arial">• Risque si immunité faible</text>
+  <text x="360" y="166" font-size="14" font-family="Arial">• Surveillance hygiène requise</text>
+</svg>

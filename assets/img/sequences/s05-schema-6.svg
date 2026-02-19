@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:cartographie; seq:S05 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S05 — schéma thématique (cartographie) — Organiser un circuit linge propre/sale robuste</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Lingerie · Incident: circuit propre/sale inversé</text>
+<text x="70" y="170" font-size="16">Boucle qualité PDCA</text>
+<circle cx="520" cy="320" r="150" fill="#f8fafc" stroke="#0ea5e9" stroke-width="8"/>
+<text x="500" y="210" font-size="16">Plan</text><text x="620" y="320" font-size="16">Do</text><text x="500" y="440" font-size="16">Check</text><text x="360" y="320" font-size="16">Act</text>
+</svg>

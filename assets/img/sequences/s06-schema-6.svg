@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<!-- model:barriere_epi; seq:S06 -->
+<rect width="1180" height="620" fill="#f8fafc"/>
+<rect x="25" y="20" width="1130" height="70" rx="12" fill="#1e3a8a"/>
+<text x="45" y="64" fill="#fff" font-size="27" font-family="Arial">S06 — schéma thématique (barriere_epi) — Assainir un bac à sable contaminé sans fermer l’accueil</text>
+<text x="45" y="108" fill="#0f172a" font-size="15" font-family="Arial">Lieu: Extérieur · Incident: bac à sable contaminé</text>
+<text x="70" y="170" font-size="16">Hiérarchisation des priorités</text>
+<polygon points="520,200 300,500 740,500" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="500" y="250" font-size="14">Priorité 1</text><text x="470" y="340" font-size="14">Priorité 2</text><text x="430" y="430" font-size="14">Priorité 3</text>
+</svg>

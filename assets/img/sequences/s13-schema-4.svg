@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="960" height="560" fill="#f8fbff"/>
+<rect x="30" y="24" width="900" height="70" rx="12" fill="#164e63"/>
+<text x="50" y="67" font-size="26" fill="#fff" font-family="Arial">S13 — Erreur : Formaliser un protocole écrit au domicile d’assistante maternelle</text>
+<rect x="40" y="120" width="270" height="170" rx="12" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="58" y="152" font-size="18" fill="#0f172a" font-family="Arial">Contexte</text>
+<text x="58" y="182" font-size="15" fill="#0f172a" font-family="Arial">Lieu: Domicile assistante maternelle</text>
+<text x="58" y="210" font-size="15" fill="#0f172a" font-family="Arial">Incident: absence de protocole écrit</text>
+<rect x="345" y="120" width="270" height="170" rx="12" fill="#ecfccb" stroke="#65a30d"/>
+<text x="363" y="152" font-size="18" fill="#0f172a" font-family="Arial">Analyse</text>
+<text x="363" y="182" font-size="14" fill="#0f172a" font-family="Arial">Variables: degré de formalisation écrit</text>
+<text x="363" y="206" font-size="14" fill="#0f172a" font-family="Arial">compréhension parentale des consig</text>
+<rect x="650" y="120" width="270" height="170" rx="12" fill="#fee2e2" stroke="#dc2626"/>
+<text x="668" y="152" font-size="18" fill="#0f172a" font-family="Arial">Décision / preuve</text>
+<text x="668" y="182" font-size="14" fill="#0f172a" font-family="Arial">Option B prioritaire</text>
+<text x="668" y="206" font-size="14" fill="#0f172a" font-family="Arial">Trace EP3 obligatoire</text>
+<line x1="310" y1="205" x2="345" y2="205" stroke="#334155" stroke-width="3"/>
+<line x1="615" y1="205" x2="650" y2="205" stroke="#334155" stroke-width="3"/>
+<rect x="40" y="320" width="880" height="190" rx="12" fill="#ffffff" stroke="#94a3b8"/>
+<text x="58" y="352" font-size="18" fill="#0f172a" font-family="Arial">Message pédagogique clé</text>
+<text x="58" y="382" font-size="15" fill="#0f172a" font-family="Arial">L’absence d’écrit augmente la variabilité intra-opérateur et diminue la reproductibilité des gestes critiques.</text>
+<text x="58" y="412" font-size="15" fill="#0f172a" font-family="Arial">Erreur à éviter: fonctionner uniquement à la mémoire</text>
+<text x="58" y="442" font-size="15" fill="#0f172a" font-family="Arial">Limite: Sans accompagnement, la formalisation initiale peut dériver vers des écarts non détectés.</text>
+</svg>
